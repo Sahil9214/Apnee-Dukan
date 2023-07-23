@@ -1,0 +1,15 @@
+.swiper3Image {
+  width: 800px;
+  height: 600px;
+  margin: auto;
+
+}
+.swiper3Heading {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 32px;
+}
+.swiper3ImageSmall {
+  width: 300px;
+  height: 300px;
+}

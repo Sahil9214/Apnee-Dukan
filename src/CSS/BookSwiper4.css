@@ -1,0 +1,26 @@
+.BooksSwiperHeading {
+  font-size: 32px;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: 700;
+}
+.Booksswiper4Image {
+  width: 500px;
+  height: 400px;
+  position: relative;
+  z-index: 2;
+  border-radius: 5px;
+  transition: opacity 0.5s ease-in-out;
+}
+.quote {
+  font-size: 30px;
+  font-style: italic;
+  font-family: sans-serif;
+  line-gap-override: 90%;
+}
+.BookSwiper4Flex {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+}

@@ -1,0 +1,21 @@
+.mengridImage {
+  width: 300px;
+  height: 300px;
+  display: grid;
+  border-radius: 5px;
+  z-index: 1;
+}
+.menGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+.main_women_women_grid_box {
+  width: 90%;
+  margin: auto;
+}
+.heading {
+  font-size: 32px;
+  font-family: sans-serif;
+  font-style: italic;
+}

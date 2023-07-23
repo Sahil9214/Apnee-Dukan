@@ -1,0 +1,17 @@
+.swiper2Name {
+  font-size: 22px;
+  font-family: sans-serif;
+}
+.swiper2Price {
+  font-size: 21px;
+  font-weight: 700;
+}
+.swiper2Description {
+  font-weight: 500;
+  font-size: 20px;
+}
+.swiper2MainHeading {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 32px;
+}
