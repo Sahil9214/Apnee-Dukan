@@ -1,8 +1,11 @@
 import React from 'react'
+import Grocery1 from '../Components/Grocery/Grocery1'
 
 const Grocery = () => {
   return (
-    <div>Grocery</div>
+    <div>
+      <Grocery1/>
+    </div>
   )
 }
 

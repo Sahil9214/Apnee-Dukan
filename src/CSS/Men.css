@@ -1,0 +1,54 @@
+.ReadmMe {
+  position: relative;
+  transform: translateZ(50px);
+  transition: transform 0.3s ease;
+}
+.trending_today_Image {
+  width: 100%;
+}
+.mainMenDataFetch {
+  display: flex;
+}
+.menData {
+  width: 70%;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+.menSort {
+  width: 28%;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.menDataSort {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+.menData1 {
+  display: flex;
+  justify-content: space-around;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  margin: auto;
+}
+.menData2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+.menHeadingResult {
+  font-size: 32px;
+  letter-spacing: 1.2px;
+  font-weight: 800;
+}
+.menData1Sort {
+  display: flex;
+  justify-content: space-around;
+}
+.filterHeadingMen {
+  font-size: 32px;
+  font-family: sans-serif;
+  letter-spacing: 1.2px;
+  font-weight: 800;
+  text-align: left;
+}

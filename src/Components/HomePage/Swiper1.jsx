@@ -31,7 +31,7 @@ export default function Swiper1() {
             src={desktop}
             alt="desktop"
             height={"500px"}
-            width={"90%"}
+            width={"100%"}
             margin={"auto"}
           />
         </SwiperSlide>

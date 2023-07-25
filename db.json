@@ -6,7 +6,7 @@
       "qty": 5,
       "price": 500,
       "description": "Premium Basmati Rice",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7nf03uVbg3BCmkZdFlT-eI4bAhNgNDzrmg&usqp=CAU"
+      "image": "https://m.media-amazon.com/images/I/71-ZdHBTdiL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "qty": 2,
       "price": 120,
       "description": "Freshly Milled Wheat Flour",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ZmDi4vThFherwP4FpEm6RRwbcNjwfjsHag&usqp=CAU"
+      "image": "https://m.media-amazon.com/images/I/618GH1zvSRL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "qty": 1,
       "price": 60,
       "description": "Fresh Cow's Milk",
-      "image": "https://plus.unsplash.com/premium_photo-1668046135191-bc97c1ba0a76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWlsayUyMHBhY2tldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      "image": "https://m.media-amazon.com/images/I/81mDXl2EJnL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "qty": 12,
       "price": 48,
       "description": "Farm Fresh Eggs",
-      "image": "https://images.unsplash.com/photo-1585507252242-11fe632c26e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8RWdnc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      "image": "https://m.media-amazon.com/images/I/71M9GocseaL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "qty": 1,
       "price": 250,
       "description": "Tender Chicken",
-      "image": "https://img.freepik.com/free-psd/fried-chicken-package-flyer-template_23-2148646370.jpg?w=360"
+      "image": "https://m.media-amazon.com/images/I/81TmIhmPXeL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "qty": 2,
       "price": 80,
       "description": "Fresh Potatoes",
-      "image": "https://m.media-amazon.com/images/I/71zbm2YehpL.jpg"
+      "image": "https://m.media-amazon.com/images/I/71AuTPJ0veL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "qty": 1,
       "price": 40,
       "description": "Sweet Onions",
-      "image": "https://img.freepik.com/premium-vector/realistic-onion-flavored-potato-chips-snack-food-package-vector-3d-falling-chips-with-green-bag-chopped-spring-onion-stars-bokeh-lights-junk-food-crunchy-crisps-mockup_8071-10218.jpg?w=2000"
+      "image": "https://m.media-amazon.com/images/I/71FOGcA7TnL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "qty": 1,
       "price": 60,
       "description": "Juicy Tomatoes",
-      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUTExIVFRUWFxYXGBgXFRgYFxYYFxYXFxUVGBcYHSggGB0lGxUXIjEiJSkrMC4uFx8zODMtNygtLisBCgoKDg0OGxAQGy8lICUrLS0tLS0vLS0tLS0tLS0tLS8wLS0tLi0tLS0tLS0tLS0tLS0vLS0tLS0tLS0tLS0tLf/AABEIALcBEwMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABAYCAwUBB//EAEkQAAEDAgMEBgYFCgQFBQAAAAEAAhEDIQQSMQVBUWEGEyJxgZEyQqGxwdEUUoLh8BUjYnKDkpOi0vEzssPTBzSzxOIkQ1NjZP/EABoBAQADAQEBAAAAAAAAAAAAAAABAgQFAwb/xAA1EQABAwIEAggGAAcBAAAAAAABAAIRAyEEEjFBUWEFEyJxgaGx8BQyQpHB0RUjUmKC4fFy/9oADAMBAAIRAxEAPwD7iiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiLwlEXqLRUq8F7HNEW5FzK21KLC5rq9NpaQHBz2ggkAgEHiCD4rbhsbTqf4dVj/ANVzT7lEhRmGinItMu/H9klylStyKOKp/AK864/gFFEqSi0hzjwXmZ34CKVvRaMzvwE7XLyRFvRRy9ydaVEopCLRndyVY21tfEDEdRR9IgAQBqRmJM7gPchdCo94YJKtyKvjDY0D/mKbzwdQLR+810x4KP8Al99IE4ikQ0EtNSmc7JaYgzBbe19UlM8aiPfKVaEXLobUa9jXtJdmEgBpzRJEkbtDrCk0sUHaHTUGQR3g3CSrSFLRaQ4nQry/H8eSlSt68lar8fx5LFrgYIdI4i48wiLfK9WsDmsHOjeiLei1sfK2IiIiIiIiIiIiIi8WmubRxstxUWu+48fgPiigrNjY+J4qrdO9qPpspMY80xUqhjnw4RO8OjQXJg7uEru7SrObTJaSLtBcBmLWlwDnAQZhs7jGpsCvkH/Evawq4kllXPTADQAewQGgkt3O7Wae8KjuCz4mpkpn/nP8K91Oj+Do42kHUmOFSjUJNYCoM9B9IAh1SQwltU+jHoKXtfYOExImiaLKwu17Mokjc8N9IHTluXyqlturXdTfVe52RuVpcTIDrGw/UbfvK34vGvAs6OYWSpim0zlLdffcujg8DSxtJ2Vw5jfa5H/om++xmy+hdEtril1lLE1W03B0DMQBmEteATzAVvo4hj7se136rg73L4zs+q2pWbUrjOIaXA3zSzLvsePCRe1lctp9EqBp9Zh2EuIJbD3Ai0gsAIaTPquF9AWr3pPJFo9/dc9jarA5sCGuc0GTfKYOx3V3gcPYvSAdwXy522MRhW08VRxHW4dw/OUK9T8+w6VGEZeyWGx0IIuCmD6aNp4qvUGYNqspxTebNLTUc91rTLyCRua29lbrQNVfrO0GutOk6HmDpt3zbUifo+zq4IcNCx7mO7xdpPMsLHfaUuea+Z4DplUDqjg2n+deHuHatDGUwBf6tMeatGyOldOqQ14yOOl5afHcqsxFNxgFbn4LEU25nN98xqFZAV6XLTnXhevdZZC3mOC8gcFVdu9L6dEmnTIL41OngB6SqeI6XYg9rrSBMAC0+X4uO9Z34ljHZd1pZhnOpmoSA0ayd+ECTJ2GpK+jbZ2vSwtPPUO+GNF31HHRjG+s4qodF9qGvtB7nsLHw/skEFpblEGYM5Z3c1xdlbeIxAr4gitUADWZtKLT6WWLBx3uidV18dtGmdpYPE03WqB1Nw4H0O1/FZ+4oFZr9DusmKw9allqPEDMLd5i/A309i9Yk1P/AGy2b2dv4Cd3fBid+iq7dv4YipRqmGVjUsRJbIiox4aLODxVbaYLebZndK9vjCUpkZ3ejO7mvj+0ccXlz4Ls5lx/S3u9gmOBStXFMgbrUzCValM1GiQNoJJ7oBN9NDrMGFb+h3ShlB9ehVJcxjhkI1cJILt31WmP0ndxtGB6TUKldzrsYGhgJ9c5iSSBMATafrHRfFMFQl2btA+lp75ue9dmlXqASdZOmnIc7LPUxgp2BBV+jOjcRiD/ADGOY0TE2JvYXg200ExIML7xRrNcA5rg4HQgyCtkr5B0d6WOoVADOQ6jcfv5r6vhsS2o1r2mWuAIPIrVQrtqiQmLwj8M6HaHQqRK5mOwoc7LSmm8t7T22AboA5ujydBvADiCIvKxeOp0m5qjw0c9/IDUqi47pU01hkc4FlfPrDX0TTAILdxBaB5nevRz2jVZSDlzbcdvvp74q29HNqGs2oyo0MrUHmlVa27ZABY9n6LmkEcLjcuueKpfRPbNKpi8W8EN600XAE65WZAJ0mAFY8XtvD0yWmq0vF8jJqVP4dMF/sVgQVRrpbm7/GDCl1BBkeI796ktXGZtVz9MLiMptmc2mzX9F9QP/lldTDVcwBgjvBHvSVYLeiIpUoiIiIiLwoixeVBxb4bJ3loHeXKXVK5WMdLmt4Fzh9mmR73hQUXF6a7ZNGhlaYdUt3NET5zHmvmbqQfdwn5q0/8AEdxPVngL94cQVWsJVGXVcjHOcXxK+j6KpsFHNEk6rbg9kvc2WssOXxUepQcSGwYmPgNVZcP0gbTokAW+t7yuJhtoML4qjs6lgNyd0uHuXgGNEEO11n357K9eu57ixrJe27YMZeBJ0AP9MHN/SWgkR8VZpI07DQeMNIPuVh6L9NW0qFVtXWmMzGzd8kNDR4kd1yq/iarDIbZpzWknd2R7YVbxFAtrAnSD3ahaqb3NOdukegXMwVJj2PwtcjrGvJMb5iH5hyOaORHcT19pk4mpUrwA55l1rTG4iCN3Kyj4bBPAblmB6sZhE6Aza5Ck4WvaNytWy8dSZSILQTB3b7R8fJZutqOJaXQF1DgMJTc2sKQLgWxBIvIym1pB3ifCQuLTwj5AGp3LLEtqUT2gQungcY0PzHisOk+0W1soA0Xk1jcuYG63OqOzhmWytXQ7pGKzOrc6XtFuMcFzumPSknNQouuJDiDF97cw07+KoDNoOw1VlZmrXCRxBsR7VuwzJuTJ3k6niStlTFv6kAarnU+jaXxDnH5YsOZmftt38r6Nr1WvaJBY9p7BicrtBJG4gkT+kouy9oh9c/SC+RLYbo0tbkuBbWDbWDxV6OwmVaLTRf24vpbSx4cu5cJ2wq1NwzMyZibAnMb6lwKgODaXaH5157D3dcqthMQ/GZqDhEtN+yAW2ktB7RAHzNDbRotFXBg084qtzB0ZSYdG50G8LCnUeQRPo3B1uSJ103Lv4zZDcO1jiGl5DnTvG4X8VxWjsO/Sj2EfCV4tble0AR75Lf0rUc7o6u55BGUxAIvtBk7xHmU6X7Rfi6ofTEUw0DK0+i4Dt2GgmeXiVu6OY+nTa5lRoIcqqKrm16gBMEzEnfeF28OWvFwQ46QIDj3ai/uXtUzOdmGq9Wv+FoiniILRYubaDxc0kmJ+oE8SGBWPaGLwzaOSlTBeYl28Ac0xW26b8OKYphrgIn4qv0vS5gEkcgQCY4SQvXMgXMkl/wDmMewhZS99zpIjRdLq6eYN1gzM72sfAg/9tFqSdFfOgPSUNw9ZlYwKADweLDII780D7QVFqGFy62Mc12UG1QQ7mGlrh/M1q98I4tdI4H0Xhj6Ta1PKeI9RPlKue0+kb8U8mCNzRwCjMw4ax9WrVaHBxaynkGciGkkuHot7RFxu1K5uzMSGEOjRd/D46iQ97xLot3o2q7PmJ+6zYzBMq0OqFhtF790j1XJ2fhyGXa0gHdJBiw00PLRXHoZ0i6t4w7oDHGG2AynwGiqLMTRIPZc1+ocx3sc0ghw9vNaqmIeKggSZBaRAIsCA6d19RdezajnOD2u8CuYMMMMw0KlKbGHsF7Rcj5tSOMXvAt9zrVY8x74Ulmv43H71xs5eyN5Z/MWGPxzCn4KvmAPEAjuIldSVzF0EXgK9UqUREREXhXq8KItNYrk6uJiwFjxzEE/9Mea6OMdAPcfkPetNZvZgbvbuRQqj012b1lLOPVme4xf2BfMqrSyV9vqtBBBEg6jivmPSzZjadQtHaBEx9WdxO4rDi6QIzFdXozEuaTTGuyr9Sv2mN36mZ1LfuB+0Fra8AHfcceeYfjiFAx5qFwbd0Ab7bvgFNoYQuhxlvLu5fPgslVjGgX2UdGVcRVqVRlgZ8xtGrQIPMZWjedTIAmThTmloIuIHfu9wUCpj3h/UvhzZ0iXgDhOq3UqLqdVhB1c3wkgfFasFU/8AVmqCBkc6CYEQSJ5wF6YVgJjZR0iYrnNoWtI2Ic1xEgi4mQCQRoFKbh25c7HS3gTLhvsApNF9pkW/B9kqLjS2i9uVoNOoTk1yCPTbAsIneYgxuWAxTM8XYTMiA6BfQa8Paofh7qG9KupUyypLp+R0CdhDtBLScwdbML6iT1C08VoquKkUsLmm51PJR8bs5zRLTPI6rE1omF9F1pIDuK5G1Zy+IK6OFOi41dvWODLySAZ3cV0ceMji4ei644A72/H+y3uw5NILnNxoFcsO/wCF3MPWLbh0eK34rF1HnM50kaXVZw20DIgmdRv0XWL3CSGSJtIte4MacrrC6kRZdA1WzO+2nEDwuQt+IrVHkAkmbDuUPGkwGNMCQZHGYdpqtjajgxzi12YiGjlAvbvUAVbQbvdeDu3D4rRSYbEan35rlYxzK2am8dkS2Ni7KST/AIt0/vk6gFebSwJyNqNiWvdm0ktdlDe+Cw/vFZNoOJp5dC1oPeJze0z4hb8RVtl7xHFbcG+G24+rJHeL6rRXysieCx4R+Jr0yYkGeFw4aX1InnNxbNbzBMa4vqdrMTBBgZj2hAHqiSTfmeK6FHZgOrr2uL7o0K1YIhuaGDM6Zdvh0SAJ0tKnUW6Ab1hxGIpl3Zuup0Xg8RSpDr7OAyi821JnibTtuIJM87aex3taXNeHcogqs4nAOhtYutnLAO5sk9028CrztLB1KYl05Sqvtd0sid8jvHzuvbDOGfIRE2Xrig8U+sYZAMnuGviNVDZVIWTsRZcbF482OilbMoVHnrCD1Yg83RBgeCvUo5blWp4kFhdrAmy6DHgENmD6TidwurTsbBCtXGW9xfkIE+xU3Fsb23Ne0y4MuQ3IC6YM6mJNuC+p9EsfgqNPM7EU2vcPXcGwORNnaG47ty0UaQn3suBW6Qa58hwJyDQ2LnGXQdCBDQL2i91cqfZ8LrbgOz2SIyyBza0wPYAuTsrGtxRc+m/NSDsjSJAeQ0FzgbGAXEbwctrC/cqCMnIgTxBGX3wtywBT2LNaqJt5LapVkREREXhXq8KIoeLEwObP8wPwWNNms77jx1963HU+PsssSbajj9/kihVzpPjXYeg5wBJ0BA0n1jwXzls1oMnMJmRIMknNyN4I5C6+hdN8FUrMa1taixsdrrKoZPdbhaeZXF6PbGbSfL8XgzybXBPuXMxjH1KgbHZ8F3ujH06NEv8AqnyVZOBJMBrtw8lrrYRzTli5X1E08OL9fhx+0auJ+T6JrZzi8KRwFVsrG7AEaFdBvSOYGRYDmfwvm2MBY4Bw3j3rh4v/ABXi4Ocnme1I+SunTWpSYWVc1OqOsc3q2ukuDDdzspBaDu371z6u3Nm5w87KNwJP02rqT6JAHC/itOGHVzf1/AKxY1razqRc09qRaNZBi5H0h/DiJgrnYem51579/cFtwWzmNdmsXEEaSGzqY3mPJdvD7e2eRbZzgD/+uofeFZ9m0tnPp53UTTnd1ucjnfVZiKjiWtqDzH4WmphMKwte/Dm2kZbdzQ+Nb6KqUmxoVni8GQM5JixiPjOisTtkYdtQFmIZUY64E9to4PG4+XcvOkmMpNp5GlsryGHc0Fzz3brX8UC5raQN+UW8QvnuPp3DhrxUp4DmAOGu7ieKj46qACZC6eCp0n4cYh1VskhlOkyC8ugFz3z6DQTwJMbluw+Ic2g7lp75LnYvANqYpjtjrHL0nc2gAnVNm4VjL5RJUu94EmTYbmntacIus9hYbrnBkxxPFNo4R1J1Xqzlc0CRve0WF9LTosNNxPacd9eYvfwnZasYw/IxsxMgGDBEDLaMwdlcL7WkwDBZjw4y0XmAI3gXJ8isMfR37xvO9RMHRgtJpvYZL+zlJMiHGSRqCYneu7tvCUmspvpYzrWu9UNYyozfle0DMD5fFaXgAB1J2kTe/L3zXGwFWtmcMXTILycstDRBJLvmIN7WI0AjWTXKzs2QmcpD2O45hA374e084K6WwsPTa8Aue6SBcAACR3ybe9cjF14p1NIY6nUsZtDmOk79QtOH2jOhA8Uqlz4dsuv0ezq6b6LTABIsZ1AcL8g4DnH2+m7XwFFjAWRK3bBwTDBsVX9k1MN9H67E1y/tZW0aTh1hMTL82jeft3LXhNvsa4llGqBuAqgx4mndeZDWvD3ADlv5L2bSqupljSSQdYgd1yJ9Oat3SvEsFIttK+V7QvMb7eSse0Nu03+nQqn9s0f6S5GLxtAtIGHc0kWLq0+zqxKmo7O/MCLd/wCl64agaTMpaTxu39qsuoN6wTB0PyKtOC9GIsuXhNj0nGk/6ZR/OBxeCHzSLTAY5rQSSQRBi8FXnYexMMB2sZQPcHi32mhe2La+q8R6hZsGKWGw8XJEzY6gxw2iFVquyGPtVLstiIvlI4cRytuvxydQa1zKQpl9Mu+tDnOdAiAIaLAAA+N1fMLs/CCrJxdAj6sH36L3pBsvAOaIxlKidZaC7S4PZKpSbiGj5hbaRMfdYsVhsDXqy+mZO+V3fcAXNr2M7yrP0Zw9JtBnUsYxkHss0DvWk7zzkzxXQrMkE8dPAgj3Ks9F9o0GuFJmO+kF7jYU3N7WpcSSQ3uEDkrg4/K0x56LsMdIXBqUzTcWn0I9eOvcVsoFblow/wCPd8FvV1UIiIiIvCvV4URaAb/jVY4k+P8Acfet2VYuYihVzpXsVmIpiQ45dMs6HdoeCo7ejDWGwq/uu/oX1StRlpHwC4X5HbmJd2huDmMEeVGfas1bDsqGSAt+ExtSiMoJAVLqbFEXFXyd/So/5DbwqeTv6Vd8ZsVrx2AGHiGU3T4OoELn1Ojx/wDlJ/YUP9gLL8EwfT6LcOk3x83r+iqccHSp5wRDywkT6Uj0WwdAeKwdUHVAnMCJdZrZ00ue9Ww9HMpLnRUBBBDqOHaDyMUgSF3MCRSptaxtNoG4ZWAcgAAP7rTToQI0XMxWIc9wIdNwftttaLXk8189oEDUv/dZ/Uurs5uctbJ7RIgt5EiS0kQYPkrl9NPBn8RvzULG0qdYtD2U3XI7QY+Ji4N4+5UdhhsffetNLHOiHjxEel/VU3bGzqdKqRdl7XgHmJXOqYOidahP2grLtPY1dzh+dpuAFs9GkSBwkUzKiN2BX44c/sm/7CynC9ow3yH7XTbjeyJqebvy1VnGbOoQZd/MF0ehmAw7abyzUNs6c0TNuU8eSm4zo7iTp9G/hNP/AG6ndGuj1Vlqr6WQkSxlGkGutPaPVt8gN+q92UCGxG/vdZq2Pkxm24nly97wudh8a8ZXNbqAbEW5GYupVHatVr8+XvktvyiVbKbW02BrWWEmGw0CTpC0vxn/ANTvNvzVPhHD648E/iDTP8oHxC4/5RNeqwOAYScvE2BdMCeYXK6TU6Wcsc7KG2AzwO+JsrPWpNrloc0Ns6CQwuYdzm5pHDyXAxWwq73uLsQx3N1GkSY0kwpOHdEHtc/ZCU8YwOn5LaX9Q0+aqp2fh4qxUI7B0qR6wIOqj4bZWGdcGZO5/HuVsw/R2oJLsQ2YItRoCRMjcPL271ngujjgb12kcBQw49y9+q7MR6ftc6lj3CtUqCe0R6AXju34QLrDoxsGg0PqAQWxlcSXAG8xNphaWVXWIzOBaDZkxO4y4XVvwOyGsYQ9/WAicrmU8gO4hobrzMqbh6mQBrAGgcGkd9mtjWVU4eQNvfIrX/EDmJPanieHeJVIBPCp/CH+4tdZ/aY3tDM4C4DeJJiTMAGy+iMrv+t/IfkoO1u3YubAFw9oid1iDGifDc/f3VT0h/b5/wCl8yp7Mo4mrUqNZJzkEtJFwYuG7112bDaBApvH2j8VbcBsQAegL37JaB7wpo2N+g4/aZ/Wj8MHG69GdJOa0NBMd/8AtUensNn1Hfvn5pV2Ex9shP7T/wAl9Aw+Ayn/AAc3eWH/AFVOo6/8sB4Ux7nFVGDZOg+yh3StTb1P7KrfRPo7Swwzin+cNhJBMGA64Ji3NXFkRfxCU3z6gHl8FuDVsa0NEBcurUdUeXuMk8VhSN/x4LetYF1sV1RERERERERF4QvURFpqNhQcXQm4XScFpfLRpIRQuBUaRxWAqkbypuMf+gfALkVqzt1Kp5D+pVhWzJtLFkN19xXO2XtV4aQXXngPh4qRVpOeCOrf4hvzWmjsaqCSIAPET8VZQSunT2gXakjmLhY13vN2uzdxNu8ArCns2oPq/u/esMRs2qdMvkfmoIlAYKm4qqXNaYHlC1AjgFBwmGxLCQ452HdeQeIk+xZVG1D6j/Afeoyq2e0LLFVxoACsHYiMkNZcu1E7vYsKeHd9R3kpTsC4xA0481ZVlSi8FsQFAewzoFlVwFbcR5H5qBVwWN9Wo0D9X71XKrB5C6GFcWvabR3clufJmBK49PZ+KJ7VQnzXdaHxdp8ITKoL5UR9Ings6dHdK3Gk76jvZ81tp4d5nskd6sqqDUxrjaTlkx3aD3LNhJ4+xbaexqn1z5D5KZS2Y4et7B8lEBASFFkxqVzcY594JuQN+7xVh+gO+t7AtLtnHhKlSSudhahAhxPmt7qi3Owh+q72fNGYMj1Xez5qCFIctApFy7Gz8BlC9wVMg+ifGF02sQBC4lesaAIAWaIpUIiIiIiIiIiIiIiIiIvCF6iItTqQWs4ccFJREUX6OFl9HCkIiKOKATqApCIijHDhYnDDgpaIiifRRwWQw4UlERRvo4T6MFJREUb6MOCfRwpKIij/AEcL0UVvREWnql6Ka2oiLXkXuRZoiLDqwgphZoiLENWSIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiL/2Q=="
+      "image": "https://m.media-amazon.com/images/I/71dVw61u8CL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 9,
@@ -70,15 +70,15 @@
       "qty": 1,
       "price": 50,
       "description": "Ripe Bananas",
-      "image": "https://media.istockphoto.com/id/1400057530/photo/bananas-isolated.webp?b=1&s=170667a&w=0&k=20&c=uiSdjIQkTr7S4gEdW_oB_5zfFYhpfe0LP-CryQl49w4="
+      "image": "https://m.media-amazon.com/images/I/81FbXs8r1FL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 10,
-      "name": "Apples",
+      "name": "Apples Chips",
       "qty": 6,
       "price": 120,
       "description": "Crunchy Red Apples",
-      "image": "https://images.unsplash.com/photo-1576179635662-9d1983e97e1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXBwbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      "image": "https://m.media-amazon.com/images/I/81vjB6QXVaS._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "qty": 1,
       "price": 80,
       "description": "Premium Masoor Daal",
-      "image": "https://www.bigbasket.com/media/uploads/p/l/30002286_7-tata-sampann-unpolished-masoor-dal-whole.jpg"
+      "image": "https://m.media-amazon.com/images/I/91iQlCQUliL._AC_UL600_FMwebp_QL65_.jpg"
     },
     {
       "id": 12,
@@ -324,335 +324,938 @@
   "mobiles": [
     {
       "id": 1,
+      "brand": "Samsung",
       "name": "Samsung Galaxy S22",
       "qty": 10,
       "price": 110000,
       "description": "Latest flagship from Samsung",
-      "image": "https://m.media-amazon.com/images/I/71wGLBDEsvL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71wGLBDEsvL._SX679_.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "4500mAh"
+      }
     },
-
     {
       "id": 2,
+      "brand": "Google",
       "name": "Google Pixel 6",
       "qty": 5,
       "price": 90000,
       "description": "Top-notch camera and software",
-      "image": "https://m.media-amazon.com/images/I/51f4A6Tr8zL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/51f4A6Tr8zL._SX679_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "256GB",
+        "Battery": "4000mAh"
+      }
     },
-
     {
       "id": 3,
+      "brand": "OnePlus",
       "name": "OnePlus 9T",
       "qty": 15,
       "price": 80000,
       "description": "Powerful performance and smooth UI",
-      "image": "https://m.media-amazon.com/images/I/61LB+d0vheL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61LB+d0vheL._SX679_.jpg",
+      "features": {
+        "RAM": "12GB",
+        "Storage": "128GB",
+        "Battery": "5000mAh"
+      }
     },
-
     {
       "id": 4,
+      "brand": "Xiaomi",
       "name": "Xiaomi Redmi Note 11 Pro",
       "qty": 20,
       "price": 45000,
       "description": "Great value for money",
-      "image": "https://m.media-amazon.com/images/I/51PazJ5YbQL.jpg"
+      "image": "https://m.media-amazon.com/images/I/51PazJ5YbQL.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "64GB",
+        "Battery": "6000mAh"
+      }
     },
-
     {
       "id": 5,
+      "brand": "Apple",
       "name": "Apple iPhone 13",
       "qty": 7,
       "price": 130000,
       "description": "Latest iPhone with A15 Bionic chip",
-      "image": "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX679_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "256GB",
+        "Battery": "3100mAh"
+      }
     },
-
     {
       "id": 6,
+      "brand": "Sony",
       "name": "Sony Xperia 1 III",
       "qty": 3,
       "price": 100000,
       "description": "Cinematic 4K HDR OLED display",
-      "image": "https://m.media-amazon.com/images/I/71vNgTH3MzL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71vNgTH3MzL._SX679_.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Battery": "4500mAh"
+      }
     },
-
     {
       "id": 7,
+      "brand": "Realme",
       "name": "Realme GT Master Edition",
       "qty": 12,
       "price": 55000,
       "description": "Designed by Naoto Fukasawa",
-      "image": "https://m.media-amazon.com/images/I/51yJF5nnedL.jpg"
+      "image": "https://m.media-amazon.com/images/I/51yJF5nnedL.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "4300mAh"
+      }
     },
-
     {
       "id": 8,
+      "brand": "Motorola",
       "name": "Motorola Edge 30",
       "qty": 8,
       "price": 70000,
       "description": "Edge-to-edge AMOLED display",
-      "image": "https://m.media-amazon.com/images/I/61b-EOhj-iL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61b-EOhj-iL._SX679_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Battery": "5000mAh"
+      }
     },
-
     {
       "id": 9,
+      "brand": "Oppo",
       "name": "Oppo Find X5",
       "qty": 10,
       "price": 90000,
       "description": "Innovative sliding camera mechanism",
-      "image": "https://m.media-amazon.com/images/I/311AbPdwjzL.jpg"
+      "image": "https://m.media-amazon.com/images/I/311AbPdwjzL.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Battery": "4500mAh"
+      }
     },
     {
       "id": 10,
+      "brand": "Nokia",
       "name": "Nokia X20",
       "qty": 6,
       "price": 60000,
       "description": "Durable and reliable smartphone",
-      "image": "https://m.media-amazon.com/images/I/71uRl+-o1WL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71uRl+-o1WL._SX679_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Battery": "4000mAh"
+      }
     },
-
     {
       "id": 11,
+      "brand": "Vivo",
       "name": "Vivo V21",
       "qty": 9,
       "price": 75000,
       "description": "Sleek design and excellent selfies",
-      "image": "https://m.media-amazon.com/images/I/61ShleYhcBS._SY741_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61ShleYhcBS._SY741_.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "4000mAh"
+      }
     },
-
     {
       "id": 12,
+      "brand": "LG",
       "name": "LG Velvet 2",
       "qty": 2,
       "price": 80000,
       "description": "Stylish and lightweight",
-      "image": "https://m.media-amazon.com/images/I/91TNl7+Aq+L._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/91TNl7+Aq+L._SX679_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Battery": "4300mAh"
+      }
     },
-
     {
       "id": 13,
+      "brand": "Asus",
       "name": "Asus Zenfone 8",
       "qty": 4,
       "price": 85000,
       "description": "Compact and powerful flagship",
-      "image": "https://m.media-amazon.com/images/I/31esTzjZBcL.jpg"
+      "image": "https://m.media-amazon.com/images/I/31esTzjZBcL.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Battery": "4000mAh"
+      }
     },
-
     {
       "id": 14,
+      "brand": "Lenovo",
       "name": "Lenovo Legion Phone Duel 3",
       "qty": 3,
       "price": 120000,
       "description": "Gaming-centric features",
-      "image": "https://m.media-amazon.com/images/I/51TK-AM4k0L._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/51TK-AM4k0L._SX679_.jpg",
+      "features": {
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Battery": "5500mAh"
+      }
     },
-
     {
       "id": 15,
+      "brand": "Infinix",
       "name": "Infinix Hot 12",
       "qty": 18,
       "price": 40000,
       "description": "Budget-friendly with big display",
-      "image": "https://m.media-amazon.com/images/I/712ioC0BA2L._SY741_.jpg"
+      "image": "https://m.media-amazon.com/images/I/712ioC0BA2L._SY741_.jpg",
+      "features": {
+        "RAM": "4GB",
+        "Storage": "64GB",
+        "Battery": "5000mAh"
+      }
     },
-
     {
       "id": 16,
+      "brand": "ZTE",
       "name": "ZTE Axon 30",
       "qty": 5,
       "price": 65000,
       "description": "Impressive camera capabilities",
-      "image": "https://m.media-amazon.com/images/I/51YbwAuTTKL.jpg"
+      "image": "https://m.media-amazon.com/images/I/51YbwAuTTKL.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "4200mAh"
+      }
     },
-
     {
       "id": 17,
+      "brand": "BlackBerry",
       "name": "BlackBerry Key3",
       "qty": 1,
       "price": 90000,
       "description": "Physical QWERTY keyboard",
-      "image": "https://m.media-amazon.com/images/I/61WTOdDA0qL._SY741_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61WTOdDA0qL._SY741_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "64GB",
+        "Battery": "4000mAh"
+      }
     },
-
     {
       "id": 18,
+      "brand": "Huawei",
       "name": "Huawei P50 Pro",
       "qty": 7,
       "price": 95000,
       "description": "Top-tier camera system",
-      "image": "https://m.media-amazon.com/images/I/81YdrkJZKYL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/81YdrkJZKYL._SX679_.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "4360mAh"
+      }
     },
-
     {
       "id": 19,
+      "brand": "CAT",
       "name": "CAT S62 Pro",
       "qty": 2,
       "price": 80000,
       "description": "Rugged and built to withstand harsh conditions",
-      "image": "https://m.media-amazon.com/images/I/61QghegFNML._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61QghegFNML._SX679_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Battery": "4000mAh"
+      }
     },
-
     {
       "id": 20,
+      "brand": "Tecno",
       "name": "Tecno Camon 17",
       "qty": 13,
       "price": 55000,
       "description": "AI-enhanced photography",
-      "image": "https://m.media-amazon.com/images/I/81fa4qtVdNL._SY741_.jpg"
+      "image": "https://m.media-amazon.com/images/I/81fa4qtVdNL._SY741_.jpg",
+      "features": {
+        "RAM": "4GB",
+        "Storage": "128GB",
+        "Battery": "5000mAh"
+      }
+    },
+    {
+      "id": 21,
+      "brand": "Apple",
+      "name": "iPhone 14",
+      "qty": 14,
+      "price": 90000,
+      "description": "A perfect balance of performance and style",
+      "image": "data:image/webp;base64,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",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Battery": "3800mAh"
+      }
+    },
+    {
+      "id": 22,
+      "brand": "Apple",
+      "name": "iPhone 13 Mini",
+      "qty": 16,
+      "price": 75000,
+      "description": "Compact size with A15 Bionic chip",
+      "image": "https://m.media-amazon.com/images/I/61nPiOOv9BL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "256GB",
+        "Battery": "2406mAh"
+      }
+    },
+    {
+      "id": 23,
+      "brand": "Apple",
+      "name": "iPhone XR",
+      "qty": 30,
+      "price": 60000,
+      "description": "Colorful design and Face ID",
+      "image": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "3GB",
+        "Storage": "128GB",
+        "Battery": "2942mAh"
+      }
+    },
+    {
+      "id": 24,
+      "brand": "Apple",
+      "name": "iPhone 14 Pro",
+      "qty": 12,
+      "price": 105000,
+      "description": "ProMotion display and advanced triple-camera system",
+      "image": "https://m.media-amazon.com/images/I/71ZDY57yTQL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "10GB",
+        "Storage": "512GB",
+        "Battery": "4500mAh"
+      }
+    },
+    {
+      "id": 25,
+      "brand": "Apple",
+      "name": "iPhone SE 2022",
+      "qty": 25,
+      "price": 55000,
+      "description": "Compact design with A14 Bionic chip",
+      "image": "https://m.media-amazon.com/images/I/61-MT8AQAPL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "4GB",
+        "Storage": "64GB",
+        "Battery": "2942mAh"
+      }
+    },
+    {
+      "id": 26,
+      "brand": "Apple",
+      "name": "iPhone 13",
+      "qty": 18,
+      "price": 85000,
+      "description": "Pro-level photography and powerful A15 Bionic chip",
+      "image": "https://m.media-amazon.com/images/I/61KeIxmldLL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Battery": "4100mAh"
+      }
+    },
+    {
+      "id": 27,
+      "brand": "Oppo",
+      "name": "F17",
+      "qty": 24,
+      "price": 22000,
+      "description": "Slim and lightweight design with Snapdragon 662",
+      "image": "https://m.media-amazon.com/images/I/51TZuecnfcL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Battery": "4015mAh"
+      }
+    },
+    {
+      "id": 28,
+      "brand": "Oppo",
+      "name": "A15s",
+      "qty": 22,
+      "price": 15000,
+      "description": "Budget-friendly phone with MediaTek Helio P35",
+      "image": "https://m.media-amazon.com/images/I/21iJCEn4R0L._AC_UY218_.jpg",
+      "features": {
+        "RAM": "4GB",
+        "Storage": "64GB",
+        "Battery": "4230mAh"
+      }
+    },
+    {
+      "id": 29,
+      "brand": "Oppo",
+      "name": "Reno 5 Pro",
+      "qty": 20,
+      "price": 36000,
+      "description": "Brilliant AMOLED display and MediaTek Dimensity 1000+",
+      "image": "https://m.media-amazon.com/images/I/8145DElqceL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "4350mAh"
+      }
+    },
+    {
+      "id": 30,
+      "brand": "Samsung",
+      "name": "Galaxy S21",
+      "qty": 25,
+      "price": 65000,
+      "description": "Flagship performance with Exynos 2100",
+      "image": "https://m.media-amazon.com/images/I/710s4SX98yL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "4000mAh"
+      }
+    },
+    {
+      "id": 31,
+      "brand": "Samsung",
+      "name": "Galaxy Note 20 Ultra",
+      "qty": 18,
+      "price": 90000,
+      "description": "Powerful productivity and S Pen functionality",
+      "image": "https://m.media-amazon.com/images/I/71nm7FDuYhL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Battery": "4500mAh"
+      }
+    },
+    {
+      "id": 32,
+      "brand": "Samsung",
+      "name": "Galaxy A52",
+      "qty": 20,
+      "price": 30000,
+      "description": "Versatile mid-range phone with Snapdragon 720G",
+      "image": "https://m.media-amazon.com/images/I/61D0hUvfgqS._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Battery": "4500mAh"
+      }
+    },
+    {
+      "id": 33,
+      "brand": "Samsung",
+      "name": "Galaxy Z Fold 3",
+      "qty": 12,
+      "price": 150000,
+      "description": "Foldable innovation and Snapdragon 888",
+      "image": "https://m.media-amazon.com/images/I/714QNdK8BWL._AC_UY327_FMwebp_QL65_.jpg",
+      "features": {
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Battery": "4400mAh"
+      }
     }
   ],
   "laptop": [
     {
       "id": 1,
-      "name": "Dell XPS 15",
+      "name": "Dell Vastro 3420",
       "qty": 10,
       "price": 120000,
       "description": "Powerful performance in a sleek design",
-      "image": "https://m.media-amazon.com/images/I/61nD7PI4O9L._SX679_.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4169hYnVonL._SX300_SY300_QL70_FMwebp_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Silver",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.5,
+      "review_number": 1450,
+      "brand": "Dell",
+      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know morIncludes Word, Excel and PowerPoint"
     },
-
     {
       "id": 2,
       "name": "HP Spectre x360",
       "qty": 8,
       "price": 115000,
       "description": "Versatile 2-in-1 with a stunning display",
-      "image": "https://m.media-amazon.com/images/I/51rsV94YVCL._SX522_.jpg"
+      "image": "https://m.media-amazon.com/images/I/51rsV94YVCL._SX522_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Black",
+      "battery_life": "Up to 12 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.7,
+      "review_number": 1320,
+      "brand": "HP",
+      "special": "Extra ₹2,000 off on Netbanking transactionsGet Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know morIncludes Word, Excel and PowerPoint"
     },
-
     {
       "id": 3,
       "name": "Apple MacBook Pro 14",
       "qty": 5,
       "price": 180000,
       "description": "The latest Apple powerhouse",
-      "image": "https://m.media-amazon.com/images/I/61LNGJEMh0L._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61LNGJEMh0L._SX679_.jpg",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "color": "blue",
+      "battery_life": "Up to 11 hours",
+      "screen_size": "14 inches",
+      "operating_system": "macOS Monterey",
+      "warranty": "2 years",
+      "rating": 4.9,
+      "review_number": 1875,
+      "brand": "Apple",
+      "special": " Extra ₹2,500 discount on Credit Card/UPI/NetbankingAvail upto 6 Months No Cost EMIGet Sennheiser HD 350BT headset worth ₹8,990 @ ₹1,999 OnlyIncludes Word, Excel and PowerPoint"
     },
-
     {
       "id": 4,
       "name": "Asus ROG Zephyrus G15",
       "qty": 15,
       "price": 135000,
       "description": "High-performance gaming laptop",
-      "image": "https://m.media-amazon.com/images/I/819sH4bXkGL._SL1500_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/819sH4bXkGL._SL1500_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "red",
+      "battery_life": "Up to 8 hours",
+      "brand": "Asus",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know morIncludes Word, Excel and PowerPoint"
+    },
     {
       "id": 5,
       "name": "Lenovo ThinkPad X1 Carbon",
       "qty": 7,
       "price": 110000,
       "description": "Business-class durability and security",
-      "image": "https://m.media-amazon.com/images/I/510pfCNfE+L._SL1080_.jpg"
-    },
+      "image": "https://typhoon-methane-d48.notion.site/RM-Block-24-769a991ab78346459837e38f8d666ddb",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "green",
+      "battery_life": "Up to 18.3 hours",
+      "brand": "Lenovo",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Extra ₹2,000 off on Netbanking transactionsGet Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know morIncludes Word, Excel and PowerPoint"
+    },
     {
       "id": 6,
       "name": "Acer Predator Helios 300",
       "qty": 12,
       "price": 100000,
       "description": "Gaming laptop with high-refresh-rate display",
-      "image": "https://m.media-amazon.com/images/I/81E2srXhKVL._SX679_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/81E2srXhKVL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Black",
+      "battery_life": "Up to 6 hours",
+      "brand": "Acer",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150
+    },
     {
       "id": 7,
       "name": "Microsoft Surface Laptop 4",
       "qty": 9,
       "price": 95000,
       "description": "Premium build and excellent touch display",
-      "image": "https://m.media-amazon.com/images/I/81KoSSAwH2L._SL1500_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/81KoSSAwH2L._SL1500_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Platinum",
+      "battery_life": "Up to 17 hours",
+      "brand": "Microsoft",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Extra ₹1,000 discount on Credit Card/UPI/Netbanking Avail upto 6 Months No Cost EMI Get Sennheiser HD 350BT headset worth ₹8,990 @ ₹1,999 Only Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 8,
       "name": "Razer Blade 15",
       "qty": 6,
       "price": 145000,
       "description": "Sleek and powerful gaming laptop",
-      "image": "https://m.media-amazon.com/images/I/61wi86i8CZL._SX679_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/61wi86i8CZL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "yellow",
+      "battery_life": "Up to 6 hours",
+      "brand": "Razer",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Extra ₹2,000 off on Netbanking transactionsGet Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 9,
       "name": "LG Gram 17",
       "qty": 4,
       "price": 125000,
       "description": "Ultralight laptop with a large display",
-      "image": "https://m.media-amazon.com/images/I/51r17oSYqZL._SL1500_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/51r17oSYqZL._SL1500_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Silver",
+      "battery_life": "Up to 19.5 hours",
+      "brand": "LG",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Extra ₹2,000 off on Netbanking transactionsGet Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 10,
       "name": "MSI Prestige 14",
       "qty": 3,
       "price": 98000,
       "description": "Elegant and powerful for content creators",
-      "image": "https://m.media-amazon.com/images/I/71LaIGItr+L._SX679_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/71LaIGItr+L._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "pink",
+      "battery_life": "Up to 11 hours",
+      "brand": "MSI",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Extra ₹1,000 discount on Credit Card/UPI/Netbanking Avail upto 6 Months No Cost EMI Get Sennheiser HD 350BT headset worth ₹8,990 @ ₹1,999 Only Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 11,
       "name": "Huawei MateBook X Pro",
       "qty": 10,
       "price": 105000,
       "description": "Sleek design and vibrant display",
-      "image": "https://m.media-amazon.com/images/I/517g9MKFW+S._SL1000_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/517g9MKFW+S._SL1000_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "green",
+      "battery_life": "Up to 13 hours",
+      "brand": "Huawei",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Extra ₹1,000 discount on Credit Card/UPI/Netbanking Avail upto 6 Months No Cost EMI Get Sennheiser HD 350BT headset worth ₹8,990 @ ₹1,999 Only Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 12,
       "name": "Acer Swift 5",
       "qty": 11,
       "price": 75000,
       "description": "Ultra-portable laptop with long battery life",
-      "image": "https://m.media-amazon.com/images/I/61XsF-d1JVL._SL1024_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/61XsF-d1JVL._SL1024_.jpg",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "color": "silver",
+      "battery_life": "Up to 15 hours",
+      "brand": "Acer",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "special": "Extra ₹2,000 off on Netbanking transactionsGet Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 13,
       "name": "Sony VAIO SX14",
       "qty": 2,
       "price": 130000,
       "description": "Premium laptop with 4K display option",
-      "image": "https://in-media.apjonlinecdn.com/catalog/product/…e343d4dc5ec5117b502/6/V/6V2X7PA-1_T1680321026.png"
-    },
+      "image": "https://us.vaio.com/cdn/shop/products/2022SS_SX14_SV_frontright_800x.jpg?v=1681949987",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "blue",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "battery_life": "Up to 7 hours",
+      "brand": "Sony",
+      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 14,
       "name": "MSI GE66 Raider",
       "qty": 7,
       "price": 150000,
       "description": "High-performance gaming beast",
-      "image": "https://m.media-amazon.com/images/I/71AW1jbG7pL._SX679_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/71AW1jbG7pL._SX679_.jpg",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "color": "purple",
+      "battery_life": "Up to 5 hours",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "brand": "MSI",
+      "special": "Extra ₹500 discount on Credit Card/UPI/NetbankingAvail upto 6 Months No Cost EMIGet Sennheiser HD 350BT headset worth ₹8,990 @ ₹1,999 OnlyIncludes Word, Excel and PowerPoint"
+    },
     {
       "id": 15,
       "name": "Dell Inspiron 14",
       "qty": 14,
       "price": 70000,
       "description": "Affordable and reliable everyday laptop",
-      "image": "https://m.media-amazon.com/images/I/51LueG8KfqL._SX522_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/51LueG8KfqL._SX522_.jpg",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "color": "Platinum Silver",
+      "battery_life": "Up to 9 hours",
 
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "brand": "Dell",
+      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 16,
       "name": "Lenovo Yoga C940",
       "qty": 9,
       "price": 115000,
       "description": "Premium 2-in-1 with a stylus",
-      "image": "https://m.media-amazon.com/images/I/610GTOBlYXL._SX679_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/610GTOBlYXL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Iron Gray",
 
+      "battery_life": "Up to 9 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+
+      "brand": "Lenovo",
+      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
     {
-      "id": 17,
+      "id": 31,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "qty": 15,
+      "price": 135000,
+      "description": "Business Ultrabook with powerful performance",
+      "image": "https://m.media-amazon.com/images/I/71IKFt7f7RL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Black",
+      "battery_life": "Up to 15 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11 Pro",
+      "warranty": "3 years",
+      "rating": 4.8,
+      "review_number": 950,
+      "brand": "Lenovo",
+      "special": "Comes with a ThinkPad Pen Pro. 10% discount for students and educators."
+    },
+    {
+      "id": 30,
+      "name": "Lenovo Legion 5",
+      "qty": 20,
+      "price": 95000,
+      "description": "Gaming laptop with high refresh rate display",
+      "image": "",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Phantom Black",
+      "battery_life": "Up to 6 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 10",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1200,
+      "brand": "Lenovo",
+      "special": "NVIDIA GeForce GTX 1650 Ti graphics. Free Lenovo gaming mouse included."
+    },
+    {
+      "id": 29,
       "name": "HP Envy 13",
       "qty": 8,
       "price": 90000,
       "description": "Stylish and lightweight for productivity",
-      "image": "https://m.media-amazon.com/images/I/71RM8lCKlQL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71RM8lCKlQL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Nightfall Black",
+
+      "battery_life": "Up to 16 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+
+      "brand": "HP",
+      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
+    {
+      "id": 28,
+      "name": "Lenovo IdeaPad Flex 5",
+      "qty": 12,
+      "price": 80000,
+      "description": "Versatile 2-in-1 laptop with a touchscreen",
+      "image": "https://m.media-amazon.com/images/I/81x7N4qMJCL._SX679_.jpg",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "color": "Graphite Grey",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11",
+      "warranty": "1 year",
+      "rating": 4.5,
+      "review_number": 850,
+      "brand": "Lenovo",
+      "special": "360-degree hinge. Includes Lenovo Active Pen for note-taking."
+    },
+    {
+      "id": 27,
+      "name": "Lenovo Chromebook Duet",
+      "qty": 8,
+      "price": 35000,
+      "description": "Sleek Chrome OS tablet with detachable keyboard",
+      "image": "https://m.media-amazon.com/images/I/812369wwroL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "4GB",
+      "storage": "64GB eMMC",
+      "color": "Ice Blue + Iron Grey",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "10.1 inches",
+      "operating_system": "Chrome OS",
+      "warranty": "1 year",
+      "rating": 4.3,
+      "review_number": 500,
+      "brand": "Lenovo",
+      "special": "Comes with detachable keyboard and kickstand. Chromebook exclusive offers included."
+    },
+    {
+      "id": 26,
+      "name": "Lenovo Yoga 9i",
+      "qty": 18,
+      "price": 105000,
+      "description": "Premium 2-in-1 laptop with a rotating soundbar",
+      "image": "https://m.media-amazon.com/images/I/61S-I-NlTXL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Mica",
+      "battery_life": "Up to 12 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.9,
+      "review_number": 1350,
+      "brand": "Lenovo",
+      "special": "Rotating Dolby Atmos soundbar. SmartPen included for easy note-taking."
+    },
+    {
+      "id": 16,
+      "name": "Dell XPS 15",
+      "qty": 10,
+      "price": 120000,
+      "description": "High-performance laptop with stunning display",
+      "image": "https://m.media-amazon.com/images/I/51m2FARVDVL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Silver",
+      "battery_life": "Up to 12 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.8,
+      "review_number": 1350,
+      "brand": "Dell",
+      "special": "Ultra HD 4K display with InfinityEdge. Backlit keyboard."
+    },
+    {
+      "id": 17,
+      "name": "Dell Inspiron 15 3000",
+      "qty": 20,
+      "price": 55000,
+      "description": "Budget-friendly laptop for daily tasks",
+      "image": "https://m.media-amazon.com/images/I/61lyRLwT0oL._SX679_.jpg",
+      "ram": "12GB",
+      "storage": "1TB HDD",
+      "color": "Black",
+      "battery_life": "Up to 7 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.4,
+      "review_number": 850,
+      "brand": "Dell",
+      "special": "Dell Cinema technology for enhanced multimedia experience."
     },
 
     {
@@ -661,25 +1264,569 @@
       "qty": 6,
       "price": 95000,
       "description": "Thin and light with excellent performance",
-      "image": "https://m.media-amazon.com/images/I/81GrVUQxrXL._SX679_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/81GrVUQxrXL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Pine Grey",
 
+      "battery_life": "Up to 13 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+
+      "brand": "Asus",
+      "special": "Extra ₹1,000 discount on Credit Card/UPI/Netbanking Avail upto 6 Months No Cost EMI Get Sennheiser HD 350BT headset worth ₹8,990 @ ₹1,999 Only Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 19,
       "name": "Microsoft Surface Book 3",
       "qty": 5,
       "price": 140000,
       "description": "Powerful detachable laptop for creatives",
-      "image": "https://m.media-amazon.com/images/I/717HjMFL-KL._SX679_.jpg"
-    },
+      "image": "https://m.media-amazon.com/images/I/717HjMFL-KL._SX679_.jpg",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "color": "Black",
+      "battery_life": "Up to 13 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
 
+      "brand": "Microsoft",
+      "special": "Extra ₹1,000 discount on Credit Card/UPI/Netbanking Avail upto 6 Months No Cost EMI Get Sennheiser HD 350BT headset worth ₹8,990 @ ₹1,999 Only Includes Word, Excel and PowerPoint"
+    },
     {
       "id": 20,
       "name": "Razer Blade Stealth 13",
       "qty": 3,
       "price": 125000,
       "description": "Compact gaming laptop with long battery life",
-      "image": "https://m.media-amazon.com/images/I/71ALO-WzlEL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71ALO-WzlEL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Black",
+      "battery_life": "Up to 13 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1150,
+      "brand": "Razer",
+      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know more.Includes Word, Excel and PowerPoint"
+    },
+    {
+      "id": 21,
+      "name": "Dell Latitude 14 5000",
+      "qty": 8,
+      "price": 90000,
+      "description": "Business laptop with advanced security features",
+      "image": "https://m.media-amazon.com/images/I/614L0tVSDrS._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Grey",
+      "battery_life": "Up to 11 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11 Pro",
+      "warranty": "3 years",
+      "rating": 4.7,
+      "review_number": 1200,
+      "brand": "Dell",
+      "special": "Fingerprint reader and smart card reader for security."
+    },
+    {
+      "id": 22,
+      "name": "Dell G5 15 SE",
+      "qty": 15,
+      "price": 80000,
+      "description": "Gaming laptop with AMD Ryzen processor",
+      "image": "https://m.media-amazon.com/images/I/71MnZe6FknL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Eclipse Black",
+      "battery_life": "Up to 8 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 10",
+      "warranty": "2 years",
+      "rating": 4.5,
+      "review_number": 950,
+      "brand": "Dell",
+      "special": "AMD Radeon RX 5600M graphics for smooth gaming performance."
+    },
+    {
+      "id": 23,
+      "name": "Dell Precision 5550",
+      "qty": 12,
+      "price": 150000,
+      "description": "Mobile workstation for professional users",
+      "image": "https://m.media-amazon.com/images/I/81OWCDF7ilL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "32GB",
+      "storage": "1TB NVMe SSD",
+      "color": "Silver",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11 Pro",
+      "warranty": "3 years",
+      "rating": 4.9,
+      "review_number": 1350,
+      "brand": "Dell",
+      "special": "NVIDIA Quadro T1000 graphics for demanding tasks."
+    },
+    {
+      "id": 40,
+      "name": "LG Gram 14",
+      "qty": 6,
+      "price": 105000,
+      "description": "Portable and durable laptop for on-the-go professionals",
+      "image": "https://m.media-amazon.com/images/I/61CvbpmKrML._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "White",
+      "battery_life": "Up to 17.5 hours",
+      "brand": "LG",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.8,
+      "review_number": 1200,
+      "special": "MIL-STD-810G certified for durability. Backlit keyboard."
+    },
+    {
+      "id": 41,
+      "name": "LG Gram 17 2-in-1",
+      "qty": 3,
+      "price": 135000,
+      "description": "Convertible laptop with a large touchscreen",
+      "image": "https://m.media-amazon.com/images/I/51eTOVYRbTL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Dark Silver",
+      "battery_life": "Up to 16 hours",
+      "brand": "LG",
+      "screen_size": "17 inches",
+      "operating_system": "Windows 11",
+      "warranty": "3 years",
+      "rating": 4.9,
+      "review_number": 1500,
+      "special": "360-degree hinge for flexible usage. Wacom AES 2.0 Pen included."
+    },
+    {
+      "id": 42,
+      "name": "LG Ultra PC",
+      "qty": 10,
+      "price": 90000,
+      "description": "Sleek and powerful laptop for productivity",
+      "image": "https://m.media-amazon.com/images/I/71PcRGKrmeL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "color": "Black",
+      "battery_life": "Up to 14 hours",
+      "brand": "LG",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.5,
+      "review_number": 800,
+      "special": "Ultra-slim bezels for immersive viewing. Thunderbolt 4 support."
+    },
+    {
+      "id": 43,
+      "name": "LG Gram 16Z90P",
+      "qty": 7,
+      "price": 115000,
+      "description": "Ultra-lightweight laptop with excellent performance",
+      "image": "https://m.media-amazon.com/images/I/51eTOVYRbTL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Silver",
+      "battery_life": "Up to 18.5 hours",
+      "brand": "LG",
+      "screen_size": "16 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1000,
+      "special": "10th Gen Intel Core i7 processor. Lightweight magnesium alloy body."
+    },
+
+    {
+      "id": 44,
+      "name": "LG Gram 13Z990",
+      "qty": 5,
+      "price": 95000,
+      "description": "Compact and portable laptop for everyday use",
+      "image": "https://m.media-amazon.com/images/I/71Dv5BtTh8L._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "color": "Dark Silver",
+      "battery_life": "Up to 15 hours",
+      "brand": "LG",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 900,
+      "special": "MIL-STD-810G certified for durability. Fingerprint reader for security."
+    },
+    {
+      "id": 45,
+      "name": "Apple MacBook Air M2",
+      "qty": 8,
+      "price": 155000,
+      "description": "Ultra-slim and lightweight MacBook",
+      "image": "https://m.media-amazon.com/images/I/41lpiu-GMXL._SY445_SX342_QL70_FMwebp_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Silver",
+      "battery_life": "Up to 18 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "macOS Monterey",
+      "warranty": "2 years",
+      "rating": 4.8,
+      "review_number": 2100,
+      "brand": "Apple",
+      "special": "M1 Pro Chip. Touch ID for enhanced security."
+    },
+    {
+      "id": 46,
+      "name": "Apple MacBook Pro 16",
+      "qty": 6,
+      "price": 250000,
+      "description": "High-performance MacBook for professionals",
+      "image": "https://m.media-amazon.com/images/I/31iy73DPqfL._SY445_SX342_QL70_FMwebp_.jpg",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "color": "Space Gray",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "16 inches",
+      "operating_system": "macOS Monterey",
+      "warranty": "3 years",
+      "rating": 4.9,
+      "review_number": 2450,
+      "brand": "Apple",
+      "special": "16-core Neural Engine. AMD Radeon Pro 6900M graphics."
+    },
+    {
+      "id": 47,
+      "name": "Apple MacBook Pro 13 M1",
+      "qty": 10,
+      "price": 145000,
+      "description": "Powerful and compact MacBook",
+      "image": "https://m.media-amazon.com/images/I/61LNGJEMh0L._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Space Gray",
+      "battery_life": "Up to 20 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "macOS Monterey",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1800,
+      "brand": "Apple",
+      "special": "Apple M1 chip with 8-core GPU. True Tone technology."
+    },
+    {
+      "id": 48,
+      "name": "Apple MacBook Pro 14 Touch Bar",
+      "qty": 7,
+      "price": 195000,
+      "description": "Enhanced MacBook with Touch Bar",
+      "image": "https://m.media-amazon.com/images/I/61LNGJEMh0L._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "32GB",
+      "storage": "2TB SSD",
+      "color": "Space Gray",
+      "battery_life": "Up to 15 hours",
+      "screen_size": "14 inches",
+      "operating_system": "macOS Monterey",
+      "warranty": "2 years",
+      "rating": 4.9,
+      "review_number": 2200,
+      "brand": "Apple",
+      "special": "Touch Bar and Touch ID. ProMotion technology."
+    },
+    {
+      "id": 49,
+      "name": "Apple MacBook Air 13",
+      "qty": 12,
+      "price": 125000,
+      "description": "Thin and light MacBook for everyday use",
+      "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "color": "Gold",
+      "battery_life": "Up to 14 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "macOS Monterey",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1600,
+      "brand": "Apple",
+      "special": "Retina display with True Tone. Backlit Magic Keyboard."
+    },
+    {
+      "id": 50,
+      "name": "HP Spectre x360",
+      "qty": 8,
+      "price": 130000,
+      "description": "Premium 2-in-1 laptop with sleek design",
+      "image": "https://m.media-amazon.com/images/I/61OT334fWVL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Nightfall Black",
+      "battery_life": "Up to 14 hours",
+      "screen_size": "13.3 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.8,
+      "review_number": 1850,
+      "brand": "HP",
+      "special": "4K OLED touch display. HP Tilt Pen included."
+    },
+    {
+      "id": 51,
+      "name": "HP Envy 15",
+      "qty": 6,
+      "price": 110000,
+      "description": "Powerful laptop with creative capabilities",
+      "image": "https://m.media-amazon.com/images/I/81T3CPOvdpL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Natural Silver",
+      "battery_life": "Up to 12 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1600,
+      "brand": "HP",
+      "special": "NVIDIA GeForce GTX 1650 graphics. Bang & Olufsen speakers."
+    },
+    {
+      "id": 52,
+      "name": "HP Pavilion x360",
+      "qty": 10,
+      "price": 75000,
+      "description": "Convertible laptop for productivity and entertainment",
+      "image": "https://m.media-amazon.com/images/I/51VZIz+fngL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "color": "Warm Gold",
+      "battery_life": "Up to 9 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1200,
+      "brand": "HP"
+    },
+    {
+      "id": 53,
+      "name": "HP Omen 17",
+      "qty": 7,
+      "price": 160000,
+      "description": "Gaming laptop with high refresh rate display",
+      "image": "https://m.media-amazon.com/images/I/71bym7iERpL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "color": "Shadow Black",
+      "battery_life": "Up to 6 hours",
+      "screen_size": "17.3 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.9,
+      "review_number": 1950,
+      "brand": "HP",
+      "special": "NVIDIA GeForce RTX 3080 graphics. RGB backlit keyboard."
+    },
+    {
+      "id": 55,
+      "name": "ASUS ZenBook 14",
+      "qty": 10,
+      "price": 90000,
+      "description": "Elegant and powerful laptop for productivity",
+      "image": "https://m.media-amazon.com/images/I/71Wff7CS+yL._SX679_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Pine Grey",
+      "battery_life": "Up to 13 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1450,
+      "brand": "ASUS",
+      "special": "ErgoLift hinge for improved typing and cooling."
+    },
+    {
+      "id": 56,
+      "name": "ASUS ROG Strix G15",
+      "qty": 8,
+      "price": 140000,
+      "description": "Gaming laptop with high-performance features",
+      "image": "https://m.media-amazon.com/images/I/71DHBIAEsmL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "color": "Original Black",
+      "battery_life": "Up to 7 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.8,
+      "review_number": 1800,
+      "brand": "ASUS",
+      "special": "NVIDIA GeForce RTX 3070 graphics. ROG Aura RGB lighting."
+    },
+    {
+      "id": 57,
+      "name": "ASUS VivoBook S15",
+      "qty": 12,
+      "price": 75000,
+      "description": "Stylish laptop with NanoEdge display",
+      "image": "https://m.media-amazon.com/images/I/71hbhqTUnAL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "color": "Indie Black",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 10",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1200,
+      "brand": "ASUS",
+      "special": "Ergonomic backlit keyboard. Fast charging support."
+    },
+    {
+      "id": 58,
+      "name": "ASUS TUF Gaming A15",
+      "qty": 7,
+      "price": 100000,
+      "description": "Durable gaming laptop with AMD Ryzen processor",
+      "image": "https://m.media-amazon.com/images/I/91zVSkGGZbS._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "color": "Bonfire Black",
+      "battery_life": "Up to 8 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1550,
+      "brand": "ASUS",
+      "special": "NVIDIA GeForce RTX 3060 graphics. DTS:X Ultra technology."
+    },
+    {
+      "id": 59,
+      "name": "ASUS ZenBook Duo",
+      "qty": 5,
+      "price": 160000,
+      "description": "Dual-screen laptop for enhanced productivity",
+      "image": "https://m.media-amazon.com/images/I/71JFMDI0tOL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "32GB",
+      "storage": "2TB SSD",
+      "color": "Celestial Blue",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.9
+    },
+    {
+      "id": 60,
+      "name": "Acer Swift 5",
+      "qty": 10,
+      "price": 85000,
+      "description": "Lightweight and portable laptop for professionals",
+      "image": "https://m.media-amazon.com/images/I/61XsF-d1JVL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Moonlight White",
+      "battery_life": "Up to 12 hours",
+      "screen_size": "14 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1400,
+      "brand": "Acer",
+      "special": "Ultra-thin bezels for immersive viewing. Fingerprint reader."
+    },
+    {
+      "id": 61,
+      "name": "Acer Predator Helios 300",
+      "qty": 6,
+      "price": 120000,
+      "description": "High-performance gaming laptop",
+      "image": "https://m.media-amazon.com/images/I/812sVlR-fxL._SX679_.jpg",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "color": "Abyssal Black",
+      "battery_life": "Up to 6 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.8,
+      "review_number": 1650,
+      "brand": "Acer",
+      "special": "NVIDIA GeForce RTX 3070 graphics. AeroBlade 3D fan technology."
+    },
+    {
+      "id": 62,
+      "name": "Acer Aspire 5",
+      "qty": 12,
+      "price": 60000,
+      "description": "Versatile laptop for everyday computing",
+      "image": "https://m.media-amazon.com/images/I/61gGtqfZFlL._AC_UY327_FMwebp_QL65_.jpg+",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "color": "Silver",
+      "battery_life": "Up to 8 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "1 year",
+      "rating": 4.6,
+      "review_number": 1300,
+      "brand": "Acer",
+      "special": "Backlit keyboard. Acer TrueHarmony audio technology."
+    },
+    {
+      "id": 63,
+      "name": "Acer Chromebook Spin 13",
+      "qty": 8,
+      "price": 80000,
+      "description": "Premium Chromebook with 2-in-1 design",
+      "image": "https://m.media-amazon.com/images/I/71c6BO65hAL._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "128GB eMMC",
+      "color": "Steel Gray",
+      "battery_life": "Up to 10 hours",
+      "screen_size": "13.5 inches",
+      "operating_system": "Chrome OS",
+      "warranty": "2 years",
+      "rating": 4.7,
+      "review_number": 1250,
+      "brand": "Acer",
+      "special": "Convertible design with Wacom stylus support."
+    },
+    {
+      "id": 64,
+      "name": "Acer Nitro 5",
+      "qty": 7,
+      "price": 90000,
+      "description": "Gaming laptop with budget-friendly features",
+      "image": "https://m.media-amazon.com/images/I/61N6Ojp790L._AC_UY327_FMwebp_QL65_.jpg",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "color": "Obsidian Black",
+      "battery_life": "Up to 7 hours",
+      "screen_size": "15.6 inches",
+      "operating_system": "Windows 11",
+      "warranty": "2 years",
+      "rating": 4.6,
+      "review_number": 1400,
+      "brand": "Acer",
+      "special": "NVIDIA GeForce GTX 1660 Ti graphics. CoolBoost technology."
     }
   ],
   "Bookes": [
@@ -688,9 +1835,10 @@
       "title": "The Enigma Code",
       "author": "Jessica Anderson",
       "genre": "Mystery",
-      "price": 18.99,
+      "price": 2199,
       "description": "A gripping mystery novel set in London.",
-      "image": "https://example.com/the_enigma_code.jpg"
+      "image": "https://m.media-amazon.com/images/I/618IQ8NYUFL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -698,9 +1846,10 @@
       "title": "The Starlight Chronicles",
       "author": "Michael Turner",
       "genre": "Science Fiction",
-      "price": 14.5,
+      "price": 145,
       "description": "An epic space adventure with unforgettable characters.",
-      "image": "https://example.com/the_starlight_chronicles.jpg"
+      "image": "https://m.media-amazon.com/images/I/81+zvQjdEeL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -708,9 +1857,10 @@
       "title": "Echoes of Eternity",
       "author": "Emily Johnson",
       "genre": "Fantasy",
-      "price": 22.0,
+      "price": 220,
       "description": "A tale of magic and destiny in a mystical realm.",
-      "image": "https://example.com/echoes_of_eternity.jpg"
+      "image": "https://m.media-amazon.com/images/I/91dF8qfFYwL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -718,9 +1868,10 @@
       "title": "The Lost City",
       "author": "David Roberts",
       "genre": "Adventure",
-      "price": 16.99,
+      "price": 1349,
       "description": "An archaeological adventure in search of a hidden city.",
-      "image": "https://example.com/the_lost_city.jpg"
+      "image": "https://m.media-amazon.com/images/I/91hPEvgukGL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -728,9 +1879,10 @@
       "title": "Infinite Horizons",
       "author": "Sarah Mitchell",
       "genre": "Science Fiction",
-      "price": 19.95,
+      "price": 1935,
       "description": "Exploring the possibilities of parallel universes.",
-      "image": "https://example.com/infinite_horizons.jpg"
+      "image": "https://m.media-amazon.com/images/I/81vOKrEagOL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -738,9 +1890,10 @@
       "title": "The Silent Witness",
       "author": "Jonathan Brooks",
       "genre": "Thriller",
-      "price": 15.75,
+      "price": 435,
       "description": "A heart-pounding thriller with unexpected twists.",
-      "image": "https://example.com/the_silent_witness.jpg"
+      "image": "https://m.media-amazon.com/images/I/81ZtP1GX-rL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -748,9 +1901,10 @@
       "title": "Beyond the Veil",
       "author": "Jennifer Turner",
       "genre": "Romance",
-      "price": 12.99,
+      "price": 1299,
       "description": "A love story that transcends time and space.",
-      "image": "https://example.com/beyond_the_veil.jpg"
+      "image": "https://m.media-amazon.com/images/I/81sBzKQgRXL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -758,9 +1912,10 @@
       "title": "The Art of Happiness",
       "author": "Richard Smith",
       "genre": "Self-Help",
-      "price": 11.49,
+      "price": 1149,
       "description": "Practical advice for finding true happiness.",
-      "image": "https://example.com/the_art_of_happiness.jpg"
+      "image": "https://m.media-amazon.com/images/I/81iL+zKO7AL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -768,9 +1923,10 @@
       "title": "Into the Wild",
       "author": "Alex Johnson",
       "genre": "Non-Fiction",
-      "price": 17.25,
+      "price": 1725,
       "description": "An exploration of nature's beauty and dangers.",
-      "image": "https://example.com/into_the_wild.jpg"
+      "image": "https://m.media-amazon.com/images/I/41612y9frXL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4"
     },
 
     {
@@ -778,9 +1934,10 @@
       "title": "The Shadow of Death",
       "author": "Laura Williams",
       "genre": "Mystery",
-      "price": 13.5,
+      "price": 135,
       "description": "A thrilling mystery set in a small town.",
-      "image": "https://example.com/the_shadow_of_death.jpg"
+      "image": "https://m.media-amazon.com/images/I/91O4ojeIpmL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "5"
     },
 
     {
@@ -788,9 +1945,10 @@
       "title": "The Last Kingdom",
       "author": "James Anderson",
       "genre": "Historical Fiction",
-      "price": 16.0,
+      "price": 160,
       "description": "A gripping tale of war and loyalty in ancient times.",
-      "image": "https://example.com/the_last_kingdom.jpg"
+      "image": "https://m.media-amazon.com/images/I/91vGXsyGPrL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "5"
     },
 
     {
@@ -798,9 +1956,10 @@
       "title": "Beneath the Surface",
       "author": "Sophia Carter",
       "genre": "Suspense",
-      "price": 14.95,
+      "price": 1495,
       "description": "Uncovering dark secrets in a small coastal town.",
-      "image": "https://example.com/beneath_the_surface.jpg"
+      "image": "https://m.media-amazon.com/images/I/91HBQ-dI5yL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "5"
     },
 
     {
@@ -808,9 +1967,10 @@
       "title": "The Power of Now",
       "author": "Eckhart Tolle",
       "genre": "Spirituality",
-      "price": 10.99,
+      "price": 1099,
       "description": "Embracing mindfulness for a fulfilling life.",
-      "image": "https://example.com/the_power_of_now.jpg"
+      "image": "https://m.media-amazon.com/images/I/51wk62SpJaL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "5"
     },
 
     {
@@ -818,9 +1978,10 @@
       "title": "The Dragon Prophecy",
       "author": "Daniel Turner",
       "genre": "Fantasy",
-      "price": 21.5,
+      "price": 215,
       "description": "An epic fantasy with dragons and ancient prophecies.",
-      "image": "https://example.com/the_dragon_prophecy.jpg"
+      "image": "https://m.media-amazon.com/images/I/91yzQ0YzW1L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "5"
     },
 
     {
@@ -828,9 +1989,10 @@
       "title": "The Alchemist",
       "author": "Paulo Coelho",
       "genre": "Fiction",
-      "price": 9.75,
+      "price": 975,
       "description": "A transformative journey of self-discovery.",
-      "image": "https://example.com/the_alchemist.jpg"
+      "image": "https://m.media-amazon.com/images/I/518qiLwlQ0L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3"
     },
 
     {
@@ -838,9 +2000,10 @@
       "title": "The Lost Heir",
       "author": "Rebecca Roberts",
       "genre": "Adventure",
-      "price": 18.25,
+      "price": 1325,
       "description": "A thrilling quest to reclaim a kingdom's throne.",
-      "image": "https://example.com/the_lost_heir.jpg"
+      "image": "https://m.media-amazon.com/images/I/91RhISGbi5L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3"
     },
 
     {
@@ -848,9 +2011,10 @@
       "title": "The Garden of Dreams",
       "author": "Sophie Turner",
       "genre": "Romance",
-      "price": 12.5,
+      "price": 125,
       "description": "A heartwarming love story set in a beautiful garden.",
-      "image": "https://example.com/the_garden_of_dreams.jpg"
+      "image": "https://m.media-amazon.com/images/I/718QrdCPo5S._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3"
     },
 
     {
@@ -858,9 +2022,10 @@
       "title": "Thinking, Fast and Slow",
       "author": "Daniel Kahneman",
       "genre": "Psychology",
-      "price": 14.99,
+      "price": 1439,
       "description": "Understanding the two systems that shape our thinking.",
-      "image": "https://example.com/thinking_fast_and_slow.jpg"
+      "image": "https://m.media-amazon.com/images/I/71CPEr8zrWL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3"
     },
 
     {
@@ -868,9 +2033,10 @@
       "title": "The Dark Tower",
       "author": "Stephen King",
       "genre": "Horror",
-      "price": 15.95,
+      "price": 1585,
       "description": "A spine-chilling journey to the mysterious Dark Tower.",
-      "image": "https://example.com/the_dark_tower.jpg"
+      "image": "https://m.media-amazon.com/images/I/91ganHkXJPL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3"
     },
 
     {
@@ -878,9 +2044,251 @@
       "title": "The Seven Habits",
       "author": "Stephen Covey",
       "genre": "Self-Help",
-      "price": 11.95,
+      "price": 1295,
       "description": "Effective habits for personal and professional success.",
-      "image": "https://example.com/eggs.jpg"
+      "image": "https://m.media-amazon.com/images/I/71oei0tAnzL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3"
+    },
+
+    {
+      "id": 21,
+      "title": "The Notebook",
+      "author": "Nicholas Sparks",
+      "genre": "Romance",
+      "price": 999,
+      "description": "A heartwarming love story of a young couple.",
+      "image": "https://m.media-amazon.com/images/I/61Ni8CUhW-L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "2"
+    },
+    {
+      "id": 22,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "price": 895,
+      "description": "A classic tale of love, manners, and societal expectations.",
+      "image": "https://m.media-amazon.com/images/I/611ILGG2fiL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "2"
+    },
+    {
+      "id": 23,
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "genre": "Romance",
+      "price": 175,
+      "description": "An emotional story of love and sacrifice.",
+      "image": "https://m.media-amazon.com/images/I/71sJaXehyPL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "2"
+    },
+    {
+      "id": 24,
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Romance",
+      "price": 1299,
+      "description": "A heartrending tale of young love and battling illness.",
+      "image": "https://m.media-amazon.com/images/I/81a4kCNuH+L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "2"
+    },
+
+    {
+      "id": 25,
+      "title": "Outlander",
+      "author": "Diana Gabaldon",
+      "genre": "Romance",
+      "price": 1475,
+      "description": "A captivating time-traveling romance set in Scotland.",
+      "image": "https://m.media-amazon.com/images/I/91tjikkfB6L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "2"
+    },
+    {
+      "id": 26,
+      "title": "Awaken the Giant Within",
+      "author": "Tony Robbins",
+      "genre": "Motivation",
+      "price": 1699,
+      "description": "Unleash your inner potential and take control of your life.",
+      "image": "https://m.media-amazon.com/images/I/81PncHt6wcL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "2"
+    },
+
+    {
+      "id": 27,
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "genre": "Motivation",
+      "price": 1325,
+      "description": "Live in the present moment and find enlightenment.",
+      "image": "https://m.media-amazon.com/images/I/51wk62SpJaL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+    {
+      "id": 28,
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "genre": "Motivation",
+      "price": 985,
+      "description": "Learn the key to success: a combination of passion and perseverance.",
+      "image": "https://m.media-amazon.com/images/I/71uZIWQx+tL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+    {
+      "id": 29,
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink",
+      "genre": "Motivation",
+      "price": 115,
+      "description": "Explore the science of motivation and what drives us.",
+      "image": "https://m.media-amazon.com/images/I/81+l6ovogNL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+    {
+      "id": 30,
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol S. Dweck",
+      "genre": "Motivation",
+      "price": 1075,
+      "description": "Discover the power of a growth mindset for achieving success.",
+      "image": "https://m.media-amazon.com/images/I/71sbvMFxXWL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+
+    {
+      "id": 31,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "Martial Arts",
+      "price": 799,
+      "description": "An ancient Chinese military treatise on strategy and tactics.",
+      "image": "https://m.media-amazon.com/images/I/71xJdnydklL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+    {
+      "id": 32,
+      "title": "Bruce Lee: Artist of Life",
+      "author": "Bruce Lee",
+      "genre": "Martial Arts",
+      "price": 1895,
+      "description": "Insights into the philosophy and life of Bruce Lee.",
+      "image": "https://m.media-amazon.com/images/I/81cScBFHSsL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+    {
+      "id": 33,
+      "title": "Tao of Jeet Kune Do",
+      "author": "Bruce Lee",
+      "genre": "Martial Arts",
+      "price": 15.5,
+      "description": "Bruce Lee's own martial art philosophy and techniques.",
+      "image": "https://m.media-amazon.com/images/I/71J8gSWc46L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+
+    {
+      "id": 34,
+      "title": "Jiu-Jitsu University",
+      "author": "Saulo Ribeiro",
+      "genre": "Martial Arts",
+      "price": 2475,
+      "description": "A comprehensive guide to Brazilian Jiu-Jitsu.",
+      "image": "https://m.media-amazon.com/images/I/51d5ft1O4ML._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+    {
+      "id": 35,
+
+      "title": "The Book of Five Rings",
+      "author": "Miyamoto Musashi",
+      "genre": "Martial Arts",
+      "price": 925,
+      "description": "A classic text on strategy and swordsmanship.",
+      "image": "https://m.media-amazon.com/images/I/81z1jYu6NqL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "1"
+    },
+
+    {
+      "id": 37,
+      "title": "Structures: Or Why Things Don't Fall Down",
+      "author": "J.E. Gordon",
+      "genre": "Engineering",
+      "price": 325,
+      "description": "An exploration of the basic principles of structural engineering.",
+      "image": "https://m.media-amazon.com/images/I/41d7Bg6Xb9L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4.5"
+    },
+
+    {
+      "id": 38,
+      "title": "The Design of Everyday Things",
+      "author": "Donald A. Norman",
+      "genre": "Engineering",
+      "price": 2275,
+      "description": "How design influences the usability and functionality of everyday objects.",
+      "image": "https://m.media-amazon.com/images/I/619ncDeLijL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "4.5"
+    },
+    {
+      "id": 39,
+      "title": "Engineering Mechanics: Dynamics",
+      "author": "R.C. Hibbeler",
+      "genre": "Engineering",
+      "price": 540,
+      "description": "A textbook covering dynamics and mechanics for engineering students.",
+      "image": "https://m.media-amazon.com/images/I/51k8eTklEuL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3.5"
+    },
+    {
+      "id": 40,
+      "title": "Introduction to Electrical Engineering",
+      "author": "Mulukutla S. Sarma",
+      "genre": "Engineering",
+      "price": 4895,
+      "description": "An introductory book on electrical engineering concepts.",
+      "image": "https://m.media-amazon.com/images/I/91JW6NVLM7L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3.5"
+    },
+    {
+      "id": 41,
+      "title": "The Discovery of India",
+      "author": "Jawaharlal Nehru",
+      "genre": "Indian National",
+      "price": 135,
+      "description": "A historical account of India's past, written by its first Prime Minister.",
+      "image": "https://m.media-amazon.com/images/I/917DxIAMgZL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3.5"
+    },
+
+    {
+      "id": 43,
+      "title": "India After Gandhi: The History of the World's Largest Democracy",
+      "author": "Ramachandra Guha",
+      "genre": "Indian National",
+      "price": 1999,
+      "description": "A comprehensive account of post-independence India.",
+      "image": "https://m.media-amazon.com/images/I/81UD5JuilJL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "2.5"
+    },
+
+    {
+      "id": 44,
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "genre": "Indian National",
+      "price": 1175,
+      "description": "A novel set in Kerala, exploring social and political themes.",
+      "image": "https://m.media-amazon.com/images/I/81k4XXP8L2L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3.5"
+    },
+
+    {
+      "id": 45,
+      "title": "The Argumentative Indian: Writings on Indian History, Culture, and Identity",
+      "author": "Amartya Sen",
+      "genre": "Indian National",
+      "price": 165,
+      "description": "A collection of essays on India's rich cultural heritage and diversity.",
+      "image": "https://m.media-amazon.com/images/I/81XQjCZLXFL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3.5"
     }
   ],
   "women": [
@@ -891,10 +2299,10 @@
       "price": 39.99,
       "description": "A beautiful floral dress for a stylish look.",
       "image": [
-        "https://example.com/womens_floral_dress_1.jpg",
-        "https://example.com/womens_floral_dress_2.jpg",
-        "https://example.com/womens_floral_dress_3.jpg",
-        "https://example.com/womens_floral_dress_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2Ff3%2Faef342ecf5e7567c8c6a3ff4abb25c86873911c2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F44%2F71%2F44714b4ec8155376dd0be79625438cd4769afc18.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd7%2Faf%2Fd7afa757c9b0120d5654826e1cebe2518fedfe5c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffd%2Fa7%2Ffda7cf525b7d4504488b13f7f83c2f4de5ea3ecf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -905,10 +2313,10 @@
       "price": 29.95,
       "description": "A chic ruffled blouse for a sophisticated appearance.",
       "image": [
-        "https://example.com/womens_ruffled_blouse_1.jpg",
-        "https://example.com/womens_ruffled_blouse_2.jpg",
-        "https://example.com/womens_ruffled_blouse_3.jpg",
-        "https://example.com/womens_ruffled_blouse_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F22%2Fda%2F22da587ae9a2dd8f63d01cb9eaf6ce68e7dd3516.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8b%2F3f%2F8b3f273ae2516c77730de1f2ee8b0a787b454bbf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F60%2F88%2F608885fd5ea368ffd3d391c76f6def9b00818c28.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2f%2Ffe%2F2ffeb210b0a9ec38ac0dd723f1984a16453af1a9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -919,10 +2327,10 @@
       "price": 49.5,
       "description": "Fashionable skinny jeans for a trendy look.",
       "image": [
-        "https://example.com/womens_skinny_jeans_1.jpg",
-        "https://example.com/womens_skinny_jeans_2.jpg",
-        "https://example.com/womens_skinny_jeans_3.jpg",
-        "https://example.com/womens_skinny_jeans_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4b%2Fdf%2F4bdfe07bc9083213acb969d75670c41c97630c5d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb7%2Fd3%2Fb7d350ff415f43328e17e88fb29a8c9fab51162d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F40%2Fa3%2F40a371be625debe533f1bebe65622a9e9e41b35b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcc%2F3a%2Fcc3aaf70407be3dab3dd3301bae90fa025a2ef97.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -933,10 +2341,10 @@
       "price": 89.99,
       "description": "An elegant pantsuit for formal occasions.",
       "image": [
-        "https://example.com/womens_pantsuit_1.jpg",
-        "https://example.com/womens_pantsuit_2.jpg",
-        "https://example.com/womens_pantsuit_3.jpg",
-        "https://example.com/womens_pantsuit_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3d%2F20%2F3d20e88bacb4117b08c29f943f979e082de6b1a5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8c%2F87%2F8c8741513fcf13c56f63553bb0cd1a44998edd05.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8a%2F3d%2F8a3de5ce7e48315d2ae1173ad620a73bdb420055.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8a%2F3d%2F8a3de5ce7e48315d2ae1173ad620a73bdb420055.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -947,10 +2355,10 @@
       "price": 34.95,
       "description": "A flowy maxi skirt for a boho-chic look.",
       "image": [
-        "https://example.com/womens_maxi_skirt_1.jpg",
-        "https://example.com/womens_maxi_skirt_2.jpg",
-        "https://example.com/womens_maxi_skirt_3.jpg",
-        "https://example.com/womens_maxi_skirt_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc7%2Fb0%2Fc7b0715c4d8a6830dd8190cb5bcce30d5a617788.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd5%2F19%2Fd519add7d86fb1f0a1c7d1f865ac529d7ce2e15d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbc%2Fc7%2Fbcc70b405470f27d6a2d5702b861fc44f79c10a6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc7%2F7a%2Fc77af312f58b33eed9d67db92d72f58a5095180b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -961,10 +2369,10 @@
       "price": 39.95,
       "description": "A comfortable jumpsuit for a relaxed outfit.",
       "image": [
-        "https://example.com/womens_jumpsuit_1.jpg",
-        "https://example.com/womens_jumpsuit_2.jpg",
-        "https://example.com/womens_jumpsuit_3.jpg",
-        "https://example.com/womens_jumpsuit_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F37%2F4e%2F374ef77cf186fb62bb31f37a0766eff416524211.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2F60%2Fbf60848a93b924ba81a5d42f018b4fe103f24990.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff7%2F4a%2Ff74a9621aac5c4851d8361fd068621efd6208d3e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffd%2Fc8%2Ffdc8d4bcc517b98446e5e15113b441359f2376c0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -975,10 +2383,10 @@
       "price": 27.5,
       "description": "An elegant lace top for a romantic touch.",
       "image": [
-        "https://example.com/womens_lace_top_1.jpg",
-        "https://example.com/womens_lace_top_2.jpg",
-        "https://example.com/womens_lace_top_3.jpg",
-        "https://example.com/womens_lace_top_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8c%2F78%2F8c78b6157be42df5495d73f1097e0f4e262fa247.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F57%2F28%2F5728ef690e8b4c12943aed0a83b3736e48b2f5a3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F09%2Fe9%2F09e901da8fdfa9ca3cc20ab40d6df40666b8cfe3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb7%2F5b%2Fb75b0cd9886d483c53886276864db898bb6c9292.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jumpsuits_short%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -989,10 +2397,10 @@
       "price": 45.75,
       "description": "A cozy sweater dress for chilly days.",
       "image": [
-        "https://example.com/womens_sweater_dress_1.jpg",
-        "https://example.com/womens_sweater_dress_2.jpg",
-        "https://example.com/womens_sweater_dress_3.jpg",
-        "https://example.com/womens_sweater_dress_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2F6d%2F2d6ddfdb0a10a283b7b91a011f033d493dcd1801.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd2%2F36%2Fd2363aa21b37808884084b7b51c2520ad6ea4e7d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2a%2Fcb%2F2acb7c0d58931519de5bed342a616e825420a64f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5f%2F4e%2F5f4e939925674bb9fda96b3b9feebe2c30b3f46e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1003,10 +2411,10 @@
       "price": 59.95,
       "description": "A classic denim jacket for a versatile outfit.",
       "image": [
-        "https://example.com/womens_denim_jacket_1.jpg",
-        "https://example.com/womens_denim_jacket_2.jpg",
-        "https://example.com/womens_denim_jacket_3.jpg",
-        "https://example.com/womens_denim_jacket_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F73%2F42%2F7342a40186b62edb313fb4782faa473609c79d28.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F61%2Feb%2F61ebe679b2b181249ea5a470942f1e080c162f29.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5d%2F99%2F5d9933eeb9ac7f3d22fd1d57fcd0f3acaea5ed6a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9e%2F2f%2F9e2fd57eb6758f76d3cbf40c320f6b44ef094011.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1017,10 +2425,10 @@
       "price": 22.5,
       "description": "A sleeveless blouse for a chic and cool look.",
       "image": [
-        "https://example.com/womens_sleeveless_blouse_1.jpg",
-        "https://example.com/womens_sleeveless_blouse_2.jpg",
-        "https://example.com/womens_sleeveless_blouse_3.jpg",
-        "https://example.com/womens_sleeveless_blouse_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F87%2F0b%2F870bda0724c556b58bed35be6b5b52046a253478.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8a%2Fad%2F8aad13e18ecac5a75184f680fce7364e11be2da2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F83%2Ff5%2F83f5b54f4fc0ec120e607ee8afb1abb03b90ba74.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0a%2Fb7%2F0ab7e7cab3285349293ff50a740a84a7db05ab55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1031,10 +2439,10 @@
       "price": 19.99,
       "description": "Comfortable shorts for hot summer days.",
       "image": [
-        "https://example.com/womens_summer_shorts_1.jpg",
-        "https://example.com/womens_summer_shorts_2.jpg",
-        "https://example.com/womens_summer_shorts_3.jpg",
-        "https://example.com/womens_summer_shorts_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F12%2Fd7%2F12d738ca24da6bd731f20c05245ac080fc332a08.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0a%2F53%2F0a5345b5972f60be4b3e1ae77d3bd06ccf3335a1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbb%2F4f%2Fbb4fb8f80b4d1bd251ae15050937cdeca463fb58.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2f%2Fba%2F2fba767d51683d2e4bd26e3cd68ca78e0bbc82a9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1045,10 +2453,10 @@
       "price": 29.95,
       "description": "A cute and playful floral romper.",
       "image": [
-        "https://example.com/womens_floral_romper_1.jpg",
-        "https://example.com/womens_floral_romper_2.jpg",
-        "https://example.com/womens_floral_romper_3.jpg",
-        "https://example.com/womens_floral_romper_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fde%2F48%2Fde483be32d288e07488f5f7c605240b82a6ed408.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F79%2F31%2F793174ef4e29204d0ff179b5df6d176bb63c7827.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3d%2F43%2F3d43dfa49eb9517c1ee4c3cba03dfa6dbf26a2c6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F42%2F56%2F425648051c7569076a750697e51ab5c53e6edceb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1059,10 +2467,10 @@
       "price": 42.99,
       "description": "A trendy athleisure set for a sporty style.",
       "image": [
-        "https://example.com/womens_athleisure_set_1.jpg",
-        "https://example.com/womens_athleisure_set_2.jpg",
-        "https://example.com/womens_athleisure_set_3.jpg",
-        "https://example.com/womens_athleisure_set_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8a%2F82%2F8a822eb4e6a1e955c8511800149e1fe0f745bfe8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbc%2F01%2Fbc014a5813504166146c97c2a44f18616759ce29.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F26%2Fc3%2F26c38622cee8eed33aea0ba84dc5b50b547dffcb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8d%2F7b%2F8d7b14c490dad1d6a4d6e5cca4213123c44662e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1073,10 +2481,10 @@
       "price": 34.5,
       "description": "A bohemian-style dress for a free-spirited look.",
       "image": [
-        "https://example.com/womens_boho_dress_1.jpg",
-        "https://example.com/womens_boho_dress_2.jpg",
-        "https://example.com/womens_boho_dress_3.jpg",
-        "https://example.com/womens_boho_dress_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F41%2Fcc%2F41ccc72821893a6151375216a0af84be3183a500.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa9%2Fde%2Fa9deed9f178aa27add6090f4ddac4d9df02ebbee.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fca%2F0d%2Fca0d78be2cb862d8c4471085f9eeb7c0bfda9257.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F82%2Fc5%2F82c58129ea9121a5f2162726b4fd5e61e0eb75ee.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1087,10 +2495,10 @@
       "price": 26.75,
       "description": "An off-shoulder top for a flirty and feminine style.",
       "image": [
-        "https://example.com/womens_off_shoulder_top_1.jpg",
-        "https://example.com/womens_off_shoulder_top_2.jpg",
-        "https://example.com/womens_off_shoulder_top_3.jpg",
-        "https://example.com/womens_off_shoulder_top_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F09%2F6c%2F096c1bd343e7a357c4573b3e04764cede9fbed48.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F33%2F51%2F3351dd4155f8c9a9684b9d44885818515e00fcf4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F15%2F37%2F1537ea029365806f919811b86a119749af5dfc70.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F67%2Faf%2F67af8af34c04cf08812e9ce46ddccfd3e9f0597f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1101,10 +2509,10 @@
       "price": 31.99,
       "description": "A stylish wrap skirt for a versatile outfit.",
       "image": [
-        "https://example.com/womens_wrap_skirt_1.jpg",
-        "https://example.com/womens_wrap_skirt_2.jpg",
-        "https://example.com/womens_wrap_skirt_3.jpg",
-        "https://example.com/womens_wrap_skirt_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd8%2F20%2Fd820627ccdf2c47a0bab9abcee2ffab843b7d1ca.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F46%2Ff0%2F46f01b25c6c6d5269eee8a887970ff69afec8454.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F82%2F78%2F827811871cf17d94cd39b85ef1e770c0ccf10310.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa9%2Fab%2Fa9abab104b8ca79508231ca51f1ab182c81ca94f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1115,10 +2523,10 @@
       "price": 38.5,
       "description": "A sleeveless jumpsuit for a chic and modern look.",
       "image": [
-        "https://example.com/womens_sleeveless_jumpsuit_1.jpg",
-        "https://example.com/womens_sleeveless_jumpsuit_2.jpg",
-        "https://example.com/womens_sleeveless_jumpsuit_3.jpg",
-        "https://example.com/womens_sleeveless_jumpsuit_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd1%2F97%2Fd197b2b563f8d5f41cdeece835c0c31d6227a8c7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbe%2F87%2Fbe8709f36918aa2432b93f6f7095784e9f846c44.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F62%2Fd3%2F62d3270907286028cdda1cf4b289b44dc14680e6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F44%2F95%2F4495ff77b4887d85d3f006d0f69dff6688a21dfe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1129,10 +2537,10 @@
       "price": 29.99,
       "description": "A cropped sweater for a trendy and youthful style.",
       "image": [
-        "https://example.com/womens_cropped_sweater_1.jpg",
-        "https://example.com/womens_cropped_sweater_2.jpg",
-        "https://example.com/womens_cropped_sweater_3.jpg",
-        "https://example.com/womens_cropped_sweater_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9f%2F3f%2F9f3f459c0e5e7ab45c89eb2cd03daa209086ea2d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0e%2F80%2F0e80f65a893b378a8b79b89de0cf6c96030fcb55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb4%2F5a%2Fb45a789ad82ecfe608ecf79d276a3f7741b0c0ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9b%2F20%2F9b20021135c0725332ff2d89fd4ab6c3e8eaee21.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1143,10 +2551,10 @@
       "price": 79.95,
       "description": "A classic trench coat for a timeless outerwear.",
       "image": [
-        "https://example.com/womens_trench_coat_1.jpg",
-        "https://example.com/womens_trench_coat_2.jpg",
-        "https://example.com/womens_trench_coat_3.jpg",
-        "https://example.com/womens_trench_coat_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F72%2F62%2F7262f3e9268c050d7e82e299a6ee54a8651016d4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F79%2F98%2F7998a3593cdea3d0ca263aa733cd91734dbb5cbe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb1%2F26%2Fb126701159c41d7a3213f1ef997bd745dfc17426.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F92%2Ff0%2F92f05adc2fccc79846b34ce4dc1578df0c124d62.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     },
 
@@ -1157,10 +2565,10 @@
       "price": 49.95,
       "description": "A comfortable activewear set for workouts.",
       "image": [
-        "https://example.com/womens_activewear_set_1.jpg",
-        "https://example.com/womens_activewear_set_2.jpg",
-        "https://example.com/womens_activewear_set_3.jpg",
-        "https://example.com/womens_activewear_set_4.jpg"
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F61%2F72%2F61727d2a8d053056dcb41237efaeb49b2302a1b8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F76%2Ff6%2F76f68398b5d3cb8a5300c01d4afe7b352467ec86.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fea%2F27%2Fea27bf5c5ec1fd27f08e7ece90c6d4db82ed79a9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb2%2Fac%2Fb2ac31a2086c4211eacc2f9d7e0919616137d6ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       ]
     }
   ],
@@ -1169,180 +2577,707 @@
       "id": 1,
       "name": "Men's Polo Shirt",
       "category": "Shirts",
-      "price": 29.99,
+      "price": 2999,
       "description": "A classic polo shirt for casual occasions.",
-      "image": ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=source[/c7/09/c709e7906a79ed8df968e7115802cdff12a3a269.jpg],origin[dam],category[MEN_TSHIRTSTANKS_POLO],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F44%2Fd9%2F44d9faafe7ec4c715ae53694a7ecf892b811cc43.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F76%2Fdb%2F76dbbe8370c6b24081eeecd4b8e77fb2183f7213.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6d%2Fa9%2F6da9b487e36ab601f72f0f967c8c32a9c496df63.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+
+      "brand": "Polo"
     },
 
     {
       "id": 2,
       "name": "Men's Jeans",
       "category": "Jeans",
-      "price": 49.95,
+      "price": 4995,
       "description": "Stylish denim jeans for everyday wear.",
-      "image": ["image5.jpg", "image6.jpg", "image7.jpg", "image8.jpg"]
+      "brand": "Polo",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F23%2F7a%2F237a2aadb84f10371aac36c88fed8574a64d2253.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb3%2Fe7%2Fb3e7c19cf6b566300a59205814a031602b3a0f55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fae%2Fc3%2Faec343e578b81a13aee69999f8bbcbf8359fce6c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F27%2F6d%2F276dbf82063a659a74bd9e00fbf60d797de8ea53.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ]
     },
 
     {
       "id": 3,
       "name": "Men's Hoodie",
       "category": "Sweatshirts",
-      "price": 39.5,
+      "price": 3954,
       "description": "A comfortable hoodie for a cozy look.",
-      "image": ["image9.jpg", "image10.jpg", "image11.jpg", "image12.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F30%2Fec%2F30ec663a17a178272b997f32ed6ade74ad3d3b88.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2f%2F6b%2F2f6b959341fd2d8353fbe0ab70ba132b0cb23016.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F38%2Fb6%2F38b6d99c16dbf22c7a967b2c3050a723f438b919.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd5%2F6c%2Fd56ce526e96f3840d935becb201ba48309d11027.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Polo"
     },
 
     {
       "id": 4,
       "name": "Men's Chinos",
       "category": "Pants",
-      "price": 34.99,
+      "price": 3499,
       "description": "Versatile chinos for a smart-casual style.",
-      "image": ["image13.jpg", "image14.jpg", "image15.jpg", "image16.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe9%2F85%2Fe985486de1b516ea1a910e8bf908039646547cae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fac%2F84%2Fac84f7b2bd934340483cc8a19d4d415d665b554a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F84%2Fb8%2F84b8d8bc3b9587e8c2fcce946806aa1c4d6500fe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F92%2Fc6%2F92c681bad3976292393d6cefc6138272f79e4772.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Polo"
     },
 
     {
       "id": 5,
       "name": "Men's Dress Shirt",
       "category": "Shirts",
-      "price": 45.75,
+      "price": 4575,
       "description": "A classic dress shirt for formal occasions.",
-      "image": ["image17.jpg", "image18.jpg", "image19.jpg", "image20.jpg"]
+      "image": [
+        "https://asset2.ruecdn.com/images/product/101047/1010470558_RLLDTH_1.jpg",
+        "https://asset2.ruecdn.com/images/product/101047/1010470558_RLLDTH_1.jpg",
+        "https://asset2.ruecdn.com/images/product/101047/1010470558_RLLDTH_1.jpg",
+        "https://asset2.ruecdn.com/images/product/101047/1010470558_RLLDTH_1.jpg"
+      ],
+      "brand": "Ralph Lauren"
     },
 
     {
       "id": 6,
       "name": "Men's T-Shirt",
       "category": "Shirts",
-      "price": 19.99,
+      "price": 1999,
       "description": "A comfortable t-shirt for everyday use.",
-      "image": ["image21.jpg", "image22.jpg", "image23.jpg", "image24.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff0%2F3b%2Ff03bb5311e15cbdcd4d4a0d75d3acad87f3d5da2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F21%2Ff9%2F21f9072c7424da4b72da05faf942e896be9f83f8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F34%2F8b%2F348b739f898089a67704513110e0ddf8a65a3f65.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb1%2F2c%2Fb12cf0b07d1b7e5e6e7d799a653ffac85f500150.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Ralph Lauren"
     },
 
     {
       "id": 7,
       "name": "Men's Shorts",
       "category": "Shorts",
-      "price": 25.5,
+      "price": 2559,
       "description": "Casual shorts for hot summer days.",
-      "image": ["image25.jpg", "image26.jpg", "image27.jpg", "image28.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9a%2Ffb%2F9afb1c56354a5ada3fdc30112b15e5cac088b1f8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fac%2Fff%2Facff8d0309764a71f34703cb62e7df44d0a356e4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcf%2Fda%2Fcfda9cd80f7c00fd2e8e7290e0ad561b4cde3d45.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shorts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6c%2Fd8%2F6cd86c40526511cf254eb1c6dbff6cd6ed3ec02e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+      ],
+      "brand": "Ralph Lauren"
     },
 
     {
       "id": 8,
       "name": "Men's Blazer",
       "category": "Jackets",
-      "price": 89.95,
+      "price": 8995,
       "description": "A stylish blazer for a polished look.",
-      "image": ["image29.jpg", "image30.jpg", "image31.jpg", "image32.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcf%2Ffc%2Fcffc8664914cc4c578133f5a49411f34e0d3188a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F49%2Fd8%2F49d8f8553b071f07d0e21423654ef5f5a8b0ec71.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd4%2F95%2Fd495ad91283009ae573cf81f39e46e98c68bb3a7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5b%2Fcf%2F5bcf1ec977172235ffb846efe4ad23ee58c8c273.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "H&M"
     },
 
     {
       "id": 9,
       "name": "Men's Sweatshirt",
       "category": "Sweatshirts",
-      "price": 32.99,
+      "price": 3299,
       "description": "A cozy sweatshirt for colder days.",
-      "image": ["image33.jpg", "image34.jpg", "image35.jpg", "image36.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fee%2F90%2Fee905618833f147f45b88eddd27f7bbafc077c2d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1b%2F98%2F1b988bd089d84a16f7e6386bc839962392a650f8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffa%2F92%2Ffa92917889fab0eb404ef7dfc85356c2beb05ca1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F10%2Fac%2F10aca1ca160ed206a0add75ce39cd86ce410e8d2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "H&M"
     },
 
     {
       "id": 10,
       "name": "Men's Leather Jacket",
       "category": "Jackets",
-      "price": 149.99,
+      "price": 14955,
       "description": "A stylish leather jacket for a rugged look.",
-      "image": ["image37.jpg", "image38.jpg", "image39.jpg", "image40.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1f%2F11%2F1f11290aea41a9a7aec8d097d212542244894a9b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F88%2F3d%2F883d0a87895ca7e02cf7bccd9843ee402adfeedb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F76%2F54%2F7654482a1592a18af109069bfd7c4928d4245819.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0e%2Fb1%2F0eb19c9d990704c6db183bd0abb2ced51400fc7c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "H&M"
     },
 
     {
       "id": 11,
       "name": "Men's Sports Jersey",
       "category": "Athletic Wear",
-      "price": 27.95,
+      "price": 2795,
       "description": "A sports jersey for athletic activities.",
-      "image": ["image41.jpg", "image42.jpg", "image43.jpg", "image44.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F44%2F41%2F444129b461794eeadae364910e048b8cc9747b7d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc1%2F40%2Fc1408c910a0425997749f6930656e3e663f6cf64.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fae%2Fc6%2Faec6247e471775e133563321bc401e9a50c01055.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6b%2Fa6%2F6ba62390217ece4e4362fbfe797baf646cf6f2b4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "H&M"
     },
 
     {
       "id": 12,
       "name": "Men's Formal Suit",
       "category": "Suits",
-      "price": 199.99,
+      "price": 1992,
       "description": "A formal suit for special occasions.",
-      "image": ["image45.jpg", "image46.jpg", "image47.jpg", "image48.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb1%2F54%2Fb15467a564e924271c11c6d514a8f45681470099.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd2%2Faa%2Fd2aac75502ab550217df1c33dedfebfcf7ec7e89.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F58%2F1a%2F581a493d2e62d006f9db28ce18b54d2ca9ab1e2c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9c%2Fac%2F9caca17f274af974c3353becb2290e4ee1f762b5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gap"
     },
 
     {
       "id": 13,
       "name": "Men's V-Neck Sweater",
       "category": "Sweaters",
-      "price": 39.5,
+      "price": 3957,
       "description": "A classic v-neck sweater for a sophisticated look.",
-      "image": ["image49.jpg", "image50.jpg", "image51.jpg", "image52.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0e%2F12%2F0e12429959bc8b1b9b7ee90a8b7746315dabae06.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F55%2Fde%2F55dea1c1a13b7a90d3bf69464150f522cf959718.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F01%2Faa%2F01aa355f8fa0a53795a3538e70e6a7c1c74e6f3d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff3%2F51%2Ff3516a5c361aff3432ad8fe3013c5f313af261b1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gap"
     },
 
     {
       "id": 14,
       "name": "Men's Cargo Pants",
       "category": "Pants",
-      "price": 44.99,
+      "price": 4499,
       "description": "Practical cargo pants for a rugged style.",
-      "image": ["image53.jpg", "image54.jpg", "image55.jpg", "image56.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6b%2F28%2F6b28dd1c9e78ea180ec8c8dfb4322b1ce09c54af.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6b%2F28%2F6b28dd1c9e78ea180ec8c8dfb4322b1ce09c54af.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F73%2F35%2F733535d05e7bb6bb3bd8a33ac99a747e3b236051.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffd%2F6b%2Ffd6bb9ad0b564abb35fbd496ff4fcd6d9b5c2976.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gap"
     },
 
     {
       "id": 15,
       "name": "Men's Graphic T-Shirt",
       "category": "Shirts",
-      "price": 22.99,
+      "price": 2299,
       "description": "A trendy graphic t-shirt for a unique look.",
-      "image": ["image57.jpg", "image58.jpg", "image59.jpg", "image60.jpg"]
+      "image": [
+        "https://www.levi.in/dw/image/v2/BBRC_PRD/on/demandware.static/-/Sites-LeviMaster-Catalog/en_IN/dwc6e6d633/images/hi-res/169600912/169600912_01_Style%20Shot.jpg?sw=451&sh=600",
+        "https://www.levi.in/dw/image/v2/BBRC_PRD/on/demandware.static/-/Sites-LeviMaster-Catalog/en_IN/dw247a64a6/images/hi-res/169600912/169600912_03_Side.jpg?sw=451&sh=600",
+        "https://www.levi.in/dw/image/v2/BBRC_PRD/on/demandware.static/-/Sites-LeviMaster-Catalog/en_IN/dw75e69925/images/hi-res/169600912/169600912_04_Front%20details.jpg?sw=451&sh=600",
+        "https://www.levi.in/dw/image/v2/BBRC_PRD/on/demandware.static/-/Sites-LeviMaster-Catalog/en_IN/dw41469382/images/hi-res/169600912/169600912_04_Side.jpg?sw=451&sh=600"
+      ],
+      "brand": "Levi's"
     },
 
     {
       "id": 16,
       "name": "Men's Button-Up Shirt",
       "category": "Shirts",
-      "price": 29.95,
+      "price": 2995,
       "description": "A versatile button-up shirt for various occasions.",
-      "image": ["image61.jpg", "image62.jpg", "image63.jpg", "image64.jpg"]
+      "image": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/a/3/f/m-purplelg-lrc-10-adwyn-peter-original-imagrfh2ypfhnpgx.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/3/d/m/l-lrc-10-adwyn-peter-original-imagpxceaqtz3pzd.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/n/g/j/l-lrc-10-adwyn-peter-original-imagpxceenbuw7fe.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/q/c/w/l-lrc-10-adwyn-peter-original-imagpxcepnqaxy8s.jpeg?q=70"
+      ],
+      "brand": "Levi's"
     },
 
     {
       "id": 17,
       "name": "Men's Puffer Jacket",
       "category": "Jackets",
-      "price": 79.99,
+      "price": 7999,
       "description": "A warm puffer jacket for winter.",
-      "image": ["image65.jpg", "image66.jpg", "image67.jpg", "image68.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F59%2Ffc%2F59fcad3945f3f717d5beabf1ad56f9c427b8f326.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fab%2Ff8%2Fabf82f1ab495fc73f0a1f85254ed4244d9543874.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3d%2Ff4%2F3df421507f6324d431940f770d7216cdc0983538.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb7%2F06%2Fb706e05294ea0d4c33995fde04ae7a291c6c6b26.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Levi's"
     },
 
     {
       "id": 18,
       "name": "Men's Cargo Shorts",
       "category": "Shorts",
-      "price": 28.5,
+      "price": 1,
       "description": "Casual cargo shorts for a laid-back look.",
-      "image": ["image69.jpg", "image70.jpg", "image71.jpg", "image72.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F95%2F98%2F9598a89623ba019a3c2d31a0bacda10192878aec.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F42%2F34%2F4234c98d092e7c9d4f6fe99e82f406f10c07cce8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fef%2F8c%2Fef8cb3036b522002b2a35a80274061c05bcb15fc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6d%2F99%2F6d99d4e7b69d8999cecaee27954f6d96d2aa28cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Lacoste"
     },
 
     {
       "id": 19,
       "name": "Men's Denim Shirt",
       "category": "Shirts",
-      "price": 36.75,
+      "price": 3675,
       "description": "A stylish denim shirt for a trendy outfit.",
-      "image": ["image73.jpg", "image74.jpg", "image75.jpg", "image76.jpg"]
+      "image": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/m/t/2/xxl-sk-dp-den-01-street-king-original-imagh6kqd4vtvayf.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/r/m/f/xxl-sk-dp-den-01-street-king-original-imagh6kq2xvfz7zh.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/l/p/b/xxl-sk-dp-den-01-street-king-original-imagh6kqzeh5vxnd.jpeg?q=70",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/c/r/b/xxl-sk-dp-den-01-street-king-original-imagh6kq7szwdrkq.jpeg?q=70"
+      ],
+      "brand": "Lacoste"
     },
 
     {
       "id": 20,
       "name": "Men's Track Pants",
       "category": "Athletic Wear",
-      "price": 34.95,
+      "price": 3495,
       "description": "Comfortable track pants for workouts or lounging.",
-      "image": ["image77.jpg", "image78.jpg", "image79.jpg", "image80.jpg"]
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff6%2F18%2Ff6183fbe95f98f5214aa02a9c861020fa33b8874.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F60%2F2a%2F602a44c930651379edfb0cb30ca9c62d337fbf2d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2c%2F8a%2F2c8a582d747454653686dfe6a3c301fc4d0dc666.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fce%2F0e%2Fce0e1affb33c7ab35e34a0b1aa149fdce7a8155a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Lacoste"
+    },
+    {
+      "id": 21,
+      "name": "Men's Denim Jeans",
+      "category": "Jeans",
+      "price": 5499,
+      "description": "Classic denim jeans for a stylish look.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F47%2F05%2F4705fcbaa237ca0e0eb679303af9c8527b0d2ec0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0d%2F5d%2F0d5d7bce0a0eb011f76f3178983395083d6a9e0f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F35%2F44%2F3544c8c36882b102cfc2856c435a657ce7d5ddb9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffa%2Fdc%2Ffadc316dd4a1408e17e3f166ac8d6c113be9fb3d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Levi's"
+    },
+    {
+      "id": 22,
+      "name": "Men's Graphic T-Shirt",
+      "category": "Shirts",
+      "price": 2299,
+      "description": "A trendy graphic t-shirt for a unique look.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F72%2F1a%2F721a7531a76ce54446439181304753fb74ea1508.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4a%2F24%2F4a2423a03a88190f409d8f50e95aa666da44f94e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4a%2F24%2F4a2423a03a88190f409d8f50e95aa666da44f94e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4a%2F24%2F4a2423a03a88190f409d8f50e95aa666da44f94e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Adidas"
+    },
+    {
+      "id": 23,
+      "name": "Men's Cargo Pants",
+      "category": "Pants",
+      "price": 4499,
+      "description": "Practical cargo pants for a rugged style.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2F35%2F18357a5bdbdde4d9e85f3f90372f8ec8e4bb1805.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Faf%2F7b%2Faf7b53ea5abd2449953efc1ece2d2aade5f071fa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fec%2Fb1%2Fecb1be54228c1d9961bf710bafc2f0d8accd462a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F04%2Fcc%2F04ccb8ec21e329fff251073cd2b5ff54477cb44c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Puma"
+    },
+    {
+      "id": 24,
+      "name": "Men's Polo Shirt",
+      "category": "Shirts",
+      "price": 2999,
+      "description": "A classic polo shirt for casual occasions.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F58%2F56%2F5856ee353f4b4a7d64d281e5007ea4d3e2b7a82d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc0%2Fbc%2Fc0bcc04f8dbee97243dd996ca87b4abf1a0ed94a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6c%2F8a%2F6c8a6b305df11673e269767530e08b60a5761965.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F90%2F59%2F9059d190b0a86f916d89ecc7ecfa1f38f9aea057.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 25,
+      "name": "Men's Sweatshirt",
+      "category": "Sweatshirts",
+      "price": 3299,
+      "description": "A cozy sweatshirt for colder days.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7d%2Ff2%2F7df2cf0260d7811509a45350ba5265898122b301.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2F87%2F35877ffe1c29fbee600d8793f3bd6da5965da4b3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8f%2F95%2F8f95e4b93a99692ba951e0581dd49b0320595aa3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F54%2F60%2F546091a5910a7edaec2a189b113b6a82f4449e64.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Under Armour"
+    },
+    {
+      "id": 26,
+      "name": "Men's Leather Jacket",
+      "category": "Jackets",
+      "price": 1490,
+      "description": "A stylish leather jacket for a rugged look.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F14%2F6c%2F146c77a9cb6aeda7640e6aa5119d71aa4aeaf440.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbc%2Fce%2Fbcce77257aa76d56643323ad6f24c322dab84f8b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe2%2F58%2Fe25819a6bc800608c91637507acac85d2dec3dc4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9b%2F15%2F9b1519b8ca1bd5f8c9c1ced6c2669ad4d6149c61.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gucci"
+    },
+    {
+      "id": 27,
+      "name": "Men's Formal Suit",
+      "category": "Suits",
+      "price": 4000,
+      "description": "A formal suit for special occasions.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F31%2Fb2%2F31b2e6c7dfed0e58a28e3841a40e3041f00a587c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb3%2Ff7%2Fb3f719f39a843846d39503e7c6775ee275d107f7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F18%2F83%2F1883aeaea422e4e7d95e3cf595481c225037878a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F53%2F1e%2F531e2f22c5b5eeac93ddadceaed221d348bc9efa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Versace"
+    },
+    {
+      "id": 28,
+      "name": "Men's Denim Jacket",
+      "category": "Jackets",
+      "price": 8995,
+      "description": "A stylish denim jacket for a versatile look.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7c%2Fd7%2F7cd7001ede440e4949dcc5eb702992ade709ad88.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F78%2Fdc%2F78dcb8aed1c65fcef224e588efb9be8507ec0a23.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb1%2Fa1%2Fb1a126cbdb65892e5df0ff3684ffc9f0e93fb834.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffa%2F4d%2Ffa4deacbc0b88a1a0002067b127d66d637c5d42c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 29,
+      "name": "Men's Chinos",
+      "category": "Pants",
+      "price": 4999,
+      "description": "Versatile chinos for a smart-casual style.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2b%2F5b%2F2b5b16e936a98fbc3f57037b65edfbbf98327d3e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2F45%2F2045288eb0676f073228e569ce0250815df86ea8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa2%2F4b%2Fa24beeacd46ff680fff2ed7cda9c72c3a4f00d02.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3e%2Fc7%2F3ec725654ac996cf570e12532a419433f354f4c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 30,
+      "name": "Men's Crewneck Sweater",
+      "category": "Sweaters",
+      "price": 4575,
+      "description": "A classic crewneck sweater for a sophisticated look.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F67%2F36%2F67366b629dd09446925d4e8d9e043a6d8fead27e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F38%2F8e%2F388ec26a4eba98cbc9c8dcfc20ea34d3c474d2dd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F02%2F0c%2F020c43b45327c9624826ce186c0c39acc7d2c7ff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0c%2F8a%2F0c8a439bd8ae4f273c3e33bbf131649336f53e0f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 31,
+      "name": "Men's Checkered Shirt",
+      "category": "Shirts",
+      "price": 3995,
+      "description": "A checkered shirt for a trendy outfit.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa8%2F77%2Fa8776d512a7a264493f4a9eaddbaa1cd7203cfde.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe0%2Ffd%2Fe0fdf88145c5631ca6b7d97f159fd3ddbbe733bc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd0%2Fe4%2Fd0e4cecbd8b7d3c2b7145298858795dfd7853d31.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fef%2Fd3%2Fefd3679c344854e4fca3d18b171f6ad53b425fa2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shirts_longsleeved%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 32,
+      "name": "Men's Shorts",
+      "category": "Shorts",
+      "price": 8923,
+      "description": "Casual shorts for hot summer days.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fdd%2F46%2Fdd46cb508bca7669421dbead1420553e525a77a2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fed%2Fe5%2Fede5ef5ffee9881be165eade71bad0b8fbe5b174.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shorts_linen%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F50%2F6f%2F506f8a4291362f9dd551356ab3fb61fd67022aeb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F57%2F71%2F5771ff8f0f51ae8e15ab08b46901049986713721.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shorts_linen%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 33,
+      "name": "Men's Varsity Jacket",
+      "category": "Jackets",
+      "price": 12000,
+      "description": "A stylish varsity jacket for a sporty look.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F98%2F98%2F989808e5aa966c472a9ff5470acd0a0070a63901.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F99%2Fc2%2F99c27898952a34fc28d311f6d686d84d582579ae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F18%2F34%2F1834285801f67d10468d32aa4e7c80455d700591.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F52%2F76%2F527647d8883bb01b73c4745c8499d7f41eac92a5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 34,
+      "name": "Men's Dress Shirt",
+      "category": "Shirts",
+      "price": 5995,
+      "description": "A classic dress shirt for formal occasions.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1f%2F01%2F1f0138c0ffd85cf1a7484362ccabac8da89b3885.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F56%2Fc5%2F56c5106e7315b49f46cc5c60c88cd63a900ad31c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Faa%2Fe5%2Faae50bfd25697f9b648c6bbe63fac48b99990382.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa5%2F19%2Fa51969a46db60a5e3e3ec35350f697d1bc0ee232.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 35,
+      "name": "Men's Dress Shirt",
+      "category": "Shirts",
+      "price": 1795,
+      "description": "An elegant dress shirt for formal events.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcc%2F7c%2Fcc7c6e9313d49395b27d2e9fb9c557ff9b0e04ab.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2F15%2F4a15d91364c3f1c057bb89b1dd36a959eacb06bd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fda%2F6a%2Fda6a6fa5f2095c5a805feedbfab6a95282549ea8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc9%2Faa%2Fc9aac52f5d73efbf807c06020cb52fab2abe7367.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Versace"
+    },
+    {
+      "id": 36,
+      "name": "Men's Leather Belt",
+      "category": "Accessories",
+      "price": 1299,
+      "description": "A stylish leather belt to complement your outfit.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0a%2F99%2F0a999b014c547c70aec1701381b5773cd0a33767.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5a%2F45%2F5a458cf6a98af01d5cbfa889242f530db05e03fc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6c%2Fa6%2F6ca63a99b50786a04d6be643526c68e8668ef72b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbf%2Fde%2Fbfdeb79eb60d3347dc3de6902bbdc693e181b22f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Versace"
+    },
+    {
+      "id": 37,
+      "name": "Men's Wool Coat",
+      "category": "Coats",
+      "price": 7809,
+      "description": "A luxurious wool coat for colder days.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc9%2F4f%2Fc94ff312cfe1d505e9c97f8c92f29321dfa5b46b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb8%2F51%2Fb851ecc67ce8c422d7f5dc20c94f5a7087699a52.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa1%2Ff2%2Fa1f2917e569a9423aac76ee2634c943a81780e31.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F71%2F73%2F71733460fb27038411c7c3d1729800f996f83898.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Versace"
+    },
+    {
+      "id": 38,
+      "name": "Men's Silk Tie",
+      "category": "Accessories",
+      "price": 8455,
+      "description": "A refined silk tie for a polished look.",
+      "image": [
+        "ihttps://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F32%2F5e%2F325eb080cde6ac00986b1d44f023b96d09ffb5bf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F77%2F98%2F7798bd2950ac692ade2ae39c2123e1873f1a6809.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fdf%2F85%2Fdf85605690a10c9d15c82c3fcb82987cc69d85ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_accessories_ties_bowties_handkerchiefs%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff3%2Fc3%2Ff3c35894ebe776ecef67eef172b5fb7f64e611ea.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_accessories_ties_bowties_handkerchiefs%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Versace"
+    },
+    {
+      "id": 39,
+      "name": "Men's Medusa Print T-Shirt",
+      "category": "Shirts",
+      "price": 1597,
+      "description": "A statement t-shirt with Versace's iconic Medusa print.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fca%2Fe4%2Fcae4d490d1dfcc954b0b3cc81c1250fd55eb64bd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fca%2Fe4%2Fcae4d490d1dfcc954b0b3cc81c1250fd55eb64bd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe0%2Fbb%2Fe0bb5577fdfd8778d1d639b15aa37d98932c43c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F54%2F22%2F5422b9404b3a3941a901cb5f0274d666891e6c25.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Versace"
+    },
+    {
+      "id": 40,
+      "name": "Men's Logo Embroidered T-Shirt",
+      "category": "Shirts",
+      "price": 2495,
+      "description": "A classic t-shirt with Gucci's logo embroidery.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fdb%2F4a%2Fdb4a361b3c2fa5d9b03c37b0c033e10f7f94da19.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb9%2Ff0%2Fb9f06e5ae419ea95569ba1b90ea8807042378dfb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F97%2F68%2F9768bc97d041658a8a8d631dc563a31485ada025.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F43%2Ff0%2F43f089ec20821e1555a4643a33be32491d78025e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gucci"
+    },
+    {
+      "id": 41,
+      "name": "Men's Wool Sweater",
+      "category": "Sweaters",
+      "price": 2899,
+      "description": "A luxurious wool sweater for a sophisticated look.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F04%2F62%2F0462020ece4fd7c6266fc3879378708136d24e4a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F04%2F62%2F0462020ece4fd7c6266fc3879378708136d24e4a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2d%2F3a%2F2d3a056e26e6a6392e74e6e31837cc200fb7327d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2F0a%2F2d0a350f6890050b12fb7597910cd187b81d94bd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+      ],
+      "brand": "Gucci"
+    },
+    {
+      "id": 42,
+      "name": "Men's Slim Fit Jeans",
+      "category": "Jeans",
+      "price": 2799,
+      "description": "Stylish slim fit jeans for a modern silhouette.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb5%2F94%2Fb5941d75cc3031b1e76ff0254120db2285078cdd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F56%2F71%2F5671aca244b6631b98dfe405dfee01f2fad833cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F21%2F92%2F2192ced80298025510f434238c0ad325df7e11e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc2%2Fb5%2Fc2b51dd8133eb1ac6865cf8b4c6990c919b444e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gucci"
+    },
+    {
+      "id": 43,
+      "name": "Men's Leather Dress Shoes",
+      "category": "Shoes",
+      "price": 8000,
+      "description": "Elegant leather dress shoes for formal events.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7b%2F3e%2F7b3ebce63f78dfe701b4a5ad3ec0ac2bfb136c86.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5c%2Fa0%2F5ca0665a248f51e4ad131e75ea36fd432f9aaa86.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb3%2Ff1%2Fb3f14117bec29628ca6fd65e8f84c22e66e8e21c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffa%2F9e%2Ffa9e1d8155fffac1ea5ff88868af7b8d40461901.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gucci"
+    },
+    {
+      "id": 44,
+      "name": "Men's Silk Scarf",
+      "category": "Accessories",
+      "price": 2000,
+      "description": "A luxurious silk scarf to elevate your style.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F10%2Fba%2F10baade7df94912f62a19a2312eaf130231b0cd2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F60%2F03%2F600336c26a1ed20f8c78e9c7a1380abf9f628c88.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F19%2F4d%2F194d31856035afbe72a0556c0b9fa79d0f1d76f0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F12%2F04%2F120433488f4ddfbf8dd7e8e7ee6a0eb8fe790d13.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Gucci"
+    },
+    {
+      "id": 45,
+      "name": "Men's Track Jacket",
+      "category": "Jackets",
+      "price": 6495,
+      "description": "A sporty track jacket for an athletic style.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fea%2F8b%2Fea8bde1acf1f7be40cce16aa94c224afb9b714b6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F40%2F79%2F4079bbfe1c7609a245c68612c0d432821fb4e117.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa4%2F99%2Fa499aa2cea41ba4064a83367031683c86e893a8f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa8%2F3c%2Fa83ce2777b7b05b25f4df239a37a8f1fe42ee456.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Adidas"
+    },
+    {
+      "id": 46,
+      "name": "Men's Soccer Shorts",
+      "category": "Shorts",
+      "price": 3499,
+      "description": "Lightweight soccer shorts for the game.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4b%2Fd2%2F4bd2667842c378ce30c83c0787c096c4b1f63eef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb9%2F61%2Fb961b85a3fab68115fc3ecf06282b911cc4bd80c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa7%2F4e%2Fa74efe9b7e26c3f4509c7169e64d6b233ba1d9b0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F66%2F3b%2F663be5e6d4f2b6fc40bf3593c857a54f01efd468.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Adidas"
+    },
+    {
+      "id": 47,
+      "name": "Men's Running Shoes",
+      "category": "Shoes",
+      "price": 9999,
+      "description": "Comfortable running shoes for your active lifestyle.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F23%2F57%2F23577b4de06b397d457110669778f25db9d344ac.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe0%2Fa4%2Fe0a4a01ef89f162769293f91d901dc54d50a6ecb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F63%2F82%2F6382fbe4cf428e011f34419baddac847511c07e4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fca%2Fe1%2Fcae1f03fb7b9521c0f3d45d2543fe5f975a7e9b9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Adidas"
+    },
+    {
+      "id": 48,
+      "name": "Men's Performance Polo",
+      "category": "Shirts",
+      "price": 39.95,
+      "description": "A performance polo shirt for sports and leisure.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F33%2F91%2F3391b7ff80f279d40c4fce044f55d2c5783ba985.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5f%2F0b%2F5f0b6f43dfc92f8fce6a58c47978391a85b91486.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F29%2F79%2F29790478ded51af07aa783f05197a5885c097111.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F12%2Fda%2F12da08bd32281ceb71ef48451c842483ee5cd9af.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "Adidas"
+    },
+    {
+      "id": 49,
+      "name": "Men's Hooded Sweatshirt",
+      "category": "Sweatshirts",
+      "price": 3456,
+      "description": "A cozy hooded sweatshirt for casual days.",
+      "image": [
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd6%2F12%2Fd6125a0c4d3adb1b523646e502dca31fb90f9f88.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff7%2F80%2Ff7801b8ac6dbe25b7ef1d3d8e613fcfcd3cd760f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_Jumpsuitsplaysuits_jumpsuits%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+        "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fab%2F93%2Fab93d3f6ea1854b64f93d7c905cfc8755ca951db.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Faf%2Fd2%2Fafd2ef19d5bd4d61c91bf181262ea5284241d5f1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_Jumpsuitsplaysuits_jumpsuits%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+      ],
+      "brand": "H&M"
     }
   ]
 }

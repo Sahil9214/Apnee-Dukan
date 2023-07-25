@@ -1,0 +1,22 @@
+.sort_filter_data_laptop {
+  width: 30%;
+  border: 2px solid green;
+}
+.mainLaptopBox {
+  display: flex;
+  justify-content: space-between;
+}
+.laptopDatafetch {
+
+  width: 70%;
+}
+.laptopDataFetch1 {
+  display: flex;
+  justify-content: space-between;
+  
+}
+.DataFetchAPI{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 30px;
+}

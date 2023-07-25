@@ -78,7 +78,9 @@ export default function GrocerySwiper5() {
                       <Divider />
                       <br />
                       <Link to="/grocery">
-                        <Button bg={"blackAlpha.700"} className="btnSwiper5">
+                        <Button bg={"pink"} className="btnSwiper5"  _hover={{
+                          backgroundColor:"blue.500"
+                        }}    >
                           View All
                         </Button>
                       </Link>

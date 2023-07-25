@@ -1,0 +1,16 @@
+.booksmainPage {
+  display: flex;
+}
+.filter_search_method {
+  width: 20%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.booksdata {
+  width: 80%;
+  
+}
+.gridData {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}

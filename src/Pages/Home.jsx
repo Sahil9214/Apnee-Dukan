@@ -32,8 +32,7 @@ const Home = () => {
       <br />
       <GrocerySwiper5 />
       <Divider />
-      <br />
-      <Footer />
+      
     </div>
   );
 };
