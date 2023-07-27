@@ -6,17 +6,26 @@ import axios from "axios";
 import dataSkeleton from "../Skeleton";
 import UserMobileCard from "./UserMobileCard";
 import MobileFilter from "./MobileFilter";
+import { useLocation, useSearchParams } from "react-router-dom";
 const Box1Mobile = () => {
   const [num, setNum] = useState(0);
-  const [data, setData] = useState([]);
+  const [val, setData] = useState([]);
   const [page, setPage] = useState(1);
+  const [searchParams] = useSearchParams();
+  const location = useLocation();
   //!simple Fetch Data
+
+  //Filter the Data
   const getData = async () => {
     try {
-      let res = await axios.get(
-        `http://localhost:8080/mobiles?_page=${page}&_limit=5`
-      );
-      console.log(res.data);
+      const res = await axios.get("http://localhost:8080/mobiles", {
+        params: {
+          brand: searchParams.get("brand")||undefined,
+          ram: searchParams.get("ram")||undefined,
+          storage: searchParams.get("storage")||undefined,
+        },
+      });
+
       setNum(res.data.length);
       setData(res.data);
     } catch (err) {
@@ -36,11 +45,10 @@ const Box1Mobile = () => {
       console.log("err", err);
     }
   };
-  //Filter the Data
 
   useEffect(() => {
     getData();
-  }, [page]);
+  }, [location.search]);
 
   return (
     <div>
@@ -59,7 +67,7 @@ const Box1Mobile = () => {
                   textAlign: "center",
                   overflow: "hidden",
                   marginLeft: "7px",
-                  fontSize:"14px"
+                  fontSize: "14px",
                 }}
               >
                 (Showing 1-{num && num} results of total Products)
@@ -85,8 +93,8 @@ const Box1Mobile = () => {
           </Box>
           <Box className="printData">
             {<dataSkeleton /> &&
-              data.map((el) => {
-                return <UserMobileCard {...el} />;
+              val.map((el) => {
+                return <UserMobileCard {...el} key={el.id} />;
               })}
           </Box>
           <Box style={{ justifyContent: "space-around", display: "flex" }}>

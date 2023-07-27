@@ -5,21 +5,19 @@ import {
   Flex,
   Heading,
   Image,
-
   Stack,
   Text,
   useColorModeValue,
 } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
-export default function UserMobileCard({
+export default function WomenCard({
   name,
-  image,
   brand,
-  description,
+  image1,
+  category,
   price,
-  ram,
-  Battery,storage,
-  id
+  description,
+  id,
 }) {
   return (
     <Center py={6}>
@@ -34,7 +32,7 @@ export default function UserMobileCard({
         padding={4}
       >
         <Flex flex={1} bg="blue.200">
-          <Image objectFit="cover" boxSize="100%" src={image} />
+          <Image objectFit="cover" boxSize="100%" src={image1} />
         </Flex>
         <Stack
           flex={1}
@@ -48,9 +46,15 @@ export default function UserMobileCard({
             {name}
           </Heading>
           <Text fontWeight={600} color={"gray.500"} size="sm" mb={4}>
+            {brand}
+          </Text>
+          <Text
+            textAlign={"center"}
+            color={useColorModeValue("gray.700", "gray.400")}
+            px={3}
+          >
             {description}
           </Text>
-
           <Stack align={"center"} justify={"center"} direction={"row"} mt={6}>
             <Badge
               px={2}
@@ -58,7 +62,7 @@ export default function UserMobileCard({
               bg={useColorModeValue("gray.50", "gray.800")}
               fontWeight={"400"}
             >
-              {`Ram ${ram}`}
+              Category {category}
             </Badge>
             <Badge
               px={2}
@@ -66,26 +70,10 @@ export default function UserMobileCard({
               bg={useColorModeValue("gray.50", "gray.800")}
               fontWeight={"400"}
             >
-              {`Storage ${storage}`}
-            </Badge>
-            
-            <Badge
-              px={2}
-              py={1}
-              bg={useColorModeValue("gray.50", "gray.800")}
-              fontWeight={"400"}
-            >
-              {`Battery ${Battery}`}
+              Price {price}
             </Badge>
           </Stack>
-          <Badge
-              px={2}
-              py={3}
-              bg={useColorModeValue("gray.50", "gray.800")}
-              fontWeight={"900"}
-            >
-              {`Price ${price}`}
-            </Badge>
+
           <Stack
             width={"100%"}
             mt={"2rem"}
@@ -94,17 +82,19 @@ export default function UserMobileCard({
             justifyContent={"space-between"}
             alignItems={"center"}
           >
-            <Link to={`/mobile/${id}`}>
-            <Button
-              flex={1}
-              fontSize={"sm"}
-              rounded={"full"}
-              _focus={{
-                bg: "gray.200",
-              }}
-            >
-              Add To Cart
-            </Button></Link>
+            <Link to={`/women/${id}`}>
+              {" "}
+              <Button
+                flex={1}
+                fontSize={"sm"}
+                rounded={"full"}
+                _focus={{
+                  bg: "gray.200",
+                }}
+              >
+                Add To cart
+              </Button>
+            </Link>
             <Button
               flex={1}
               fontSize={"sm"}

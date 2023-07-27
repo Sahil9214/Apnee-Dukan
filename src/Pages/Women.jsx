@@ -10,15 +10,26 @@ import Skeleton from "react-loading-skeleton";
 import UserMenData from "../Components/Men/UserMenData";
 import { Radio, RadioGroup, Stack } from "@chakra-ui/react";
 import MenSwiper3 from "../Components/Men/MenSwiper3";
+import WomenCard from "../Components/Women/WomenCard";
+import WomeFilter from "../Components/Women/WomeFilter";
+import { useLocation, useSearchParams } from "react-router-dom";
+import ErrorPage from "./ErrorPage";
 const Men = () => {
   const [data, setData] = useState([]);
   const [num, setNum] = useState(0);
   const [page, setPage] = useState(1);
-
+  const [searchParams] = useSearchParams();
+  const location = useLocation();
   const getData = async () => {
     try {
       let res = await axios.get(
-        `  http://localhost:8080/women?_page=${page}&_limit=5`
+        `  http://localhost:8080/women?_page=${page}&_limit=5`,
+        {
+          params: {
+            brand: searchParams.get("brand") || undefined,
+            category: searchParams.get("category") || undefined,
+          },
+        }
       );
       setNum(res.data.length);
       setData(res.data);
@@ -43,7 +54,7 @@ const Men = () => {
 
   useEffect(() => {
     getData();
-  }, [page]);
+  }, [page, location.search]);
 
   return (
     <div>
@@ -62,66 +73,23 @@ const Men = () => {
         />
         <MenSwiper2 />
       </Box>
-      <br/>
-      <Divider/>
+      <br />
+      <Divider />
       <Box>
-        <MenSwiper3/>
+        <MenSwiper3 />
       </Box>
-      <Divider/>
-      <br/>
-      <br/>
+      <Divider />
+      <br />
+      <br />
       {/* //Get MEn Data */}
       <Box className="mainMenDataFetch">
         <Box className="menSort">
-          <Box style={{ margin: "auto", width: "90%" }}>
-            <Text className="filterHeadingMen"> Filter</Text>
-            <br />
-
-            <Select placeholder="Select Category">
-              <option value="H&M">H&M</option>
-              <option value="Adidas">Adidas</option>
-              <option value="Gucci">Gucci</option>
-              <option value="Gucci">Gucci</option>
-              <option value="Versace">Versace</option>
-              <option value="Tommy Hilfiger">Tommy Hilfiger</option>
-              <option value="Lacoste">Lacoste</option>
-              <option value="Levi's">Levi's</option>
-            </Select>
-            <br />
-            <Divider />
-            <br />
-            <Text className="filterHeadingMen">Select Categories</Text>
-            <Select placeholder="Select Category">
-              <option value="Shirts">Shirts</option>
-              <option value="Jeans">Jeans</option>
-              <option value="Sweatshirts">Sweatshirts</option>
-              <option value="Pants">Pants</option>
-              <option value="Shorts">Shorts</option>
-              <option value="Jackets">Jackets</option>
-              <option value="Athletic Wear">Athletic Wear</option>
-              <option value="Suits">Suits</option>
-              <option value="Sweaters">Sweaters</option>
-            </Select>
-            <br />
-            <Divider />
-            <br />
-            <Text className="filterHeadingMen">Price</Text>
-            <Stack>
-              <Radio size="lg">2000 to 3000</Radio>
-              <Radio size="lg">3000 to 4000</Radio>
-              <Radio size="lg">4000 to 5000</Radio>
-              <Radio size="lg">4000 to 5000</Radio>
-              <Radio size="lg">5000 to 6000</Radio>
-              <Radio size="lg">6000 to 7000</Radio>
-              <Radio size="lg">7000 to 8000</Radio>
-              <Radio size="lg">8000 to 9000</Radio>
-            </Stack>
-          </Box>
+          <WomeFilter />
         </Box>
         <Box>
           <Box className="menData1">
             <Box>
-              <Text className="menHeadingResult">Men Cloth Data</Text>
+              <Text className="menHeadingResult">Women Cloth Data</Text>
               <p
                 style={{
                   textAlign: "center",
@@ -155,10 +123,14 @@ const Men = () => {
           </Box>
           <Divider />
           <Box className="menData2">
-            {<Skeleton count={10} /> &&
+            {data.length === 0 ? (
+              <ErrorPage />
+            ) : (
+              <Skeleton count={10} /> &&
               data.map((el) => {
-                return <UserMenData {...el} />;
-              })}
+                return <WomenCard {...el} key={el.id} />;
+              })
+            )}
           </Box>
           <Box style={{ display: "flex", justifyContent: "space-around" }}>
             {page < 1 ? (
@@ -172,7 +144,7 @@ const Men = () => {
               </Button>
             )}
 
-            <Button style={{backgroundColor:"pink"}}>{page}</Button>
+            <Button style={{ backgroundColor: "pink" }}>{page}</Button>
 
             <Button
               style={{ backgroundColor: "pink" }}

@@ -6,13 +6,23 @@ import "../CSS/Laptop.css";
 import Skeleton from "react-loading-skeleton";
 import LaptopCard from "../Components/Laptop/LaptopCard";
 import LaptopFilterSort from "../Components/Laptop/LaptopFilterSort";
+import { useLocation, useSearchParams } from "react-router-dom";
 const Laptop = () => {
   const [data, setData] = useState([]);
   const [page, setpage] = useState(1);
   const [num, setNum] = useState(0);
+  const [searchParam] = useSearchParams();
+const location=useLocation()
   const getData = async () => {
     try {
-      let res = await axios.get(`http://localhost:8080/laptop`);
+      let res = await axios.get(`http://localhost:8080/laptop`, {
+        params: {
+          brand: searchParam.get("brand") || undefined,
+          ram: searchParam.get("ram") || undefined,
+          storage: searchParam.get("storage") || undefined,
+          color: searchParam.get("color") || undefined,
+        },
+      });
       setData(res.data);
       setNum(res.data.length);
     } catch (err) {
@@ -24,7 +34,7 @@ const Laptop = () => {
 
   useEffect(() => {
     getData();
-  }, []);
+  }, [location.search]);
 
   return (
     <div>
@@ -34,7 +44,7 @@ const Laptop = () => {
       <Box className="mainLaptopBox">
         {/* //Sort and filter the data */}
         <Box className="sort_filter_data_laptop">
-          <LaptopFilterSort/>
+          <LaptopFilterSort />
         </Box>
         {/* //Dataa get Append here */}
         <Box className="laptopDatafetch">

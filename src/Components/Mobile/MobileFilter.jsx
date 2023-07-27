@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "../../CSS/Mobile.css";
 import { Box, Divider, Select, Text, option } from "@chakra-ui/react";
 import { Radio, RadioGroup, Stack } from "@chakra-ui/react";
@@ -9,8 +9,36 @@ import {
   RangeSliderThumb,
 } from "@chakra-ui/react";
 import "../../CSS/MobileFilter.css";
+import { useSearchParams } from "react-router-dom";
 const MobileFilter = () => {
-  const handleFilter = (e) => {};
+  const [searchParam, setSearchParam] = useSearchParams();
+
+  let brandSearch = searchParam.get("brand");
+  let storageSearch = searchParam.get("storage");
+  let ramSearch = searchParam.get("ram");
+
+  const [brand, setBrand] = useState(brandSearch || "");
+  const [storage, setStore] = useState(storageSearch || "");
+  const [ram, setRam] = useState(ramSearch || "");
+  const handleFilterBrand = (e) => {
+    setBrand(e.target.value);
+  };
+  const handleFilterStorage = (e) => {
+    setStore(e.target.value);
+  };
+
+  const handleFilterRam = (e) => {
+    setRam(e.target.value);
+  };
+
+  useEffect(() => {
+    let params = {
+      brand,
+      storage,
+      ram,
+    };
+    setSearchParam(params);
+  }, [brand, storage, ram]);
 
   return (
     <div
@@ -32,7 +60,7 @@ const MobileFilter = () => {
           width={"90%"}
           margin={"auto"}
           textAlign={"left"}
-          onChange={handleFilter}
+          onChange={handleFilterBrand}
         >
           <option value="Apple">Apple</option>
           <option value="Oppo">oppo</option>
@@ -49,46 +77,77 @@ const MobileFilter = () => {
 
         <Text className="storageMobile">According to Storage</Text>
         <br />
-        <RadioGroup
-          defaultValue="1"
-          style={{ margin: "auto", marginLeft: "50px" }}
-        >
-          <Stack spacing={6} direction="column">
-            <Radio size={"lg"} value="512GB">
-              512GB
-            </Radio>
-            <Radio size={"lg"} value="256GB">
-              256GB
-            </Radio>
-            <Radio size={"lg"} value="128GB">
-              128GB
-            </Radio>
+        <Box defaultValue="1" style={{ margin: "auto", marginLeft: "50px" }}>
+          <Stack spacing={6} direction="column" onChange={handleFilterStorage}>
+            <div>
+              <input
+                type="radio"
+                value="512GB"
+                name="storage"
+                checked={storage === "512GB"}
+              />
+              <label>512GB</label>
+            </div>
+            <div>
+              <input
+                type="radio"
+                value="128GB"
+                name="storage"
+                checked={storage === "128GB"}
+              />
+              <label>128GB</label>
+            </div>
+            <div>
+              <input
+                type="radio"
+                value="64GB"
+                name="storage"
+                checked={storage === "64GB"}
+              />
+              <label>64GB</label>
+            </div>
           </Stack>
-        </RadioGroup>
+        </Box>
         <br />
         <Divider />
         <br />
         <Text className="storageMobile">According to RAM</Text>
         <br />
-        <RadioGroup
-          defaultValue="1"
-          style={{ margin: "auto", marginLeft: "50px" }}
-        >
-          <Stack spacing={6} direction="column">
-            <Radio size={"lg"} value="12GB">
-              12GB
-            </Radio>
-            <Radio size={"lg"} value="8GB">
-              8GB
-            </Radio>
-            <Radio size={"lg"} value="6GB">
-              6GB
-            </Radio>
-            <Radio size={"lg"} value="4GB">
-              4GB
-            </Radio>
+        <Box defaultValue="1" style={{ margin: "auto", marginLeft: "50px" }}>
+          <Stack spacing={6} direction="column" onChange={handleFilterRam}>
+            <div>
+              <input
+                type="radio"
+                value="12GB"
+                name="ram"
+                checked={ram === "12GB"}
+              />
+              <label>12GB</label>
+            </div>
+            <div>
+              <input
+                type="radio"
+                value="8GB"
+                name="ram"
+                checked={ram === "8GB"}
+              />
+              <label>8GB</label>
+            </div>
+            <div>
+              <input
+                type="radio"
+                value="6GB"
+                name="ram"
+                checked={ram === "6GB"}
+              />
+              <label>6GB</label>
+            </div>
+            <div>
+              <input type="radio" value="4GB" name="ram" />
+              <label>4GB</label>
+            </div>
           </Stack>
-        </RadioGroup>
+        </Box>
         <br />
         <Divider />
         <br />

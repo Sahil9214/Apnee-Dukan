@@ -8,13 +8,13 @@ import {
   Text,
   Stack,
   Button,
-  Link,
+  
   Badge,
   useColorModeValue,
   Image,
 } from "@chakra-ui/react";
-
-export default function GroceryCard({ name, image, description, price }) {
+import { Link } from "react-router-dom";
+export default function GroceryCard({ name, image, description, price, id }) {
   return (
     <Center py={6}>
       <Box
@@ -28,10 +28,10 @@ export default function GroceryCard({ name, image, description, price }) {
       >
         <Image
           size={"md"}
-          src={ image }
+          src={image}
           height="200px"
-          width={'90%'}
-          margin='auto'
+          width={"90%"}
+          margin="auto"
           mb={4}
           pos={"relative"}
           _after={{
@@ -50,21 +50,24 @@ export default function GroceryCard({ name, image, description, price }) {
           {name}
         </Heading>
         <Box
-        style={{
-            display:"flex",
-            justifyContent:"space-between"
-        }}
-        >
-        <span
           style={{
-            fontSize: "22px",
-            fontWeight: "700",
-            color: "blue",
+            display: "flex",
+            justifyContent: "space-between",
           }}
         >
-          Price
-        </span>
-        <Text fontWeight={600} color={"gray.500"} mb={4}>₹{price}</Text></Box>
+          <span
+            style={{
+              fontSize: "22px",
+              fontWeight: "700",
+              color: "blue",
+            }}
+          >
+            Price
+          </span>
+          <Text fontWeight={600} color={"gray.500"} mb={4}>
+            ₹{price}
+          </Text>
+        </Box>
         <Text
           textAlign={"center"}
           color={useColorModeValue("gray.700", "gray.400")}
@@ -73,32 +76,7 @@ export default function GroceryCard({ name, image, description, price }) {
           {description}
         </Text>
 
-        <Stack align={"center"} justify={"center"} direction={"row"} mt={6}>
-          <Badge
-            px={2}
-            py={1}
-            bg={useColorModeValue("gray.50", "gray.800")}
-            fontWeight={"400"}
-          >
-            #art
-          </Badge>
-          <Badge
-            px={2}
-            py={1}
-            bg={useColorModeValue("gray.50", "gray.800")}
-            fontWeight={"400"}
-          >
-            #photography
-          </Badge>
-          <Badge
-            px={2}
-            py={1}
-            bg={useColorModeValue("gray.50", "gray.800")}
-            fontWeight={"400"}
-          >
-            #music
-          </Badge>
-        </Stack>
+       
 
         <Stack mt={8} direction={"row"} spacing={4}>
           <Button
@@ -109,8 +87,9 @@ export default function GroceryCard({ name, image, description, price }) {
               bg: "gray.200",
             }}
           >
-            Message
+            Wishlist
           </Button>
+          <Link to={`/grocery/${id}`}>
           <Button
             flex={1}
             fontSize={"sm"}
@@ -127,8 +106,8 @@ export default function GroceryCard({ name, image, description, price }) {
               bg: "blue.500",
             }}
           >
-            Follow
-          </Button>
+            Add To Cart
+          </Button></Link>
         </Stack>
       </Box>
     </Center>

@@ -12,8 +12,37 @@ import {
   Text,
   useColorModeValue,
 } from "@chakra-ui/react";
+import axios from "axios";
+import { useState } from "react";
 
 export default function Login() {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+
+  const handleSubmit = async () => {
+    let obj = {
+      email,
+      password,
+    };
+    try {
+      let res = await axios.get(`http://localhost:8080/users`);
+      let loginSuccessful = false;
+      res.data.forEach((el) => {
+        if (el.password === obj.password && el.email === obj.email) {
+          alert("login Successfull");
+          loginSuccessful = true;
+        }
+      });
+      if (loginSuccessful === false) {
+        alert("login fail");
+      }
+      setEmail("");
+      setPassword("")
+    } catch (err) {
+      console.log("err", err);
+    }
+  };
+
   return (
     <Flex
       minH={"100vh"}
@@ -37,11 +66,15 @@ export default function Login() {
           <Stack spacing={4}>
             <FormControl id="email">
               <FormLabel>Email address</FormLabel>
-              <Input type="email" />
+              <Input type="email" onChange={(e) => setEmail(e.target.value)} value={email} />
             </FormControl>
             <FormControl id="password">
               <FormLabel>Password</FormLabel>
-              <Input type="password" />
+              <Input
+                type="password"
+                onChange={(e) => setPassword(e.target.value)}
+                value={password}
+              />
             </FormControl>
             <Stack spacing={10}>
               <Stack
@@ -53,6 +86,7 @@ export default function Login() {
                 <Link color={"blue.400"}>Forgot password?</Link>
               </Stack>
               <Button
+                onClick={handleSubmit}
                 bg={"blue.400"}
                 color={"white"}
                 _hover={{

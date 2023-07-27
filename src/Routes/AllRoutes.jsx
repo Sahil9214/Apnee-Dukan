@@ -14,6 +14,7 @@ import SingleMobile from "../Pages/SingleMobile";
 import SingleWomenPage from "../Pages/SingleWomenPage";
 import SingleLaptop from "../Pages/SingleLaptop";
 import SingleMenPage from "../Pages/SingleMenPage";
+import SingleBooksPage from '../Pages/SingleBooksPage'
 const AllRoutes = () => {
   return (
     <Routes>

@@ -5,13 +5,13 @@ import {
   Button,
   Badge,
   Text,
-  Link,
   Avatar,
   Box,
   Center,
   Heading,
   useColorModeValue,
 } from "@chakra-ui/react";
+import { Link } from "react-router-dom";
 const LaptopCard = ({
   name,
   brand,
@@ -27,16 +27,18 @@ const LaptopCard = ({
   operating_system,
   special,
   warranty,
+  id,
 }) => {
   return (
-    <div style={{height:"900px",boxShadow:" rgba(0, 0, 0, 0.16) 0px 1px 4px"}}>
-      <Box style={{height:"900px"}}>
-        <Center style={{height:"900px"}}>
+    <div
+      style={{ height: "900px", boxShadow: " rgba(0, 0, 0, 0.16) 0px 1px 4px" }}
+    >
+      <Box style={{ height: "900px" }}>
+        <Center style={{ height: "900px" }}>
           <Box
             maxW={"420px"}
             w={"full"}
             bg={useColorModeValue("white", "gray.900")}
-            
             p={2}
             textAlign={"center"}
           >
@@ -61,7 +63,7 @@ const LaptopCard = ({
             <Heading fontSize={"2xl"} fontFamily={"body"}>
               {name}
             </Heading>
-            <Text fontWeight={600} color={"gray.900"} >
+            <Text fontWeight={600} color={"gray.900"}>
               <span style={{ fontSize: "14px", fontWeight: "400" }}>Brand</span>{" "}
               {brand}
             </Text>
@@ -126,24 +128,27 @@ const LaptopCard = ({
               >
                 Wishlist
               </Button>
-              <Button
-                flex={1}
-                fontSize={"sm"}
-                rounded={"full"}
-                bg={"blue.400"}
-                color={"white"}
-                boxShadow={
-                  "0px 1px 25px -5px rgb(66 153 225 / 48%), 0 10px 10px -5px rgb(66 153 225 / 43%)"
-                }
-                _hover={{
-                  bg: "blue.500",
-                }}
-                _focus={{
-                  bg: "blue.500",
-                }}
-              >
-                Add To Cart
-              </Button>
+              <Link to={`/laptop/${id}`}>
+                {" "}
+                <Button
+                  flex={1}
+                  fontSize={"sm"}
+                  rounded={"full"}
+                  bg={"blue.400"}
+                  color={"white"}
+                  boxShadow={
+                    "0px 1px 25px -5px rgb(66 153 225 / 48%), 0 10px 10px -5px rgb(66 153 225 / 43%)"
+                  }
+                  _hover={{
+                    bg: "blue.500",
+                  }}
+                  _focus={{
+                    bg: "blue.500",
+                  }}
+                >
+                  Add To Cart
+                </Button>
+              </Link>
             </Stack>
           </Box>
         </Center>

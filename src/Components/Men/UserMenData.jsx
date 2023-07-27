@@ -5,19 +5,20 @@ import {
   Flex,
   Heading,
   Image,
-  Link,
+  
   Stack,
   Text,
   useColorModeValue,
 } from "@chakra-ui/react";
-
+import { Link } from "react-router-dom";
 export default function UserMenData({
   name,
   brand,
-  image,
+  image1,
   category,
   price,
   description,
+  id,
 }) {
   return (
     <Center py={6}>
@@ -32,7 +33,7 @@ export default function UserMenData({
         padding={4}
       >
         <Flex flex={1} bg="blue.200">
-          <Image objectFit="cover" boxSize="100%" src={image[0]} />
+          <Image objectFit="cover" boxSize="100%" src={image1} />
         </Flex>
         <Stack
           flex={1}
@@ -82,16 +83,19 @@ export default function UserMenData({
             justifyContent={"space-between"}
             alignItems={"center"}
           >
-            <Button
-              flex={1}
-              fontSize={"sm"}
-              rounded={"full"}
-              _focus={{
-                bg: "gray.200",
-              }}
-            >
-              Add To cart
-            </Button>
+            <Link to={`/men/${id}`}>
+              {" "}
+              <Button
+                flex={1}
+                fontSize={"sm"}
+                rounded={"full"}
+                _focus={{
+                  bg: "gray.200",
+                }}
+              >
+                Add To cart
+              </Button>
+            </Link>
             <Button
               flex={1}
               fontSize={"sm"}
