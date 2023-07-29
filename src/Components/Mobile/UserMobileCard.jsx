@@ -13,7 +13,7 @@ import {
 import { Link } from "react-router-dom";
 export default function UserMobileCard({
   name,
-  image,
+  image1,
   brand,
   description,
   price,
@@ -34,7 +34,7 @@ export default function UserMobileCard({
         padding={4}
       >
         <Flex flex={1} bg="blue.200">
-          <Image objectFit="cover" boxSize="100%" src={image} />
+          <Image objectFit="cover" boxSize="100%" src={image1} />
         </Flex>
         <Stack
           flex={1}

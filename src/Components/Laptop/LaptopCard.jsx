@@ -17,7 +17,7 @@ const LaptopCard = ({
   brand,
   price,
   description,
-  image,
+  image1,
   battery_life,
   storage,
   rating,
@@ -44,7 +44,7 @@ const LaptopCard = ({
           >
             <Image
               size={"xl"}
-              src={image}
+              src={image1}
               alt={"Avatar Alt"}
               //   mb={4}
               pos={"relative"}

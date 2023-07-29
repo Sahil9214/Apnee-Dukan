@@ -13,7 +13,11 @@ import {
   IconProps,
   Icon,
 } from "@chakra-ui/react";
+import axios from "axios";
+import { authAPIPOST } from "../Redux/Auth/auth.action";
 import { useState } from "react";
+import { useDispatch } from "react-redux";
+import { useNavigate } from "react-router-dom";
 
 const avatars = [
   {
@@ -39,6 +43,32 @@ const avatars = [
 ];
 
 export default function Signup() {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [mobile,setMobile]=useState("")
+  const navigate = useNavigate();
+  const dispatch = useDispatch();
+
+  const handleSubmit = async () => {
+    let obj = {
+      name,
+      email,
+      password,
+      mobile,
+      cart: [],
+    };
+    dispatch(authAPIPOST(obj));
+    alert("Signup Successfull");
+
+    setEmail("");
+    setName("");
+    setPassword("");
+    return navigate("/login")
+  };
+
+
+
   return (
     <Box position={"relative"}>
       <Container
@@ -144,6 +174,8 @@ export default function Signup() {
                 _placeholder={{
                   color: "gray.500",
                 }}
+                value={name}
+                onChange={(e) => setName(e.target.value)}
               />
               <Input
                 placeholder="Enter the Email ID"
@@ -153,15 +185,30 @@ export default function Signup() {
                 _placeholder={{
                   color: "gray.500",
                 }}
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
               />
               <Input
-                placeholder="Enter the Number"
+                placeholder="Enter the Password"
                 bg={"gray.100"}
                 border={0}
                 color={"gray.500"}
                 _placeholder={{
                   color: "gray.500",
                 }}
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+              />
+              <Input
+                placeholder="Enter the Mobile Number"
+                bg={"gray.100"}
+                border={0}
+                color={"gray.500"}
+                _placeholder={{
+                  color: "gray.500",
+                }}
+                value={mobile}
+                onChange={(e) => setMobile(e.target.value)}
               />
             </Stack>
             <Button
@@ -174,6 +221,7 @@ export default function Signup() {
                 bgGradient: "linear(to-r, red.400,pink.400)",
                 boxShadow: "xl",
               }}
+              onClick={handleSubmit}
             >
               Submit
             </Button>

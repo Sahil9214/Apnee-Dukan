@@ -61,7 +61,7 @@ export default function Swiper2() {
                   style={{ justifyContent: "space-around", display: "flex" }}
                 >
                   <Box>
-                    <Image src={el.image} alt={el.name} height={"400px"} />
+                    <Image src={el.image1} alt={el.name} height={"400px"} />
                   </Box>
                   <Box style={{ marginTop: "80px" }}>
                     <Text className="swiper2Name">{el.name}</Text>

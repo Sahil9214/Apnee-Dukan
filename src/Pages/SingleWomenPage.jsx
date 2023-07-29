@@ -19,23 +19,43 @@ import {
   ListItem,
 } from "@chakra-ui/react";
 import axios from "axios";
-import home from '../Images/home.png'
+
 import { useState, useEffect } from "react";
 import { MdLocalShipping } from "react-icons/md";
 import { Link } from "react-router-dom";
 import { useParams } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { cardDataGet } from "../Redux/Cart/cart.action";
 export default function SingleWomenPage() {
   const [data, setData] = useState({});
   const { id } = useParams();
+  const state = useSelector((store) => store.cartReducer);
 
   const getData = async () => {
     try {
-      let res = await axios.get(`  http://localhost:8080/women/${id}`);
+      let res = await axios.get(`http://localhost:8080/women/${id}`);
       setData(res.data);
     } catch (err) {
       console.log("err", err);
     }
   };
+  let userId = JSON.parse(localStorage.getItem("id"));
+  const handleCart = async () => {
+    try {
+      let res = await axios.get(`http://localhost:8080/users/${userId}`);
+      let userData = res.data;
+      userData.cart.push(data);
+      let updateRes = await axios.put(
+        `http://localhost:8080/users/${userId}`,
+        userData
+      );
+      let updatedUserData = updateRes.data;
+      console.log("User data after adding to cart:", updatedUserData);
+    } catch (err) {
+      console.log("err",err)
+    }
+  };
+
   useEffect(() => {
     getData();
   }, []);
@@ -251,27 +271,30 @@ export default function SingleWomenPage() {
           </Box>
           <Stack>
             <Flex justifyContent={"space-around"}>
+              <Link to="/cart">
+                <Button
+                  onClick={handleCart}
+                  rounded={"none"}
+                  w={"200px"}
+                  mt={2}
+                  size={"md"}
+                  py={"7"}
+                  bg={useColorModeValue("gray.900", "gray.50")}
+                  color={useColorModeValue("white", "gray.900")}
+                  textTransform={"uppercase"}
+                  _hover={{
+                    transform: "translateY(2px)",
+                    boxShadow: "lg",
+                  }}
+                >
+                  Add to cart
+                </Button>
+              </Link>
               <Button
                 rounded={"none"}
                 w={"200px"}
                 mt={2}
-                size={"md"}
-                py={"7"}
-                bg={useColorModeValue("gray.900", "gray.50")}
-                color={useColorModeValue("white", "gray.900")}
-                textTransform={"uppercase"}
-                _hover={{
-                  transform: "translateY(2px)",
-                  boxShadow: "lg",
-                }}
-              >
-                Add to cart
-              </Button>
-              <Button
-                rounded={"none"}
-                w={"200px"}
-                mt={2}
-                ml='20px'
+                ml="20px"
                 size={"md"}
                 py={"7"}
                 bg={useColorModeValue("gray.900", "gray.50")}
@@ -292,7 +315,6 @@ export default function SingleWomenPage() {
             <Text>2-3 business days delivery</Text>
           </Stack>
         </Stack>
-        
       </SimpleGrid>
     </Container>
   );

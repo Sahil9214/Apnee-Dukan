@@ -22,7 +22,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { MdLocalShipping } from "react-icons/md";
 import { useParams } from "react-router-dom";
-
+import { Link } from "react-router-dom";
 export default function SingleBooksPage() {
   const [data, setData] = useState({});
   const { id } = useParams();
@@ -35,7 +35,22 @@ export default function SingleBooksPage() {
       console.log("err", err);
     }
   };
-  
+  const userId=JSON.parse(localStorage.getItem("id"))
+  const handleCart = async () => {
+    try {
+      let res = await axios.get(`http://localhost:8080/users/${userId}`);
+      let userData = res.data;
+      userData.cart.push(data);
+      let updateRes = await axios.put(
+        `http://localhost:8080/users/${userId}`,
+        userData
+      );
+      let updatedUserData = updateRes.data;
+      console.log("User data after adding to cart:", updatedUserData);
+    } catch (err) {
+      console.log("err", err);
+    }
+  };
   useEffect(() => {
     getData();
   }, []);
@@ -51,7 +66,7 @@ export default function SingleBooksPage() {
           <Image
             rounded={"md"}
             alt={"product image"}
-            src={data.image}
+            src={data.image1}
             fit={"cover"}
             align={"center"}
             w={"100%"}
@@ -65,7 +80,7 @@ export default function SingleBooksPage() {
               fontWeight={600}
               fontSize={{ base: "2xl", sm: "4xl", lg: "5xl" }}
             >
-              data.title
+              {data.title}
             </Heading>
             <Text
               color={useColorModeValue("gray.900", "gray.400")}
@@ -98,7 +113,7 @@ export default function SingleBooksPage() {
             <Box></Box>
           </Stack>
 
-          <Button
+        <Link to='/cart'> <Button onClick={handleCart}
             rounded={"none"}
             w={"full"}
             mt={8}
@@ -113,7 +128,7 @@ export default function SingleBooksPage() {
             }}
           >
             Add to cart
-          </Button>
+          </Button></Link> 
 
           <Stack direction="row" alignItems="center" justifyContent={"center"}>
             <MdLocalShipping />

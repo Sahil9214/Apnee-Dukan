@@ -33,6 +33,7 @@ export default function Swiper1() {
             height={"500px"}
             width={"100%"}
             margin={"auto"}
+            borderRadius={"10px"}
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -42,6 +43,7 @@ export default function Swiper1() {
             height={"500px"}
             width={"90%"}
             margin={"auto"}
+            borderRadius={"10px"}
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -51,6 +53,7 @@ export default function Swiper1() {
             height={"500px"}
             width={"90%"}
             margin={"auto"}
+            borderRadius={"10px"}
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -60,6 +63,7 @@ export default function Swiper1() {
             height={"500px"}
             width={"90%"}
             margin={"auto"}
+            borderRadius={"10px"}
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -69,6 +73,7 @@ export default function Swiper1() {
             height={"500px"}
             width={"90%"}
             margin={"auto"}
+            borderRadius={"10px"}
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -80,6 +85,7 @@ export default function Swiper1() {
             height={"500px"}
             width={"90%"}
             margin={"auto"}
+            borderRadius={"10px"}
           />
         </SwiperSlide>
       </Swiper>

@@ -20,7 +20,8 @@ import {
 } from "@chakra-ui/react";
 import { MdLocalShipping } from "react-icons/md";
 import { useParams } from "react-router-dom";
-import { type } from "@testing-library/user-event/dist/type";
+
+import { Link } from "react-router-dom";
 export default function SingleMenPage() {
   const [data, setData] = useState({});
   const { id } = useParams();
@@ -34,7 +35,22 @@ export default function SingleMenPage() {
       console.log("err", err);
     }
   };
-
+  const userId=JSON.parse(localStorage.getItem("id"))
+  const handleCart = async () => {
+    try {
+      let res = await axios.get(`http://localhost:8080/users/${userId}`);
+      let userData = res.data;
+      userData.cart.push(data);
+      let updateRes = await axios.put(
+        `http://localhost:8080/users/${userId}`,
+        userData
+      );
+      let updatedUserData = updateRes.data;
+      console.log("User data after adding to cart:", updatedUserData);
+    } catch (err) {
+      console.log("err", err);
+    }
+  };
   useEffect(() => {
     getData();
   }, []);
@@ -72,8 +88,8 @@ export default function SingleMenPage() {
               }}
             />
           </Box>
-          
-          <Box >
+
+          <Box>
             <Image
               rounded={"md"}
               alt={"product image"}
@@ -88,7 +104,8 @@ export default function SingleMenPage() {
             <Image
               rounded={"md"}
               alt={"product image"}
-              src={data.image4}  marginTop={"20px"}
+              src={data.image4}
+              marginTop={"20px"}
               align={"center"}
               style={{
                 height: "400px",
@@ -211,6 +228,25 @@ export default function SingleMenPage() {
               </Button>
             </Box>
           </Box>
+          <Link to="/cart">
+            <Button
+              onClick={handleCart}
+              rounded={"none"}
+              w={"full"}
+              mt={8}
+              size={"lg"}
+              py={"7"}
+              bg={useColorModeValue("gray.900", "gray.50")}
+              color={useColorModeValue("white", "gray.900")}
+              textTransform={"uppercase"}
+              _hover={{
+                transform: "translateY(2px)",
+                boxShadow: "lg",
+              }}
+            >
+              Add to cart
+            </Button>
+          </Link>
           <Button
             rounded={"none"}
             w={"full"}
@@ -225,23 +261,7 @@ export default function SingleMenPage() {
               boxShadow: "lg",
             }}
           >
-            Add to cart
-          </Button>
-          <Button
-            rounded={"none"}
-            w={"full"}
-            mt={8}
-            size={"lg"}
-            py={"7"}
-            bg={useColorModeValue("gray.900", "gray.50")}
-            color={useColorModeValue("white", "gray.900")}
-            textTransform={"uppercase"}
-            _hover={{
-              transform: "translateY(2px)",
-              boxShadow: "lg",
-            }}
-          >
-           Buy Now
+            Buy Now
           </Button>
 
           <Stack direction="row" alignItems="center" justifyContent={"center"}>

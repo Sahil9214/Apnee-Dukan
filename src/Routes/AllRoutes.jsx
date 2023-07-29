@@ -15,12 +15,15 @@ import SingleWomenPage from "../Pages/SingleWomenPage";
 import SingleLaptop from "../Pages/SingleLaptop";
 import SingleMenPage from "../Pages/SingleMenPage";
 import SingleBooksPage from '../Pages/SingleBooksPage'
+import Cart from "../Pages/Cart";
+import PaymentSection from "../Pages/PaymentPage";
 const AllRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/sign" element={<Signup />} />
       <Route path="/login" element={<Login />} />
+      
       <Route path="/men" element={<Men />} />
       <Route path="/men/:id" element={<SingleMenPage />} />
 
@@ -38,6 +41,9 @@ const AllRoutes = () => {
 
       <Route path="/grocery" element={<Grocery />} />
       <Route path="/grocery/:id" element={<SingleGrocery />} />
+
+      <Route path='/cart' element={<Cart/>} />
+      <Route path='/payment' element={<PaymentSection/>} />
     </Routes>
   );
 };

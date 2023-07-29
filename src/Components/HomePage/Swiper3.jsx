@@ -46,7 +46,7 @@ export default function Swiper3() {
           data.map((el) => {
             return (
               <SwiperSlide>
-                <Image src={el.image} alt={el.name} className="swiper3Image" />
+                <Image src={el.image1} alt={el.name} className="swiper3Image" />
               </SwiperSlide>
             );
           })}
@@ -65,7 +65,7 @@ export default function Swiper3() {
           data.map((el) => {
             return (
               <SwiperSlide>
-                <Image src={el.image} alt={el.name} className="swiper3ImageSmall" />
+                <Image src={el.image1} alt={el.name} className="swiper3ImageSmall" />
               </SwiperSlide>
             );
           })}

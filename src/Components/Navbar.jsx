@@ -15,6 +15,7 @@ import {
   useDisclosure,
   Image,
 } from "@chakra-ui/react";
+import cart from "../Images/cart.png";
 import {
   HamburgerIcon,
   CloseIcon,
@@ -27,7 +28,7 @@ export default function Navbar() {
   const { isOpen, onToggle } = useDisclosure();
 
   return (
-    <Box>
+    <Box style={{ padding: "20px 50px" }}>
       <Flex
         bg={useColorModeValue("white", "gray.800")}
         color={useColorModeValue("gray.600", "white")}
@@ -97,10 +98,14 @@ export default function Navbar() {
         >
           <Button
             as={"a"}
+            display={{ base: "none", md: "inline-flex" }}
             fontSize={"sm"}
-            fontWeight={400}
-            variant={"link"}
-            href={"../Pages/Login.jsx"}
+            fontWeight={700}
+            color={"white"}
+            bg={"red.600"}
+            _hover={{
+              bg: "red.300",
+            }}
           >
             <Link to="/login">Login In</Link>
           </Button>
@@ -118,6 +123,26 @@ export default function Navbar() {
           >
             <Link to="/sign">Sign Up</Link>
           </Button>
+          <Box display={"flex"} justifyContent={"space-around"} textAlign={'margin'}>
+           <Link to='/cart'><Image src={cart} width={"70px"} height={"30px"} /></Link> 
+            <Link to="/cart">
+              {" "}
+              <Button
+                ml="10px"
+                as={"a"}
+                display={{ base: "none", md: "inline-flex" }}
+                fontSize={"sm"}
+                fontWeight={600}
+                color={"white"}
+                bg={"red.600"}
+                _hover={{
+                  bg: "red.300",
+                }}
+              >
+                Cart
+              </Button>
+            </Link>
+          </Box>
         </Stack>
       </Flex>
 

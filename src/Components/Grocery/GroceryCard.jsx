@@ -14,7 +14,7 @@ import {
   Image,
 } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
-export default function GroceryCard({ name, image, description, price, id }) {
+export default function GroceryCard({ name, image1, description, price, id }) {
   return (
     <Center py={6}>
       <Box
@@ -28,7 +28,7 @@ export default function GroceryCard({ name, image, description, price, id }) {
       >
         <Image
           size={"md"}
-          src={image}
+          src={image1}
           height="200px"
           width={"90%"}
           margin="auto"

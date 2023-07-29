@@ -13,36 +13,43 @@ import {
   useColorModeValue,
 } from "@chakra-ui/react";
 import axios from "axios";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { authAPIGET } from "../Redux/Auth/auth.action";
+import { useNavigate } from "react-router-dom";
 
 export default function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-
+  const state = useSelector((store) => store.authReducer?.authData);
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
+  console.log("auths,as", state);
   const handleSubmit = async () => {
     let obj = {
       email,
       password,
     };
-    try {
-      let res = await axios.get(`http://localhost:8080/users`);
-      let loginSuccessful = false;
-      res.data.forEach((el) => {
-        if (el.password === obj.password && el.email === obj.email) {
-          alert("login Successfull");
-          loginSuccessful = true;
-        }
-      });
-      if (loginSuccessful === false) {
-        alert("login fail");
-      }
-      setEmail("");
-      setPassword("")
-    } catch (err) {
-      console.log("err", err);
-    }
-  };
 
+    let loginSuccessfull = false;
+    state.forEach((el) => {
+      if (el.email === obj.email && el.password === obj.password) {
+        alert("login Successfull");
+        localStorage.setItem("id", JSON.stringify(el.id));
+        loginSuccessfull = true;
+      }
+    });
+    if (!loginSuccessfull) {
+      alert("Login fail");
+    } else {
+      return navigate("/");
+    }
+    setEmail("");
+    setPassword("");
+  };
+  useEffect(() => {
+    dispatch(authAPIGET());
+  }, []);
   return (
     <Flex
       minH={"100vh"}
@@ -66,7 +73,11 @@ export default function Login() {
           <Stack spacing={4}>
             <FormControl id="email">
               <FormLabel>Email address</FormLabel>
-              <Input type="email" onChange={(e) => setEmail(e.target.value)} value={email} />
+              <Input
+                type="email"
+                onChange={(e) => setEmail(e.target.value)}
+                value={email}
+              />
             </FormControl>
             <FormControl id="password">
               <FormLabel>Password</FormLabel>

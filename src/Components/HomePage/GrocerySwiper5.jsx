@@ -57,7 +57,7 @@ export default function GrocerySwiper5() {
                     <Box>
                       <Image
                         className="GrocerySwiper5Image"
-                        src={el.image}
+                        src={el.image1}
                         alt={el.name}
                       />
                     </Box>

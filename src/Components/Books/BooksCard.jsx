@@ -16,7 +16,7 @@ import { Link, useParams } from "react-router-dom";
 
 export default function BooksCard({
   name,
-  image,
+  image1,
   description,
   author,
   genre,
@@ -41,7 +41,7 @@ export default function BooksCard({
         padding={4}
       >
         <Flex bg="blue.200">
-          <Image objectFit="cover" boxSize="100%" src={image} alt="#" />
+          <Image objectFit="cover" boxSize="100%" src={image1} alt="#" />
         </Flex>
         <Stack
           flex={1}

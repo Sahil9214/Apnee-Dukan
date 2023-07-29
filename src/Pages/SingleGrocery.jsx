@@ -1,5 +1,5 @@
-import React,{useState,useEffect} from 'react'
-import axios from 'axios';
+import React, { useState, useEffect } from "react";
+import axios from "axios";
 
 import {
   Box,
@@ -20,16 +20,32 @@ import {
   ListItem,
 } from "@chakra-ui/react";
 import { MdLocalShipping } from "react-icons/md";
-import { useParams } from 'react-router-dom';
-
+import { useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 export default function SingleGrocery() {
   const [data, setData] = useState({});
-  const {id}=useParams()
+  const { id } = useParams();
 
   const getData = async () => {
     try {
       let res = await axios.get(`http://localhost:8080/groceries/${id}`);
       setData(res.data);
+    } catch (err) {
+      console.log("err", err);
+    }
+  };
+  let userId = JSON.parse(localStorage.getItem("id"));
+  const handleCart = async () => {
+    try {
+      let res = await axios.get(`http://localhost:8080/users/${userId}`);
+      let userData = res.data;
+      userData.cart.push(data);
+      let updateRes = await axios.put(
+        `http://localhost:8080/users/${userId}`,
+        userData
+      );
+      let updatedUserData = updateRes.data;
+      console.log("User data after adding to cart:", updatedUserData);
     } catch (err) {
       console.log("err", err);
     }
@@ -53,7 +69,7 @@ export default function SingleGrocery() {
             fit={"cover"}
             align={"center"}
             w={"100%"}
-            h={{ base: "100%", sm: "400px", lg: "500px" }}
+           
           />
         </Flex>
         <Stack spacing={{ base: 6, md: 10 }}>
@@ -91,6 +107,10 @@ export default function SingleGrocery() {
               >
                 {data.description}
               </Text>
+              <Text>
+                87% positive ratings from 100K+ customers 100K+ recent orders
+                from this brand 8+ years on Amazon
+              </Text>
             </VStack>
             <Box></Box>
             <Box>
@@ -103,25 +123,34 @@ export default function SingleGrocery() {
               >
                 Product Details
               </Text>
+              <Text>
+                Rozana is above medium length product Original basmati nourished
+                by snow fed rivers of great Himalayas Country of Origin: India
+                Material Features: Vegetarian; Item Form: Grain;
+              </Text>
             </Box>
           </Stack>
 
-          <Button
-            rounded={"none"}
-            w={"full"}
-            mt={8}
-            size={"lg"}
-            py={"7"}
-            bg={useColorModeValue("gray.900", "gray.50")}
-            color={useColorModeValue("white", "gray.900")}
-            textTransform={"uppercase"}
-            _hover={{
-              transform: "translateY(2px)",
-              boxShadow: "lg",
-            }}
-          >
-            Add to cart
-          </Button>
+          <Link to="/cart">
+            {" "}
+            <Button
+              onClick={handleCart}
+              rounded={"none"}
+              w={"full"}
+              mt={8}
+              size={"lg"}
+              py={"7"}
+              bg={useColorModeValue("gray.900", "gray.50")}
+              color={useColorModeValue("white", "gray.900")}
+              textTransform={"uppercase"}
+              _hover={{
+                transform: "translateY(2px)",
+                boxShadow: "lg",
+              }}
+            >
+              Add to cart
+            </Button>
+          </Link>
 
           <Stack direction="row" alignItems="center" justifyContent={"center"}>
             <MdLocalShipping />
