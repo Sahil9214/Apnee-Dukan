@@ -71,6 +71,8 @@ export default function Signup() {
 
   return (
     <Box position={"relative"}>
+      <br/>
+      <br/>
       <Container
         as={SimpleGrid}
         maxW={"7xl"}

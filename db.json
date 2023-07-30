@@ -1,30 +1,6 @@
 {
   "groceries": [
     {
-      "id": 1,
-      "name": "Rice",
-      "qty": 5,
-      "price": 500,
-      "description": "Premium Basmati Rice",
-      "image1": "https://m.media-amazon.com/images/I/71-ZdHBTdiL._AC_UL600_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Wheat Flour",
-      "qty": 2,
-      "price": 120,
-      "description": "Freshly Milled Wheat Flour",
-      "image1": "https://m.media-amazon.com/images/I/618GH1zvSRL._AC_UL600_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Milk",
-      "qty": 1,
-      "price": 60,
-      "description": "Fresh Cow's Milk",
-      "image1": "https://m.media-amazon.com/images/I/81mDXl2EJnL._AC_UL600_FMwebp_QL65_.jpg"
-    },
-    {
       "id": 4,
       "name": "Eggs",
       "qty": 12,
@@ -413,7 +389,7 @@
       "qty": 8,
       "price": 70000,
       "description": "Edge-to-edge AMOLED display",
-      "image11": "https://m.media-amazon.com/images/I/61b-EOhj-iL._SX679_.jpg",
+      "image1": "https://m.media-amazon.com/images/I/311AbPdwjzL._AC_UY327_FMwebp_QL65_.jpg",
       "ram": "6GB",
       "storage": "128GB",
       "Battery": "5000mAh"
@@ -721,25 +697,6 @@
   ],
   "laptop": [
     {
-      "id": 1,
-      "name": "Dell Vastro 3420",
-      "qty": 10,
-      "price": 120000,
-      "description": "Powerful performance in a sleek design",
-      "image1": "https://images-na.ssl-images-amazon.com/images/I/4169hYnVonL._SX300_SY300_QL70_FMwebp_.jpg",
-      "ram": "16GB",
-      "storage": "512GB SSD",
-      "color": "Silver",
-      "battery_life": "Up to 10 hours",
-      "screen_size": "15.6 inches",
-      "operating_system": "Windows 11",
-      "warranty": "2 years",
-      "rating": 4.5,
-      "review_number": 1450,
-      "brand": "Dell",
-      "special": "Get Sennheiser HD 350BT headset worth ₹8,990 at ₹1,999.Additional ₹2,000 off for employees of select organisations. Click here to know morIncludes Word, Excel and PowerPoint"
-    },
-    {
       "id": 2,
       "name": "HP Spectre x360",
       "qty": 8,
@@ -802,7 +759,7 @@
       "qty": 7,
       "price": 110000,
       "description": "Business-class durability and security",
-      "image1": "https://typhoon-methane-d48.notion.site/RM-Block-24-769a991ab78346459837e38f8d666ddb",
+      "image1": "https://m.media-amazon.com/images/I/518BYF8LHRL._AC_UY327_FMwebp_QL65_.jpg",
       "ram": "16GB",
       "storage": "512GB SSD",
       "color": "green",
@@ -1029,7 +986,7 @@
       "qty": 15,
       "price": 135000,
       "description": "Business Ultrabook with powerful performance",
-      "image1": "https://m.media-amazon.com/images/I/71IKFt7f7RL._SX679_.jpg",
+      "image1": "https://m.media-amazon.com/images/I/518BYF8LHRL._SX679_.jpg",
       "ram": "16GB",
       "storage": "1TB SSD",
       "color": "Black",
@@ -1048,7 +1005,7 @@
       "qty": 20,
       "price": 95000,
       "description": "Gaming laptop with high refresh rate display",
-      "image1": "",
+      "image1": "https://m.media-amazon.com/images/I/71R51aFw8IL._AC_UY327_FMwebp_QL65_.jpg",
       "ram": "16GB",
       "storage": "512GB SSD",
       "color": "Phantom Black",
@@ -1086,7 +1043,7 @@
       "qty": 12,
       "price": 80000,
       "description": "Versatile 2-in-1 laptop with a touchscreen",
-      "image1": "https://m.media-amazon.com/images/I/81x7N4qMJCL._SX679_.jpg",
+      "image1": "https://m.media-amazon.com/images/I/61m4aOy7TiL._AC_UY327_FMwebp_QL65_.jpg",
       "ram": "8GB",
       "storage": "256GB SSD",
       "color": "Graphite Grey",
@@ -1690,7 +1647,7 @@
       "qty": 12,
       "price": 60000,
       "description": "Versatile laptop for everyday computing",
-      "image1": "https://m.media-amazon.com/images/I/61gGtqfZFlL._AC_UY327_FMwebp_QL65_.jpg+",
+      "image1": "https://m.media-amazon.com/images/I/81x3tKnUBaL._AC_UY327_FMwebp_QL65_.jpg",
       "ram": "8GB",
       "storage": "512GB SSD",
       "color": "Silver",

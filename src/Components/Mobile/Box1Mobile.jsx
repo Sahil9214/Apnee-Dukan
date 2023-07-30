@@ -3,10 +3,12 @@ import "../../CSS/Mobile.css";
 import { Box, Text, Image, Button } from "@chakra-ui/react";
 import { Select } from "@chakra-ui/react";
 import axios from "axios";
-import dataSkeleton from "../Skeleton";
+
 import UserMobileCard from "./UserMobileCard";
 import MobileFilter from "./MobileFilter";
 import { useLocation, useSearchParams } from "react-router-dom";
+
+
 const Box1Mobile = () => {
   const [num, setNum] = useState(0);
   const [val, setData] = useState([]);

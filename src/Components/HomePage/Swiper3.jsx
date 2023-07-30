@@ -64,7 +64,7 @@ export default function Swiper3() {
         {data &&
           data.map((el) => {
             return (
-              <SwiperSlide>
+              <SwiperSlide key={el.id}>
                 <Image src={el.image1} alt={el.name} className="swiper3ImageSmall" />
               </SwiperSlide>
             );

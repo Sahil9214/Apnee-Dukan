@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Swiper1laptop from "../Components/Laptop/Swiper1Laptop";
-import { Divider, Box, Text, Select } from "@chakra-ui/react";
+import { Divider, Box, Text, Select, Button } from "@chakra-ui/react";
 import axios from "axios";
 import "../CSS/Laptop.css";
 import Skeleton from "react-loading-skeleton";
@@ -12,7 +12,8 @@ const Laptop = () => {
   const [page, setpage] = useState(1);
   const [num, setNum] = useState(0);
   const [searchParam] = useSearchParams();
-const location=useLocation()
+  const location = useLocation();
+  console.log("page",page)
   const getData = async () => {
     try {
       let res = await axios.get(`http://localhost:8080/laptop`, {
@@ -21,6 +22,10 @@ const location=useLocation()
           ram: searchParam.get("ram") || undefined,
           storage: searchParam.get("storage") || undefined,
           color: searchParam.get("color") || undefined,
+          _page:page,
+          _limit:5
+          
+
         },
       });
       setData(res.data);
@@ -34,10 +39,11 @@ const location=useLocation()
 
   useEffect(() => {
     getData();
-  }, [location.search]);
+  }, [location.search,page]);
 
   return (
     <div>
+      <br />
       <br />
       <Divider />
       <br />
@@ -87,6 +93,36 @@ const location=useLocation()
               data.map((el) => {
                 return <LaptopCard key={el.id} {...el} />;
               })}
+          </Box>
+          <br/>
+          <br/>
+          <Box style={{ display: "flex", justifyContent: "space-evenly" }}>
+            <Button
+              style={{
+                backgroundColor: "pink",
+                padding:"12px 30px"
+              }}
+              onClick={() => setpage(page - 1)}
+            >
+              Prev
+            </Button>
+            <Button
+              style={{
+                backgroundColor: "pink",
+                padding:"12px 30px"
+              }}
+            >
+              {page}
+            </Button>
+            <Button
+              style={{
+                backgroundColor: "pink",
+                padding:"12px 30px"
+              }}
+              onClick={() => setpage(page + 1)}
+            >
+              Next
+            </Button>
           </Box>
         </Box>
       </Box>

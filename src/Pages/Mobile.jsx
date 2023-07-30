@@ -5,6 +5,9 @@ import Box1Mobile from '../Components/Mobile/Box1Mobile'
 const Mobile = () => {
   return (
     <div>
+      <br/>
+      <br/>
+      <br/>
       <SwiperMobile/>
       <Box1Mobile/>
     </div>

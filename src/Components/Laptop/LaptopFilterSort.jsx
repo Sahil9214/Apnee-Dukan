@@ -43,6 +43,9 @@ const LaptopFilterSort = () => {
           style={{
             fontSize: "32px",
             fontStyle: "italic",
+            textAlign:"left",
+            fontWeight:"800",
+            letterSpacing:"1.2px"
           }}
         >
           Filter

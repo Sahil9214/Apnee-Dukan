@@ -1,4 +1,11 @@
-import { AUTH_ERROR, AUTH_LOADING, AUTH_SUCESS,AUTH_ADD_DATA } from "./auth.action.type";
+import {
+  AUTH_ERROR,
+  AUTH_LOADING,
+  AUTH_SUCESS,
+  AUTH_ADD_DATA,
+  AUTH_TRUE,
+  AUTH_FALSE,
+} from "./auth.action.type";
 import axios from "axios";
 export const authAPIPOST = (obj) => (dispatch) => {
   dispatch({ type: AUTH_LOADING });
@@ -11,13 +18,21 @@ export const authAPIPOST = (obj) => (dispatch) => {
   }
 };
 
-export const authAPIGET = () => async(dispatch) => {
+export const authAPIGET = () => async (dispatch) => {
   dispatch({ type: AUTH_LOADING });
   try {
     let res = await axios.get(`http://localhost:8080/users`);
-    
+
     dispatch({ type: AUTH_SUCESS, payload: res.data });
   } catch (err) {
     dispatch({ type: AUTH_ERROR });
   }
+};
+
+export const authTrue = () => (dispatch) => {
+  dispatch({ type: AUTH_TRUE });
+};
+
+export const authFalse = () => (dispatch) => {
+  dispatch({ type: AUTH_FALSE });
 };

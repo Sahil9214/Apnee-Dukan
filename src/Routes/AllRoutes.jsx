@@ -14,16 +14,20 @@ import SingleMobile from "../Pages/SingleMobile";
 import SingleWomenPage from "../Pages/SingleWomenPage";
 import SingleLaptop from "../Pages/SingleLaptop";
 import SingleMenPage from "../Pages/SingleMenPage";
-import SingleBooksPage from '../Pages/SingleBooksPage'
+import SingleBooksPage from "../Pages/SingleBooksPage";
 import Cart from "../Pages/Cart";
 import PaymentSection from "../Pages/PaymentPage";
+import AdminLogin from "../Pages/Admin/AdminLogin";
+import AdminHome from "../Pages/Admin/AdminHome";
+import AdminProduct from "../Pages/Admin/AdminProduct";
+import AdminStatatics from "../Pages/Admin/AdminStatatics";
 const AllRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/sign" element={<Signup />} />
       <Route path="/login" element={<Login />} />
-      
+
       <Route path="/men" element={<Men />} />
       <Route path="/men/:id" element={<SingleMenPage />} />
 
@@ -42,8 +46,15 @@ const AllRoutes = () => {
       <Route path="/grocery" element={<Grocery />} />
       <Route path="/grocery/:id" element={<SingleGrocery />} />
 
-      <Route path='/cart' element={<Cart/>} />
-      <Route path='/payment' element={<PaymentSection/>} />
+      <Route path="/cart" element={<Cart />} />
+      <Route path="/payment" element={<PaymentSection />} />
+
+      <Route path="/adminlogin" element={<AdminLogin />} />
+      <Route  path='/adminhome' element={<AdminHome/>} />
+
+      <Route path='/adminproduct' element={<AdminProduct/>} />
+      
+      <Route path='/adminstatics' element={<AdminStatatics/>} />
     </Routes>
   );
 };
