@@ -13,7 +13,7 @@ export const getLaptop = (page) => async (dispatch) => {
   dispatch({ type: ADMIN_LAPTOP_LOADING });
   try {
     let res = await axios.get(
-      `http://localhost:8080/laptop?_page=${page}&_limit=5`
+      `https://e-commercebackend-h0ag.onrender.com/laptop?_page=${page}&_limit=5`
     );
 
     dispatch({ type: ADMIN_LAPTOP_SUCCESS, payload: res.data });
@@ -26,7 +26,7 @@ export const getLaptop = (page) => async (dispatch) => {
 export const addLaptop = (obj) => async (dispatch) => {
   dispatch({ type: ADMIN_LAPTOP_LOADING });
   try {
-    let res = await axios.post(`http://localhost:8080/laptop`, obj);
+    let res = await axios.post(`https://e-commercebackend-h0ag.onrender.com/laptop`, obj);
     dispatch({ type: ADD_ADMIN_LAPTOP, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_LAPTOP_ERROR });
@@ -37,7 +37,7 @@ export const addLaptop = (obj) => async (dispatch) => {
 export const editLaptop = (id, obj) => async (dispatch) => {
   dispatch({ type: ADMIN_LAPTOP_LOADING });
   try {
-    await axios.patch(`http://localhost:8080/laptop/${id}`, obj);
+    await axios.patch(`https://e-commercebackend-h0ag.onrender.com/laptop/${id}`, obj);
     dispatch({ type: EDIT_ADMIN_LAPTOP, payload: id });
   } catch (err) {
     dispatch({ type: ADMIN_LAPTOP_ERROR });
@@ -48,7 +48,7 @@ export const editLaptop = (id, obj) => async (dispatch) => {
 export const deleteLaptop = (id) => async (dispatch) => {
   dispatch({ type: ADMIN_LAPTOP_LOADING });
   try {
-    await axios.delete(`http://localhost:8080/laptop/${id}`);
+    await axios.delete(`https://e-commercebackend-h0ag.onrender.com/laptop/${id}`);
     dispatch({ type: DELETE_ADMIN_LAPTOP, payload: id });
   } catch (err) {
     dispatch({ type: ADMIN_LAPTOP_ERROR });

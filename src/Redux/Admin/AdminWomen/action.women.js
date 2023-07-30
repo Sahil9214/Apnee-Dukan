@@ -12,7 +12,7 @@ import {
 export const getWomenData = (page) => async (dispatch) => {
   dispatch({ type: ADMIN_WOMEN_LOADING });
   try {
-    let res = await axios.get(` http://localhost:8080/women?_page=${page}&_limit=5`);
+    let res = await axios.get(` https://e-commercebackend-h0ag.onrender.com/women?_page=${page}&_limit=5`);
     dispatch({ type: ADMIN_WOMEN_SUCCESS, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_WOMEN_ERROR });
@@ -23,7 +23,7 @@ export const getWomenData = (page) => async (dispatch) => {
 export const postWomenData = (obj) => async (dispatch) => {
   dispatch({ type: ADMIN_WOMEN_LOADING });
   try {
-    let res = await axios.post(` http://localhost:8080/women`, obj);
+    let res = await axios.post(` https://e-commercebackend-h0ag.onrender.com/women`, obj);
     dispatch({ type: ADD_ADMIN_WOMEN, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_WOMEN_ERROR });
@@ -34,7 +34,7 @@ export const postWomenData = (obj) => async (dispatch) => {
 export const editWomenData = (id, obj) => async (dispatch) => {
   dispatch({ type: ADMIN_WOMEN_LOADING });
   try {
-    await axios.patch(` http://localhost:8080/women/${id}`, obj);
+    await axios.patch(` https://e-commercebackend-h0ag.onrender.com/women/${id}`, obj);
     dispatch({ type: EDIT_ADMIN_WOMEN, payload: id });
   } catch (err) {
     dispatch({ type: ADMIN_WOMEN_ERROR });
@@ -45,7 +45,7 @@ export const editWomenData = (id, obj) => async (dispatch) => {
 export const deleteWomenData = (id) => async (dispatch) => {
   dispatch({ type: ADMIN_WOMEN_LOADING });
   try {
-    await axios.patch(` http://localhost:8080/women/${id}`);
+    await axios.patch(` https://e-commercebackend-h0ag.onrender.com/women/${id}`);
     dispatch({ type: DELETE_ADMIN_WOMEN, payload: id });
   } catch (err) {
     dispatch({ type: ADMIN_WOMEN_ERROR });

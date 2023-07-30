@@ -10,7 +10,7 @@ import axios from "axios";
 export const authAPIPOST = (obj) => (dispatch) => {
   dispatch({ type: AUTH_LOADING });
   try {
-    let res = axios.post(`http://localhost:8080/users`, obj);
+    let res = axios.post(`https://e-commercebackend-h0ag.onrender.com/users`, obj);
     dispatch({ type: AUTH_ADD_DATA, payload: res.data });
   } catch (err) {
     console.log("err", err);
@@ -21,7 +21,7 @@ export const authAPIPOST = (obj) => (dispatch) => {
 export const authAPIGET = () => async (dispatch) => {
   dispatch({ type: AUTH_LOADING });
   try {
-    let res = await axios.get(`http://localhost:8080/users`);
+    let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/users`);
 
     dispatch({ type: AUTH_SUCESS, payload: res.data });
   } catch (err) {

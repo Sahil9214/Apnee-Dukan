@@ -28,7 +28,7 @@ export default function SingleMenPage() {
 
   const getData = async () => {
     try {
-      let res = await axios.get(`http://localhost:8080/men/${id}`);
+      let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/men/${id}`);
       console.log("men", res.data);
       setData(res.data);
     } catch (err) {
@@ -38,11 +38,11 @@ export default function SingleMenPage() {
   const userId=JSON.parse(localStorage.getItem("id"))
   const handleCart = async () => {
     try {
-      let res = await axios.get(`http://localhost:8080/users/${userId}`);
+      let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/users/${userId}`);
       let userData = res.data;
       userData.cart.push(data);
       let updateRes = await axios.put(
-        `http://localhost:8080/users/${userId}`,
+        `https://e-commercebackend-h0ag.onrender.com/users/${userId}`,
         userData
       );
       let updatedUserData = updateRes.data;

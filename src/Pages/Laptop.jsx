@@ -16,7 +16,7 @@ const Laptop = () => {
   console.log("page",page)
   const getData = async () => {
     try {
-      let res = await axios.get(`http://localhost:8080/laptop`, {
+      let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/laptop`, {
         params: {
           brand: searchParam.get("brand") || undefined,
           ram: searchParam.get("ram") || undefined,

@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import {
   adminGetGrocery,
   deleteGrocery,
+  editGrocery,
 } from "../../Redux/Admin/AdminGrocery/action.grocery";
 import SkeletonLoading from "../SkeletonLoading";
 
@@ -16,13 +17,39 @@ import {
   useColorModeValue,
   Box,
   Stack,
-  Button,
+  Input,
 } from "@chakra-ui/react";
+
+import {
+  Modal,
+  ModalOverlay,
+  ModalContent,
+  ModalHeader,
+  ModalFooter,
+  ModalBody,
+  ModalCloseButton,
+  Button,
+  useDisclosure,
+} from "@chakra-ui/react";
+
 const AdminGrocery = () => {
+  const { isOpen, onOpen, onClose } = useDisclosure();
+
+  const [name, setName] = useState("");
+  const [price, setPrice] = useState(0);
   const [page, setPage] = useState(1);
   const grocery = useSelector((store) => store?.groceryReducer);
-console.log("grocery",grocery)
+
   const dispatch = useDispatch();
+
+  const handleSubmit = (id) => {
+    console.log("idLikhe", id);
+    let obj = {
+      name,
+      price,
+    };
+    dispatch(editGrocery(id, obj));
+  };
 
   const handeleDelete = (id) => {
     dispatch(deleteGrocery(id));
@@ -129,6 +156,7 @@ console.log("grocery",grocery)
                         alignItems={"center"}
                       >
                         <Button
+                          onClick={onOpen}
                           flex={1}
                           fontSize={"sm"}
                           rounded={"full"}
@@ -138,6 +166,44 @@ console.log("grocery",grocery)
                         >
                           Edit
                         </Button>
+                        <Modal isOpen={isOpen} onClose={onClose}>
+                          <ModalOverlay />
+                          <ModalContent>
+                            <ModalCloseButton />
+                            <ModalBody>
+                              <Text>Enter the Name</Text>
+                              <Input
+                                type="text"
+                                onChange={(e) => setName(e.target.value)}
+                              />
+                              <br />
+                              <Text>Enter the Price</Text>
+                              <Input
+                                type="number"
+                                onChange={(e) => setPrice(e.target.value)}
+                              />
+                              <br />
+                              <Button
+                            
+                                onClick={() => {
+                                  handleSubmit(el.id); // Store the selected grocery item
+                                  onOpen(); // Open the modal
+                                }}
+                                flex={1}
+                                fontSize={"sm"}
+                                rounded={"full"}
+                                _focus={{
+                                  bg: "gray.200",
+                                }}
+                              >
+                                Submit
+                              </Button>
+                            </ModalBody>
+                            <ModalFooter>
+                              <Button onClick={onClose}>Close</Button>
+                            </ModalFooter>
+                          </ModalContent>
+                        </Modal>
                         <Button
                           onClick={() => handeleDelete(el.id)}
                           flex={1}

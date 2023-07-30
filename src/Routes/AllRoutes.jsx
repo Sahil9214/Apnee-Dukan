@@ -21,6 +21,7 @@ import AdminLogin from "../Pages/Admin/AdminLogin";
 import AdminHome from "../Pages/Admin/AdminHome";
 import AdminProduct from "../Pages/Admin/AdminProduct";
 import AdminStatatics from "../Pages/Admin/AdminStatatics";
+import AddProduct from "../Pages/Admin/AddProduct";
 const AllRoutes = () => {
   return (
     <Routes>
@@ -55,6 +56,7 @@ const AllRoutes = () => {
       <Route path='/adminproduct' element={<AdminProduct/>} />
       
       <Route path='/adminstatics' element={<AdminStatatics/>} />
+      <Route path='/addproduct' element={<AddProduct/>} />
     </Routes>
   );
 };

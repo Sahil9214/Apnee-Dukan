@@ -13,7 +13,7 @@ export const adminGetGrocery = (page) => async (dispatch) => {
   dispatch({ type: ADMIN_GROCERY_LOADING });
   try {
     let res = await axios.get(
-      `http://localhost:8080/groceries?_page=${page}&_limit=5`
+      `https://e-commercebackend-h0ag.onrender.com/groceries?_page=${page}&_limit=5`
     );
 
     dispatch({ type: ADMIN_GROCERY_SUCCESS, payload: res.data });
@@ -25,7 +25,7 @@ export const adminGetGrocery = (page) => async (dispatch) => {
 export const addGrocery = (obj) => async (dispatch) => {
   dispatch({ type: ADMIN_GROCERY_LOADING });
   try {
-    let res = await axios.post(`http://localhost:8080/groceries`, obj);
+    let res = await axios.post(`https://e-commercebackend-h0ag.onrender.com/groceries`, obj);
 
     dispatch({ type: ADD_ADMIN_GROCERY, payload: res.data });
   } catch (err) {
@@ -36,9 +36,9 @@ export const addGrocery = (obj) => async (dispatch) => {
 export const editGrocery = (id, obj) => async (dispatch) => {
   dispatch({ type: ADMIN_GROCERY_LOADING });
   try {
-    await axios.patch(`http://localhost:8080/groceries/${id}`, obj);
+    await axios.patch(`https://e-commercebackend-h0ag.onrender.com/groceries/${id}`, obj);
 
-    dispatch({ type: EDIT_ADMIN_GROCERY, payload: id });
+    dispatch({ type: EDIT_ADMIN_GROCERY, payload: {id,obj} });
   } catch (err) {
     dispatch({ type: ADMIN_GROCERY_ERROR });
   }
@@ -47,8 +47,9 @@ export const editGrocery = (id, obj) => async (dispatch) => {
 //DELETE DATA
 export const deleteGrocery = (id) => async (dispatch) => {
   dispatch({ type: ADMIN_GROCERY_LOADING });
+ 
   try {
-    await axios.delete(`http://localhost:8080/groceries/${id}`);
+    await axios.delete(`https://e-commercebackend-h0ag.onrender.com/groceries/${id}`);
 
     dispatch({ type: DELETE_ADMIN_GROCERY, payload: id });
   } catch (err) {

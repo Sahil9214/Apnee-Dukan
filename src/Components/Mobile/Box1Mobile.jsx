@@ -20,7 +20,7 @@ const Box1Mobile = () => {
   //Filter the Data
   const getData = async () => {
     try {
-      const res = await axios.get("http://localhost:8080/mobiles", {
+      const res = await axios.get("https://e-commercebackend-h0ag.onrender.com/mobiles", {
         params: {
           brand: searchParams.get("brand")||undefined,
           ram: searchParams.get("ram")||undefined,
@@ -38,7 +38,7 @@ const Box1Mobile = () => {
   const handleSort = async (e) => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/mobiles?_sort=price&_order=${e.target.value}`
+        `https://e-commercebackend-h0ag.onrender.com/mobiles?_sort=price&_order=${e.target.value}`
       );
       console.log(res.data);
       setNum(res.data.length);

@@ -23,7 +23,7 @@ export default function Swiper2() {
 
   const getData = async () => {
     try {
-      let res = await axios(`http://localhost:8080/mobiles`);
+      let res = await axios(`https://e-commercebackend-h0ag.onrender.com/mobiles`);
 
       setData(res.data);
     } catch (err) {

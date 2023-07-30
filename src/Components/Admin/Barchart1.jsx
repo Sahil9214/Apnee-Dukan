@@ -19,17 +19,17 @@ const Barchart1 = () => {
 
   const getData = async () => {
     try {
-      let bookData = await axios.get(`http://localhost:8080/Bookes`);
+      let bookData = await axios.get(`https://e-commercebackend-h0ag.onrender.com/Bookes`);
       setBook(bookData.data.length)
-      let menData = await axios.get(`http://localhost:8080/men`);
+      let menData = await axios.get(`https://e-commercebackend-h0ag.onrender.com/men`);
       setMen(menData.data.length)
-      let womenData = await axios.get(`http://localhost:8080/women`);
+      let womenData = await axios.get(`https://e-commercebackend-h0ag.onrender.com/women`);
       setWomen(womenData.data.length)
-      let groceryData = await axios.get(`http://localhost:8080/groceries`);
+      let groceryData = await axios.get(`https://e-commercebackend-h0ag.onrender.com/groceries`);
       setGrocery(groceryData.data.length)
-      let laptopData = await axios.get(`http://localhost:8080/laptop`);
+      let laptopData = await axios.get(`https://e-commercebackend-h0ag.onrender.com/laptop`);
       setLaptop(laptopData.data.length)
-      let mobileData=await axios.get(`http://localhost:8080/mobile`);
+      let mobileData=await axios.get(`https://e-commercebackend-h0ag.onrender.com/mobile`);
       setMobile(mobileData.data.length)
     } catch (err) {
       console.log("errr");

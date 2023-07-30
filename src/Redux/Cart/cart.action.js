@@ -7,7 +7,7 @@ export const cardDataGet = (id) => async (dispatch) => {
   console.log("id",id)
   dispatch({ type: CART_LOADING });
   try {
-    let res = await axios.get(`http://localhost:8080/users/${id}`);
+    let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/users/${id}`);
 
     dispatch({ type: CART_SUCCESS, payload: res.data });
   } catch (err) {

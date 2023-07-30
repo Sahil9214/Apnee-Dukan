@@ -16,14 +16,22 @@ import {
   useColorModeValue,
   Box,
   Stack,
+  useToast,
 } from "@chakra-ui/react";
 const AdminMobile = () => {
   const [page, setPage] = useState(1);
   const mobile = useSelector((store) => store?.mobileReducer);
   const dispatch = useDispatch();
-
+  const toast = useToast();
   const handleDelete = (id) => {
     dispatch(deleteMobile(id));
+    toast({
+      title: "Mobile Delete.",
+      description: "Mobile Delete Successfull",
+      status: "success",
+      duration: 9000,
+      isClosable: true,
+    });
   };
   useEffect(() => {
     dispatch(getMobile(page));

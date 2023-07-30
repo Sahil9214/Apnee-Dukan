@@ -11,7 +11,7 @@ import axios from "axios";
 export const getMobile = (page) => async (dispatch) => {
   dispatch({ type: ADMIN_MOBILE_LOADING });
   try {
-    let res = await axios.get(`http://localhost:8080/mobiles?_page=${page}&_limit=5`);
+    let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/mobiles?_page=${page}&_limit=5`);
     dispatch({ type: ADMIN_MOBILE_SUCCESS, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_MOBILE_ERROR });
@@ -23,7 +23,7 @@ export const getMobile = (page) => async (dispatch) => {
 export const postMobile = (obj) => async (dispatch) => {
   dispatch({ type: ADMIN_MOBILE_LOADING });
   try {
-    let res = await axios.post(`http://localhost:8080/mobile`, obj);
+    let res = await axios.post(`https://e-commercebackend-h0ag.onrender.com/mobile`, obj);
     dispatch({ type: ADD_ADMIN_MOBILE, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_MOBILE_ERROR });
@@ -34,7 +34,7 @@ export const postMobile = (obj) => async (dispatch) => {
 export const editMobile = (id,obj) => async (dispatch) => {
   dispatch({ type: ADMIN_MOBILE_LOADING });
   try {
-    let res = await axios.patch(`http://localhost:8080/mobile/${id}`, obj);
+    let res = await axios.patch(`https://e-commercebackend-h0ag.onrender.com/mobile/${id}`, obj);
     dispatch({ type: EDIT_ADMIN_MOBILE, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_MOBILE_ERROR });
@@ -45,7 +45,7 @@ export const editMobile = (id,obj) => async (dispatch) => {
 export const deleteMobile = (id) => async (dispatch) => {
   dispatch({ type: ADMIN_MOBILE_LOADING });
   try {
-    let res = await axios.delete(`http://localhost:8080/mobile/${id}`);
+    let res = await axios.delete(`https://e-commercebackend-h0ag.onrender.com/mobile/${id}`);
     dispatch({ type: DELETE_ADMIN_MOBILE, payload: id });
   } catch (err) {
     dispatch({ type: ADMIN_MOBILE_ERROR });

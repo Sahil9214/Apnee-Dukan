@@ -48,7 +48,7 @@ const PaymentSection = () => {
 
   const getData = async () => {
     try {
-      let res = await axios(`http://localhost:8080/users/${val}`);
+      let res = await axios(`https://e-commercebackend-h0ag.onrender.com/users/${val}`);
 
       let value = res.data?.cart?.reduce((acc, el) => {
         return acc + el.price;

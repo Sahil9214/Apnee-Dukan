@@ -23,7 +23,7 @@ const Men = () => {
   const getData = async () => {
     try {
       let res = await axios.get(
-        `  http://localhost:8080/women?_page=${page}&_limit=5`,
+        `  https://e-commercebackend-h0ag.onrender.com/women?_page=${page}&_limit=5`,
         {
           params: {
             brand: searchParams.get("brand") || undefined,
@@ -43,7 +43,7 @@ const Men = () => {
   const handleSort = async (e) => {
     try {
       let res = await axios.get(
-        `  http://localhost:8080/men?_page=${page}&_limit=5&_sort=price&_order=${e.target.value}`
+        `  https://e-commercebackend-h0ag.onrender.com/men?_page=${page}&_limit=5&_sort=price&_order=${e.target.value}`
       );
       setNum(res.data.length);
       setData(res.data);

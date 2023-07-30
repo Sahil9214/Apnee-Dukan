@@ -8,7 +8,7 @@ const Books1 = () => {
   const [page, setPage] = useState(1);
   const getData = async () => {
     try {
-      let res = await axios.get(`http://localhost:8080/Books`);
+      let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/Books`);
       setData(res.data);
       setNum(res.data.length);
     } catch (err) {

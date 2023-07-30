@@ -12,7 +12,7 @@ import axios from "axios";
 export const getMenData = (page) => async (dispatch) => {
   dispatch({ type: ADMIN_MEN_LOADING });
   try {
-    let res = await axios.get(`http://localhost:8080/men?_page=${page}&_limit=5`);
+    let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/men?_page=${page}&_limit=5`);
     dispatch({ type: ADMIN_MEN_SUCCESS, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_MEN_ERROR });
@@ -23,7 +23,7 @@ export const getMenData = (page) => async (dispatch) => {
 export const postMenData = (obj) => async (dispatch) => {
   dispatch({ type: ADMIN_MEN_LOADING });
   try {
-    let res = await axios.get(`http://localhost:8080/men`, obj);
+    let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/men`, obj);
     dispatch({ type: ADD_ADMIN_MEN, payload: res.data });
   } catch (err) {
     dispatch({ type: ADMIN_MEN_ERROR });
@@ -34,7 +34,7 @@ export const postMenData = (obj) => async (dispatch) => {
 export const editMenData = (id, obj) => async (dispatch) => {
   dispatch({ type: ADMIN_MEN_LOADING });
   try {
-    await axios.patch(`http://localhost:8080/men/${id}`, obj);
+    await axios.patch(`https://e-commercebackend-h0ag.onrender.com/men/${id}`, obj);
     dispatch({ type: EDIT_ADMIN_MEN, payload: id });
   } catch (err) {
     dispatch({ type: ADMIN_MEN_ERROR });
@@ -45,7 +45,7 @@ export const editMenData = (id, obj) => async (dispatch) => {
 export const deleteMenData = (id) => async (dispatch) => {
   dispatch({ type: ADMIN_MEN_LOADING });
   try {
-    await axios.delete(`http://localhost:8080/men/${id}`);
+    await axios.delete(`https://e-commercebackend-h0ag.onrender.com/men/${id}`);
     dispatch({ type: DELETE_ADMIN_MEN, payload: id });
   } catch (err) {
     dispatch({ type: ADMIN_MEN_ERROR });

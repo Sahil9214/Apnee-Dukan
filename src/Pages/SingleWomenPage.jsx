@@ -33,7 +33,7 @@ export default function SingleWomenPage() {
 
   const getData = async () => {
     try {
-      let res = await axios.get(`http://localhost:8080/women/${id}`);
+      let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/women/${id}`);
       setData(res.data);
     } catch (err) {
       console.log("err", err);
@@ -42,11 +42,11 @@ export default function SingleWomenPage() {
   let userId = JSON.parse(localStorage.getItem("id"));
   const handleCart = async () => {
     try {
-      let res = await axios.get(`http://localhost:8080/users/${userId}`);
+      let res = await axios.get(`https://e-commercebackend-h0ag.onrender.com/users/${userId}`);
       let userData = res.data;
       userData.cart.push(data);
       let updateRes = await axios.put(
-        `http://localhost:8080/users/${userId}`,
+        `https://e-commercebackend-h0ag.onrender.com/users/${userId}`,
         userData
       );
       let updatedUserData = updateRes.data;

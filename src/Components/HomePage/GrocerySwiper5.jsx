@@ -16,7 +16,7 @@ export default function GrocerySwiper5() {
   const [data, setData] = useState([]);
   const getData = async () => {
     try {
-      let res = await axios(`http://localhost:8080/groceries`);
+      let res = await axios(`https://e-commercebackend-h0ag.onrender.com/groceries`);
       setData(res.data);
     } catch (err) {
       console.log("err", err);

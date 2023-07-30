@@ -25,7 +25,7 @@ const Books = () => {
   const getData = async () => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/Bookes?_page=${page}&_limit=5`
+        `https://e-commercebackend-h0ag.onrender.com/Bookes?_page=${page}&_limit=5`
       );
 
       setData(res.data);
@@ -37,7 +37,7 @@ const Books = () => {
   const handleFilter = async (e) => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/Bookes?_page=${page}&_limit=5&genre=${e.target.value}`
+        `https://e-commercebackend-h0ag.onrender.com/Bookes?_page=${page}&_limit=5&genre=${e.target.value}`
       );
 
       setData(res.data);
@@ -48,7 +48,7 @@ const Books = () => {
   const handleSort = async (e) => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/Bookes?_page=${page}&_limit=5&_sort=price&_order=${e.target.value}`
+        `https://e-commercebackend-h0ag.onrender.com/Bookes?_page=${page}&_limit=5&_sort=price&_order=${e.target.value}`
       );
 
       setData(res.data);
@@ -59,7 +59,7 @@ const Books = () => {
   const handleRating = async (e) => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/Bookes?_page=${page}&_limit=5&rating=${e.target.value}`
+        `https://e-commercebackend-h0ag.onrender.com/Bookes?_page=${page}&_limit=5&rating=${e.target.value}`
       );
 
       setData(res.data);
@@ -71,7 +71,7 @@ const Books = () => {
   const handleSearch = async (e) => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/Bookes?_page=${page}&_limit=5&author=${e.target.value}`
+        `https://e-commercebackend-h0ag.onrender.com/Bookes?_page=${page}&_limit=5&author=${e.target.value}`
       );
 
       setData(res.data);
@@ -83,7 +83,7 @@ const Books = () => {
   const handleTitle = async (e) => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/Bookes?_page=${page}&_limit=5&title=${e.target.value}`
+        `https://e-commercebackend-h0ag.onrender.com/Bookes?_page=${page}&_limit=5&title=${e.target.value}`
       );
 
       setData(res.data);

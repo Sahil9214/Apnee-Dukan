@@ -97,7 +97,7 @@ const AdminSideBar = () => {
             <FcAddDatabase height="20px" />
           </Box>
           <Box>
-            <Link to="/adminaddproduct">
+            <Link to="/addproduct">
               {" "}
               <Text
                 style={{

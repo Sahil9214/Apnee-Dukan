@@ -45,13 +45,30 @@ export const reducer = (state = initialState, { type, payload }) => {
     }
     case DELETE_ADMIN_GROCERY: {
       const deleteData = state.grocery.filter((el) => el.id !== payload);
-      console.log("asjasagsyww",deleteData)
+      console.log("asjasagsyww", deleteData);
       return {
         ...state,
         isLoading: false,
         grocery: deleteData,
       };
     }
+
+    case EDIT_ADMIN_GROCERY: {
+      console.log("edit", payload);
+      const editGrocery = state.grocery.map((item) => {
+        if (item.id === payload.id) {
+          return { ...item, ...payload.obj };
+        }
+        return item;
+      });
+      console.log("edit", editGrocery);
+      return {
+        ...state,
+        isLoading: false,
+        grocery: editGrocery,
+      };
+    }
+
     default: {
       return state;
     }

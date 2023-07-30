@@ -10,7 +10,7 @@ const Grocery1 = () => {
   const getData = async () => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/groceries?_page=${page}&_limit=10`
+        `https://e-commercebackend-h0ag.onrender.com/groceries?_page=${page}&_limit=10`
       );
       setData(res.data);
       setNum(res.data.length);
@@ -22,7 +22,7 @@ const Grocery1 = () => {
   const handleSort = async (e) => {
     try {
       let res = await axios.get(
-        `http://localhost:8080/groceries?_sort=price&_order=${e.target.value}`
+        `https://e-commercebackend-h0ag.onrender.com/groceries?_sort=price&_order=${e.target.value}`
       );
       setData(res.data);
       setNum(res.data.length);
