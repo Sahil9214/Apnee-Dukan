@@ -98,4 +98,14 @@
 The homepage is one of the most important factors which is also known by the name of the Landing Page. There are different kinds of Products and popular services mentioned here. Take a look at it.
 
 ![image](https://github.com/masai-course/utkarsh_fw20_1149/assets/106021674/51ae405d-45f6-4589-b4c4-c6d1df39c903)
-           
+
+### Navbar
+
+Navigation Bar is the topmost layer or bar of our website. In this bar, you find various types of the menus like Mobile & Tablets, Men Clothing, Women's Clothing, Computer, Home Appliances, Accessories, etc.
+
+![image](https://user-images.githubusercontent.com/97522154/214004921-ac555b3a-248a-41b5-8b55-7d8ab017e9bc.png)
+### Small Screen : 
+
+![image](https://user-images.githubusercontent.com/97522154/214005398-f128c69b-cced-40d0-8c2a-6aed5330035d.png)
+
+It is a cart Page where you find the different kinds of products which products you added to your cart. Take a look at that.           
