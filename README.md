@@ -44,13 +44,48 @@
         <li><strong>Front-end:</strong>
             <ul>
                 <li>HTML5, CSS3, and JavaScript</li>
-                <li>Front-end framework (e.g., React)</li>
+                <li>Front-end framework ( React)</li>
              <li>Library Used (Redux, Chakra ui,chart.js )</li>
             </ul>
         </li>
         <li><strong>Back-end:</strong>
-            <ul>
-                <li>Server-side language (e.g., Node.js, Python, Ruby)</li>
-            </ul>
-   
+        </li>
+ </ul>
+   <h2>Deployment</h2>
+
+<p>The E-Commerce Website has been deployed using the following platforms:</p>
+
+<h3>Front-end:</h3>
+<p>The front-end application is deployed on <a href="https://vercel.com/">Vercel</a>. Vercel provides a seamless and
+        easy-to-use platform for deploying static sites and front-end applications.</p>
+
+<h3>Back-end:</h3>
+<p>The back-end server is deployed on <a href="https://render.com/">Render</a>. Render is a cloud service that offers
+        a hassle-free and scalable platform for deploying web applications and APIs.</p>
+
+<p>You can access the deployed E-Commerce Website at the following URLs:</p>
+
+<h3>Front-end URL:</h3>
+<p><a href="https://your-e-commerce-website.vercel.app">https://your-e-commerce-website.vercel.app</a></p>
+
+<h3>Back-end URL:</h3>
+    <p><a href="https://your-backend-server.onrender.com">https://your-backend-server.onrender.com</a></p>  <h2>Deployment</h2>
+
+  <p>The E-Commerce Website has been deployed using the following platforms:</p>
+
+   <h3>Front-end:</h3>
+    <p>The front-end application is deployed on <a href="https://vercel.com/">Vercel</a>. Vercel provides a seamless and
+        easy-to-use platform for deploying static sites and front-end applications.</p>
+
+   <h3>Back-end:</h3>
+    <p>The back-end server is deployed on <a href="https://render.com/">Render</a>. Render is a cloud service that offers
+        a hassle-free and scalable platform for deploying web applications and APIs.</p>
+
+ <p>You can access the deployed E-Commerce Website at the following URLs:</p>
+
+ <h3>Front-end URL:</h3>
+    <p><a href="https://your-e-commerce-website.vercel.app">https://your-e-commerce-website.vercel.app</a></p>
+
+  <h3>Back-end URL:</h3>
+    <p><a href="https://your-backend-server.onrender.com">https://your-backend-server.onrender.com</a></p>  
            
