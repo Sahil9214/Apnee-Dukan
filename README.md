@@ -1,13 +1,8 @@
-<!-- <h1>Project Name - Apnee Dukan</h1> -->
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
+  
     <title>E-Commerce Website (Apnee Dukan)</title>
-  </head>
+ 
 
-  <body>
     <h1>E-Commerce(Apnee Dukan) Website</h1>
 
     <h2>Introduction</h2>
