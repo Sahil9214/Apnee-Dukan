@@ -104,10 +104,11 @@ The homepage is one of the most important factors which is also known by the nam
 Navigation Bar is the topmost layer or bar of our website. In this bar, you find various types of the menus like Mobile & Tablets, Men Clothing, Women's Clothing, Computer, Home Appliances, Accessories, etc.
 ## Cart Page 
 
-The cart Page have all the product which you want to buy. In the Product Page, you have to click on add to cart. The product will be added to the cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply check out by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
+The cart Page has all the products which you want to buy. On the Product Page, you have to click on add to cart. The product will be added to the cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply check out by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
 
 ![image](https://github.com/masai-course/utkarsh_fw20_1149/assets/106021674/35e5be3e-498b-48ac-ad38-f5c7bb8b77cf)
+It is a cart Page where you find the different kinds of products which products you added to your cart. Take a look at that. 
 
-### Small Screen : 
-
-It is a cart Page where you find the different kinds of products which products you added to your cart. Take a look at that.           
+## Payment Page
+The Payment Page is a crucial component of our E-Commerce Website, allowing customers to securely complete their purchases. It provides a simple and intuitive interface for users to enter their payment details, including card number, cardholder name, expiry date, and CVV. The payment information is securely transmitted and processed through integration with a trusted payment gateway, ensuring the safety of customer data. Upon successful payment, customers receive a confirmation message, and the order is processed for fulfillment. The Payment Page is designed with user convenience and security in mind, providing a seamless checkout experience for our valued customers.
+![image](https://github.com/masai-course/utkarsh_fw20_1149/assets/106021674/82487b4e-df8e-4381-93bf-0f6ff32341f4)
