@@ -74,18 +74,28 @@
   <p>The E-Commerce Website has been deployed using the following platforms:</p>
 
    <h3>Front-end:</h3>
-    <p>The front-end application is deployed on <a href="https://vercel.com/">Vercel</a>. Vercel provides a seamless and
+    <p>The front-end application is deployed on <a href="e-commerce-sahil9214.vercel.app">Vercel</a>. Vercel provides a seamless and
         easy-to-use platform for deploying static sites and front-end applications.</p>
 
    <h3>Back-end:</h3>
-    <p>The back-end server is deployed on <a href="https://render.com/">Render</a>. Render is a cloud service that offers
+    <p>The back-end server is deployed on <a href="https://e-commercebackend-h0ag.onrender.com/">Render</a>. Render is a cloud service that offers
         a hassle-free and scalable platform for deploying web applications and APIs.</p>
 
  <p>You can access the deployed E-Commerce Website at the following URLs:</p>
+  ## Functionalities
+ 
+ <ul dir="auto">
+ 
+ <ol dir="auto">1. Cart Functionality (like adding an item and removing) </ol>
+ <ol dir="auto">2. Admin Page</ol>
+ <ol dir="auto">3. Admin can add a product Will be shown on the latest page </ol>
+ <ol dir="auto">4. Login and Sign Up </ol>
+ </ul>
+## Features & Specifications
 
- <h3>Front-end URL:</h3>
-    <p><a href="https://your-e-commerce-website.vercel.app">https://your-e-commerce-website.vercel.app</a></p>
+### Homepage
 
-  <h3>Back-end URL:</h3>
-    <p><a href="https://your-backend-server.onrender.com">https://your-backend-server.onrender.com</a></p>  
+The homepage is one of the most important factors which is also known by the name of the Landing Page. There are different kinds of Products and popular services mentioned here. Take a look at it.
+
+![image](https://github.com/masai-course/utkarsh_fw20_1149/assets/106021674/51ae405d-45f6-4589-b4c4-c6d1df39c903)
            
