@@ -102,10 +102,12 @@ The homepage is one of the most important factors which is also known by the nam
 ### Navbar
 
 Navigation Bar is the topmost layer or bar of our website. In this bar, you find various types of the menus like Mobile & Tablets, Men Clothing, Women's Clothing, Computer, Home Appliances, Accessories, etc.
+## Cart Page 
 
-![image](https://user-images.githubusercontent.com/97522154/214004921-ac555b3a-248a-41b5-8b55-7d8ab017e9bc.png)
+The cart Page have all the product which you want to buy. In the Product Page, you have to click on add to cart. The product will be added to the cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply check out by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
+
+![image](https://github.com/masai-course/utkarsh_fw20_1149/assets/106021674/35e5be3e-498b-48ac-ad38-f5c7bb8b77cf)
+
 ### Small Screen : 
-
-![image](https://user-images.githubusercontent.com/97522154/214005398-f128c69b-cced-40d0-8c2a-6aed5330035d.png)
 
 It is a cart Page where you find the different kinds of products which products you added to your cart. Take a look at that.           
