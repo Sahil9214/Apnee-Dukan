@@ -3,9 +3,9 @@
  <p>Welcome to our E-Commerce Website project! This project aims to create a feature-rich and user-friendly online  shopping platform that offers a wide range of products, including groceries, books, mobile phones, laptops, and
         clothing for both men and women.
       </p>
-   <br/>
+   
    <hr>
-   <br/>
+   
  <h2>Table of Contents</h2>
     <ol>
         <li><a href="#project-overview">Project Overview</a></li>
