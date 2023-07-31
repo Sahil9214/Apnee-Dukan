@@ -39,3 +39,18 @@
         <li><strong>Admin Panel:</strong> An admin panel is provided to manage products, inventory, and user accounts.
             Admins can also view and process orders.</li>
     </ul>
+<h2 id='Technology Used'>Technology used</h2>
+ <ul>
+        <li><strong>Front-end:</strong>
+            <ul>
+                <li>HTML5, CSS3, and JavaScript</li>
+                <li>Front-end framework (e.g., React)</li>
+             <li>Library Used (Redux, Chakra ui,chart.js )</li>
+            </ul>
+        </li>
+        <li><strong>Back-end:</strong>
+            <ul>
+                <li>Server-side language (e.g., Node.js, Python, Ruby)</li>
+            </ul>
+   
+           
